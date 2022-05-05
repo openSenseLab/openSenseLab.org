@@ -1,0 +1,15 @@
+<div class="l__blog__paginator container">
+  <div class="row no-gutters justify-content-end">
+    {{ if .HasPrev }}
+    <a href="{{ .Prev.URL }}" class="l__blog__paginator__btn">
+      <span class="l__paginator__arrow--l">←</span><span>{{ i18n "blog_prev"}}</span>
+    </a>
+    {{ end }}
+    {{ if .HasNext }}
+    <a href="{{ .Next.URL }}" class="l__blog__paginator__btn">
+      <span>{{ i18n "blog_next" }}</span><span class="l__paginator__arrow--r">→</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+\

@@ -1,0 +1,117 @@
+{{ define "title"}}
+<title>openSenseLab gGmbH</title>
+{{ end }}
+
+{{ define "head" }}
+<meta property="og:title" content="OKF DE" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://okfn.de" />
+{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="l__home">
+    <div class="container mb-d">
+      <div class="row">
+        <div class="col col-12 col-md-11">
+          <h1>{{ .Params.blurb }}</h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="container l__content mb-l">
+      <div class="row align-items-center">
+        <div class="col col-12 col-sm-7 col-md-8 l__home__img">
+          <figure class="license">
+            <img src="/okf/profil/profil_teaser_2.jpeg" alt="">
+            <figcaption>Foto: <a href="://tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/28768630798/in/album-72157667831731487/">Eliza meets Tay: Debatten auf Twitter analysieren</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+          </figure>
+          <figure class="license">
+            <img src="/okf/profil/profil_teaser_1.jpeg" alt="" class="d-none d-lg-block">
+            <figcaption>Foto: Jürgen Grünwald, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/">Jugend hackt in Österreich 2017</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption>
+          </figure>
+        </div>
+        <div class="col col-12 col-sm-5 col-md-4">
+          <p>{{ .Params.work }}</p>
+          <p>{{ with .Site.GetPage "/profil" }}
+            <a href="{{ .Permalink }}" class="linked">
+              {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <section class="container mt-l">
+      <div class="row justify-between align-items-baseline">
+        <div class="col col-10 col-sm-9 col-lg-10 mb-s">
+          <h2>{{ i18n "home_our_projects"}}</h2>
+        </div>
+        <div class="col col-12 col-md-3 col-lg-2">
+          <p>{{ with .Site.GetPage "/projekte" }}
+            <a href="{{ .Permalink }}" class="linked">
+              {{ i18n "home_all_projects" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
+        </div>
+      </div>
+      <div>
+        <ul class="l__projects__list--home mb-l">
+          {{ $lang := .Lang }}
+          {{ range first 6 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
+          <li class="col col-12 col-xs-6 col-md-4 l__projects__item">
+            <a  href="{{.Permalink}}" class="c__tile c__tile--single" style="background-image: url(/files/{{.Params.img}})" title="{{.Title}}">
+              <h2 class="h3 c__tile__title">{{.Title}}</h2>
+              <div class="c__tile__overlay">
+                <h2 class="h3 c__tile__title">{{.Title}}</h2>
+                {{ with .Params.subtitle}}<p class="c__tile__subtitle">{{.}}</p>{{ end }}
+              </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </section>
+
+    <section class="l__content__bg--grey l__home__donate">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 col-sm-6 col-md-4 col-lg-3 l__home__donate__img">
+            <img src="/okf/verein/spenden.png" alt="Spenden Illustration" width="255">
+          </div>
+          <div class="col col-12 col-sm-6 col-md-6 offset-md-1 col-lg-6 offset-lg-2 l__content ">
+            <h3>{{ .Params.donate_title }}</h3>
+            <p>{{ .Params.donate_text}}</p>
+            <p>{{ with .Site.GetPage "/spenden" }}
+              <a href="{{ .Permalink }}" class="linked">
+                {{ i18n "home_donate" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container mt-l mb-l">
+      <div class="row justify-between">
+        <div class="col col-10 mb-s">
+          <h2>{{ i18n "home_blog_news" }}</h2>
+        </div>
+        {{- partial "featured_post.html" . -}}
+
+        <ul class="l__blog__posts container mt-s">
+          {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
+          {{- partial "post_item.html" . -}}
+          {{ end }}
+        </ul>
+      </div>
+
+      <div class="mt-s">
+        <p>{{ with .Site.GetPage "/blog" }}
+          <a href="{{ .Permalink }}" class="linked">
+            {{ i18n "home_all_posts" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
+      </div>
+  </div>
+    </section>
+</main>
+{{ end }}

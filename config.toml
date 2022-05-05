@@ -1,0 +1,75 @@
+baseURL = "/"
+languageCode = "de-DE"
+title = "opensenselab"
+defaultContentLanguage = "de"
+enableRobotsTXT = true
+
+[params]
+  twitter = "opensenselab"
+
+[permalinks]
+  blog = 'blog/:year/:month/:slug/'
+  tags = 'tags/:slug/'
+  authors = 'authors/:slug/'
+
+[taxonomies]
+  tags = 'tags'
+  authors = 'authors'
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = 'authors'
+weight =  80
+  [[related.indices]]
+    name = 'date'
+    weight = 40
+    pattern = 2006
+  [[related.indices]]
+    name = 'tags'
+    weight = 60
+
+[mediaTypes]        
+  [mediaTypes."application/atom"]
+    suffixes = ["xml"]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+
+[outputFormats]
+  [outputFormats.Atom]
+    mediaType = "application/atom"
+    baseName = "atom"
+    isPlainText = false
+  [outputFormats.Rss]
+    mediaType = "application/rss+xml"
+    basename = "rss"
+    isPlainText = false
+  [outputFormats.Json]
+    mediaType = "application/json"
+    baseName = "index"
+
+[languages]
+  [languages.de]
+    title = "OKF"
+    languageName = "DE" 
+    weight = 1
+  [languages.en]
+    title = "OKF DE"
+    languageName = "EN"
+    weight = 2
+    
+  
+[outputs]
+home = ["HTML", "Json"]
+section = [ "HTML", "Atom", "Json", "Rss" ]
+
+[frontmatter]
+date  = [":filename", ":default"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,104 @@
+- id: home_about_work
+  translation: "About our work"
+- id: home_all_projects
+  translation: "See all projects"
+- id: home_our_projects
+  translation: "Our projects"
+- id: home_donate
+  translation: "Donate now"
+- id: home_all_posts
+  translation: "All posts"
+- id: home_blog_news
+  translation: "From our blog"
+- id: footer_contact
+  translation: "Contact"
+- id: footer_signup
+  translation: "signup"
+- id: search
+  translation: "Search"
+- id: search_open
+  translation: "Open search"
+- id: search_close
+  translation: "Close search"
+- id: search_field_label
+  translation: "Search field"
+- id: search_field_placeholder
+  translation: "What are you looking for?"
+- id: projects
+  translation: "Projects"
+- id: projects_all
+  translation: "All"
+- id: projects_other
+  translation: "Other projects"
+- id: projects_archive
+  translation: "Completed projects"
+- id: project_year
+  translation: "Years"
+- id: project_more
+  translation: "Want to know more?"
+- id: project_person
+  translation: "people"
+- id: project_financing
+  translation: "Financing"
+- id: topics_more
+  translation: "Learn more about"
+- id: blog_search
+  translation: "Search blog"
+- id: blog_search_verb
+  translation: "search"
+- id: blog_next
+  translation: "Older"
+- id: blog_prev
+  translation: "Newer"
+- id: job_current
+  translation: "Current openings"
+- id: donation_owner
+  translation: "Account holder"
+- id: topics_projects
+  translation: "Related projects"
+- id: itz_text
+  translation: "We are signatories to the Transparent Civil Society Initiative. We are also awarded with Phineo's Impact Label. This validates our impact to date, and ensures the proper use of the donations we receive in the future."
+- id: itz_link
+  translation: "Find out more"
+- id: itz_alt
+  translation: "Logo Transparent Civil Society Initiative"
+- id: newsletter_text
+  translation: "Our monthly newsletter keeps you up to date on our projects and activities, as well as upcoming events where you can find us!"
+- id: phineo_alt
+  translation: "Logo Phineo"
+- id: phineo_text
+  translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
+- id: phineo_link
+  translation: "More about Phineo"
+- id: learn_more
+  translation: Learn more
+- id: blog_search_js
+  translation: "JavaScript is required for searching the blog."
+- id: blog_search_label
+  translation: "Search for"
+- id: share
+  translation: "Share"
+- id: recommended_post
+  translation: "We can also recommend this post"
+- id: education
+  translation: "Education"
+- id: civic_tech
+  translation: "Civic Tech"
+- id: community
+  translation: "Community"
+- id: open_government
+  translation: "Open Government"
+- id: open_data
+  translation: "Open Data"
+- id: foi
+  translation: "Freedom of Information"
+- id: print
+  translation: "Print this page"
+- id: close
+  translation: Close
+- id: anniversary_banner_headline
+  translation: We're celebrating our tenth anniversary.
+- id: anniversary_one_new_project
+  translation: new project
+- id: anniversary_multiple_new_projects
+  translation: new projects

@@ -1,0 +1,75 @@
+.l__home
+  .linked
+    position: relative
+    svg
+      position: absolute
+      top: 3px
+      right: -20px
+      transition: transform 300ms ease
+    &:hover,
+    &:active
+      text-decoration: none
+      svg
+        transform: translateX(1em)
+
+  @include media-breakpoint-down(sm)
+    .mt-l
+      margin-top: 80px
+    .mb-l
+      margin-bottom: 80px
+  .container
+    max-width: $max-width
+    margin-left: auto
+    margin-right: auto
+    h1
+      @include media-breakpoint-up(sm)
+        font-size: 4rem
+      @include media-breakpoint-up(lg)
+        font-size: 5.2rem
+        line-height: 1.2
+
+
+.l__home__img
+  position: relative
+  div
+    position: relative
+  img
+    width: 100%
+    height: auto
+  @include media-breakpoint-up(lg)
+    margin-bottom: 130px
+    figure:first-of-type
+      position: absolute
+      right: 6em
+      max-width: 460px
+      z-index: 1
+    figure:last-of-type
+      max-width: 475px
+      transform: translate(3em, 7em)
+
+
+.l__home__donate__img
+  text-align: center
+  @include media-breakpoint-up(lg)
+    img
+      width: 100%
+
+@include media-breakpoint-up(lg)
+  .l__home__donate
+    position: relative
+    padding: 3em 0
+    margin-top: 150px
+    margin-bottom: 240px
+
+  .l__home__donate__img
+    img
+      position: absolute
+      top: -16em
+
+@include media-breakpoint-down(xs)
+  .l__home
+    .l__projects__list--home
+      .l__projects__item
+          padding: 0
+          &:first-child
+            margin-top: 1.15em

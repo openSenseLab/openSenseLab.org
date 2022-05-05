@@ -1,0 +1,93 @@
+.l__profile
+  p
+    line-height: 1.5
+    font-size: 1.1em
+    margin-bottom: $space
+
+    @media print
+      margin-bottom: 10px
+  h2
+    margin: 2em 0 0.25em 0
+
+    @media print
+      margin-top: 0.5em
+  img
+    width: 100%
+    height: auto
+
+  .row + .row
+    margin-top: $space
+    @media print
+      margin-top: 0
+
+  @media print
+    margin-top: $space-half
+
+.l__profile__section
+  margin: $space-double 0
+
+  @media print
+    margin: 0
+
+    .row
+      margin-left: 0
+      padding-left: 0
+    
+    .col.col-12
+      width: 100%
+      max-width: none
+      flex: 0 0 100%
+      position: static
+      margin-left: 0
+      padding-left: 0
+      @include avoid-break()
+
+    figure
+      display: none
+
+.l__profile__aside
+  margin: 120px 0
+
+  @media print
+    margin: $space-double 0
+
+.c__additional
+  img
+    max-height: 364px
+    width: 100%
+    object-fit: cover
+    @media print
+      max-height: 250px
+  @include media-breakpoint-up(md)
+    max-height: 364px
+    overflow: hidden
+    img
+      width: auto
+
+.c__additional__info
+  padding: $space $space-double $space $space
+  background-color: #e1eafb
+  @include media-breakpoint-up(md)
+    height: 364px
+  h3
+    font-size: 1.4rem
+    @include media-breakpoint-up(xl)
+      font-size: 1.65rem
+    
+  h3 + p
+    margin-top: $space
+  a
+    font-size: 18px
+    font-weight: 400
+    padding-bottom: 1px
+    border-bottom: 2px solid transparent
+    transition: all 300ms ease-in-out
+  a:hover,
+  a:active
+    color: $anchor
+    text-decoration: none
+    padding-bottom: 1px
+    border-bottom: 2px solid $anchor
+
+.print-page
+  text-align: right

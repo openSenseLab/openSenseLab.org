@@ -1,0 +1,71 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+  {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
+
+  <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+  {{ with .Params.meta }}
+    <meta property="og:description" content="{{.}}">
+    <meta name="description" content="{{.}}">
+    <meta name="twitter:description" content="{{ truncate 200 .}}">
+  {{ end }}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+  <meta name="twitter:title" content="{{ .Title }}">
+
+  {{ with .Params.img_header }}
+    <meta property="og:image" content="{{ . }}" />
+    <meta name="twitter:image" content="{{ . }}">
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <header class="l__blog__header container align-items-end">
+    <div class="row align-items-end">
+      <h1 class="col col-5 col-sm-9 col-lg-10">{{ .Title }}</h1>
+      <div class="l__blog__search col col-7 col-sm-3 col-lg-2">
+        <noscript>{{ i18n "blog_search_js" }}</noscript>
+        <label class="sr-only" for="js-blog-search-input">{{ i18n "blog_search" }}</label>
+        <input id="js-blog-search-input" type="text" value="" placeholder='{{ i18n "blog_search_verb"}}'>
+      </div>
+    </div>
+  </header>
+
+  {{ if eq .Lang "en"}}
+  <div class="container mb-d">
+    <div class="row">
+      <p class="col col-sm-10 col-md-6">Please note that we usually do not translate our blog posts. <br>For this reason we're displaying all blog posts regardless of their language.</p>
+    </div>
+  </div>
+  {{ end }}
+
+
+
+  <div id="js-blog-index">
+    {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
+
+    {{ if eq $nate.HasPrev false}}
+    {{- partial "featured_post.html" . -}}
+    {{ end }}
+
+    <ul class="l__blog__posts container mt-d">
+      {{ range $nate.Pages }}
+      {{ if eq .Kind "page"}}
+      {{- partial "post_item.html" . -}}
+      {{ end }}
+      {{ end }}
+    </ul>
+
+    {{- partial "paginator.html" $nate -}}
+  </div>
+</main>
+{{ end }}

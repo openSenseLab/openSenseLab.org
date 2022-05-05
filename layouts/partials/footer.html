@@ -1,0 +1,63 @@
+<footer class="l__footer">
+  <div class="printer-hidden">
+    <div class="l__inner">
+      <section class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2">
+        <h2>{{ i18n "footer_contact" }}</h2>
+        <p>openSenseLab gGmbH<br>
+         
+        <p>
+          Von-Steuben-Str. 21<br>
+          48143 Münster</p>
+        <p>0251 / 98 29 88 67<br>
+          info@opensenselab.org</p>
+      </section>
+      <section class="col col-10 col-sm-10 col-md-7 order-1">
+        <!-- <h2>Newsletter</h2>
+        <p>{{ i18n "newsletter_text" }}</p>
+        {{- partial "newsletter" -}} -->
+      </section>
+      <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3">
+        {{- partial "footer-nav" . -}}
+      </nav>
+      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-3">
+        {{- partial "social-media" . -}}
+      </div>
+
+      <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5">
+        {{ if eq .Lang "de" }}
+        <p>Wir verwenden die datenschutzfreundliche Technologie von <a href="https://matomo.org/">Matomo</a>, um
+          statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies nicht wollen, <a
+            href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">können Sie hier den
+            Haken entfernen</a>. <br>Näheres in unserer <a
+            href="/impressum/#datenschutzerklärung">Datenschutzerklärung</a>.</p>
+        <p>Die openSenseLab gGmbH ist eine gemeinnüztige Gesellschaft mit Beschränkter Haftung mit dem Ziel 
+          
+          
+          Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die
+          Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a
+            href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert. </p>
+        {{ else }}
+        <p>We use <a href="https://matomo.org/">Matomo's</a> privacy-friendly technology for statistical analysis of
+          site usage. If you do not want this, <a
+            href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">you can remove the
+            tick here</a>. See our <a href="/en/impressum/#privacy-policy">privacy policy</a> for more information.</p>
+        <p>Open Knowledge Foundation Deutschland e.V. is a non-profit association, register of associations no. VR 30468
+          B. Unless otherwise stated, the contents of this website are licensed under <a
+            href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>. </p>
+        {{ end }}
+      </div>
+      <div class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s">
+        {{ with .Site.GetPage "/transparenz" }}
+        <a href="{{.Permalink}}">
+          <img src="/okf/logo_itz_footer.jpg" alt='{{ i18n "itz_alt" }}' width="227" height="110">
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="printer-only">
+    <p>
+      openSenseLab gGmbH | Von-Steuben-Str. 21 - 48143 Münster | info@opensenselab.org | www.opensenselab.org
+    </p>
+  </div>
+</footer>

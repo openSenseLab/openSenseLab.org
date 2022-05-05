@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{- partial "head.html" . -}}
+    {{- block "title" .}}{{- end }}
+    {{- block "head" .}}{{- end }}
+  </head>
+  <body class="no-js rebuildall">
+    {{- partial "header.html" . -}}
+    {{- partial "site-search" . -}}
+    <main id="content" name="content">
+      <div class="">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+    {{- partial "footer.html" . -}}
+    {{- partial "matomo.html" . -}}
+    <!-- {{- partial "banner.html" . -}} -->
+  </body>
+</html>
