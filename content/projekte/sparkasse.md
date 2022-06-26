@@ -9,33 +9,29 @@ tile: single
 layout: project
 img: projects/opensensemap_overview.png
 img_header: projects/opensensemap.png
-website: https://opensensemap.org
+#website: https://muensterland-ost.spenden-ist-einfach.de/voting/nachhaltigkeits-voting/opensenselab-unterstuetze-junge-menschen-die-welt-gruener-zu-mac/project-promoter/
 # people:
 #   - name: Matthias Pfeil
 #     role: Entwickler
-contact:
-  twitter: opensensemap
-  facebook: 
-  github: https://github.com/sensebox/opensensemap
+#contact:
+#  twitter: opensensemap
+#  facebook: 
+#  github: https://github.com/sensebox/opensensemap
 
-subtitle: Die offene Plattform für Umweltdaten
-contact_person: maximilianvoigt
+subtitle: Kostenlose Lehrmaterialien und Tutorials
+contact_person: thomasbartoschek
 years: 2022 
-# partners:
-#  - Mediale Pfade
 financing:
   - Sparkasse Münsterland OST
 cta: Mitmachen
 cta_text: |-
   Die Möglichkeiten zum Mitmachen sind vielseitig. Alle Infos gibt es <a href="https://edulabs.de/join/">hier</a>.
 more_text: |-
-    Alle weiteren Infos gibt es ebenfalls auf der <a href="https://edulabs.de/">Website</a> von edulabs.
+    Alle weiteren Infos gibt es auf der Seite der <a href="https://muensterland-ost.spenden-ist-einfach.de/gemeinsam-nachhaltig/?project_list_type=3&voting_slug=nachhaltigkeits-voting&ordering=random&hide={%22hide_funded%22:false,%22hide_expired%22:false}&sort=-balance">Sparkasse Münsterland Ost</a>.
 
 ---
 
-# Offene Plattform für Umweltdaten
-Die wahrscheinlich größte offene Platt­form für Umwelt- und Sensordaten weltweit ermöglicht es allen Menschen kostenfrei auf umfangreiche Daten zuzugreifen, diese zu analysieren und eigene Messungen zu veröffentlichen. Dadurch ist ein einzigartiger Datensatz mit Echtzeitdaten überall auf der Welt entstanden, der nach­prüf­bare lokale wie globale Fakten zu Umwelt­phänomenen wie dem Klimawandel liefert.
+# Erstellung kostenloser Lehrmaterialien und Tutorials
+Das openSenseLab fördert junge Menschen, die Welt mit selbst gebauten und selbst programmierten Umweltstationen grüner zu machen. Sie entwickeln ihre eigene Vision einer besseren Gesellschaft und lernen dabei spielerisch zu programmieren und ihre digitalen Kompetenzen zu stärken. Wir regen junge Menschen zu nachhaltigem Konsum und Handeln an und fördern ihr Bewusstsein für die Auswirkungen ihres Handelns. Ein wichtiger Baustein sind Lehrmaterialien und Tutorials, die besonders Lehrer:innen und Schüler:innen zu Gute kommen und auch von vielen anderen Menschen, die an Umweltbildung interessiert sind, genutzt werden. Diese Materialien stellen wir als Open Educational Resources online zur Verfügung. Das bedeutet, dass diese mit einer offenen Lizenz veröffentlicht werden und frei für jede:n nutzbar sind. Um weitere kostenfreie Bildungsmaterialien zu erstellen, brauchen wir Unterstützung!
 
-## Digitales Tool für MINT und 21st Century Skills
-Mit unserer Bildungsarbeit wecken wir mit der openSenseMap.org Begeisterung für MINT-Fächer, -Studiengänge und -Berufe. Viele Kinder und Jugendliche haben ein großes Interesse an Umweltfragen und wir vermitteln spielerisch Kompetenzen, die zur Teilhabe in einer zunehmend digital geprägten Gesellschaft beitragen.
 

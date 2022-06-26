@@ -18,10 +18,11 @@
         {{ with .Site.GetPage "/profil" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/themen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/partner" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         <li><a href="/blog">Blog</a></li>
 
-        {{ $langList := (.Page.AllTranslations) }}
+        <!-- {{ $langList := (.Page.AllTranslations) }} //Language selector
         {{ $currentLang := .Language}}
         {{ $lenLangList := len $langList}}
         <li>{{ range $index, $translation := $langList }}
@@ -31,8 +32,8 @@
           <a href="{{ $translation.Permalink}}">EN</a>
           {{ end }}
           {{ end }}
-        </li>
-        <li class="l__search__btn">
+        </li> -->
+        <!-- <li class="l__search__btn"> remove searchBar for now
           <button class="" id="js-search-button">
             <span class="sr-only invisible">{{ i18n "search_open"}}</span>
             <span class="d-md-none fake-link">Suche</span>
@@ -40,7 +41,7 @@
               {{ readFile "static/files/icons/search.svg" | safeHTML }}
             </span>
           </button>
-        </li>
+        </li> -->
         {{ with .Site.GetPage "/spenden" }}<li><a class="c__donate-btn" href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
     </div>

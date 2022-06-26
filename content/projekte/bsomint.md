@@ -11,20 +11,16 @@ img: projects/bildungsangebote.jpeg
 img_header: projects/bildungsangebot.jpeg
 website: https://opensensemap.org
 people:
-  - name: Matthias Pfeil
-    role: Entwickler
-contact:
-  twitter: opensensemap
-  facebook: 
-  github: https://github.com/sensebox/opensensemap
+  - name: Mario Pesch
+    role: Organisation und Durchführung
 
-subtitle: Die offene Plattform für Umweltdaten
-contact_person: maximilianvoigt
-years: 2017 - heute
+subtitle: Berufs- und Studienorientierung für Schüler:innen aber der Jgst. 7
+contact_person: mariopesch  
+years: 2021 - heute
 partners:
- - Mediale Pfade
+ - Institut für Geoinformatik
 financing:
-  - BMBF
+  - ZDI 
 cta: Mitmachen
 cta_text: |-
   Die Möglichkeiten zum Mitmachen sind vielseitig. Alle Infos gibt es <a href="https://edulabs.de/join/">hier</a>.

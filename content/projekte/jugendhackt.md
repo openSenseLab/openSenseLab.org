@@ -6,44 +6,36 @@ kategorien:
 categories:
   - Education
   - Community
-tile: double
-tileclass: dark
+tile: single
+#tileclass: dark
+tileclass: mixed
 layout: project
 weight: 6
 title: Jugend hackt
 background: backgrounds/jugendhackt.jpg
-website: https://jugendhackt.org
-img: projects/Jugendhackt_Projektuebersicht_bigTile.png
+website: https://jugendhackt.org/lab/muenster/
+img: projects/jugendhackt/bunte_alpakas_karolina_kaczmarcyk-560x560.jpeg
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
-  - name: Nina Schröter
+  - name: Thomas Bartoschek
     role: Projektleitung
-  - name: Anne Ware
+  - name: Mario Pesch
     role: Projektleitung
-  - name: Philip Steffan
-    role: Community und Kommunikation
-  - name: Benjamin Laske
-    role: Bundesfreiwilligendienstleistender
-  - name: Ivan Botica
-    role: Studentischer Mitarbeiter Finanzen  
-contact_person: nina
-years: 2012 - heute
+contact_person: thomasbartoschek
+years: 2022 - heute
 partners:
   - mediale pfade e.V.
+  - okfn.de
+  - Digitallabor
 financing:
   - Deutsche Bahn Stiftung
-  - Spenden
-  - Sponsorings
 contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
   mailinglist: https://jugendhackt.org/newsletter
-  website: https://jugendhackt.org
-  mastodon:
-    handle: jugendhackt
-    server: chaos.social
-video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
+  website: https://jugendhackt.org/lab/muenster/
+#video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
 
 subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen

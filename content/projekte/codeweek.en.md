@@ -15,9 +15,9 @@ img: projects/CodeWeek.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/CodeWeek.png
 people:
-  - name: Nina Schröter
+  - name: Mario Pesch 
     role: Project lead
-  - name: Anne Ware
+  - name: Thomas Bartoschek
     role: Project lead    
   - name: Philip Steffan
     role: Community and PR

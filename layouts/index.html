@@ -63,7 +63,7 @@
           {{ range first 6 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
           <li class="col col-12 col-xs-6 col-md-4 l__projects__item">
             <a  href="{{.Permalink}}" class="c__tile c__tile--single" style="background-image: url(/files/{{.Params.img}})" title="{{.Title}}">
-              <h2 class="h3 c__tile__title">{{.Title}}</h2>
+              <h2 class="h3 c__tile__title {{.Params.tileclass}}">{{.Title}}</h2>
               <div class="c__tile__overlay">
                 <h2 class="h3 c__tile__title">{{.Title}}</h2>
                 {{ with .Params.subtitle}}<p class="c__tile__subtitle">{{.}}</p>{{ end }}
@@ -79,7 +79,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col col-12 col-sm-6 col-md-4 col-lg-3 l__home__donate__img">
-            <img src="/okf/verein/spenden.png" alt="Spenden Illustration" width="255">
+            <img src="/files/images/donate_opensensemap.jpeg" alt="Spenden Illustration" width="255">
           </div>
           <div class="col col-12 col-sm-6 col-md-6 offset-md-1 col-lg-6 offset-lg-2 l__content ">
             <h3>{{ .Params.donate_title }}</h3>
