@@ -1,0 +1,31 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="/en/finanzierung/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Expenses 2020</title>
+    <link rel="alternate" href="/en/finanzierung/ausgaben/"/>
+    <id>/en/finanzierung/ausgaben/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Personnel costs are by far the largest expense item. Our excellent team is our most important resource. In addition, non-personnel costs as well as tax payments are incurred every year. Most of the expenditure is project-related. We try to keep the administrative costs of the organization low (approx. 5% of the total expenditure). They include, for example, material costs for rent, finances, insurances and technical infrastructure.
+This year, OKF employs an average of 28 people, many of them part-time.</summary>
+  </entry>
+  
+  <entry>
+    <title>Revenues 2020</title>
+    <link rel="alternate" href="/en/finanzierung/einnahmen/"/>
+    <id>/en/finanzierung/einnahmen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>The majority (65%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 21% of our income. Most of the donations are addressed to FragDenStaat. Additionally, the charity campaign FriendlyFire contributed to this increase of donations by raising donations for the OKF as a whole as well as for 7 other organizations in December 2019. Furthermore, we generated about 13% of our income from economic income sources.</summary>
+  </entry>
+  
+</feed>

@@ -1,83 +1,72 @@
 {{ define "title"}}
 <title>{{ .Title }} - {{ .Site.Title }}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end }} {{ define "head" }} {{ range .AlternativeOutputFormats -}}
+<link
+  rel="{{ .Rel }}"
+  type="{{ .MediaType.Type }}"
+  href="{{ .Permalink | safeURL }}"
+/>
 {{ end -}}
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
-
-
-{{ define "main" }}
-{{ $team := where .Site.Data.team "staff" 1 }}
-{{ $mentor := where .Site.Data.team "mentor" 1 }}
-{{ $lang := .Lang }}
+{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{
+end }} {{with .Params.meta}}
+<meta property="og:description" content="{{.}}" />
+<meta name="description" content="{{.}}" />
+{{end}} {{ end }} {{ define "main" }} {{ $team := where .Site.Data.team "staff"
+1 }} {{ $mentor := where .Site.Data.team "mentor" 1 }} {{ $lang := .Lang }}
 <main>
   <div class="container l__team">
     <div class="row l__team__title">
       <h1 class="col col-12 col-sm-10">
-        {{ if eq $lang "en"}}
-          We are {{ len $team }} activists, policy specialists & developers
-        {{ else }}
-          Wir sind {{ len $team }} Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen
-        {{ end }}
+        {{ if eq $lang "en"}} We are {{ len $team }} activists, policy
+        specialists & developers {{ else }} Wir sind {{ len $team }}
+        Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen {{ end }}
       </h1>
     </div>
     <ul class="row l__team__list">
-      {{ range sort $team "name" }}
-      {{if .staff }}
+      {{ range sort $team "name" }} {{if .staff }}
       <li class="col col-12 col-sm-6 col-lg-4">
-        <img src="/team/{{.img}}.jpeg" alt="{{.img}}">
+        <img src="/team/{{.img}}.jpeg" alt="{{.img}}" />
         <h2 class="h3">{{.name}}</h2>
         {{ if eq $lang "en"}}
-          <p class="l__team__meta">{{.position_en}}</p>
-          <p>{{.bio_en | markdownify}}</p>
+        <p class="l__team__meta">{{.position_en}}</p>
+        <p>{{.bio_en | markdownify}}</p>
         {{ else }}
-          <p class="l__team__meta">{{.position}}</p>
-          <p>{{.bio | markdownify}}</p>
+        <p class="l__team__meta">{{.position}}</p>
+        <p>{{.bio | markdownify}}</p>
         {{ end }}
         <p class="l__team__contact">
-          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
-          {{ with .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }}
-          {{ with .website }}<a href="{{.}}">Website</a>{{ end }}
-          {{ with .github }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
+          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }} {{ with
+          .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }} {{
+          with .website }}<a href="{{.}}">Website</a>{{ end }} {{ with .github
+          }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
         </p>
       </li>
-      {{ end }}
-      {{ end }}
+      {{ end }} {{ end }}
     </ul>
     <h2>Mentor:innen</h2>
     <ul class="row l__team__list">
-      {{ range sort $mentor "name" }}
-      {{if .mentor }}
+      {{ range sort $mentor "name" }} {{if .mentor }}
       <li class="col col-12 col-sm-6 col-lg-4">
-        <img src="/team/{{.img}}.jpeg" alt="{{.img}}">
+        <img src="/team/{{.img}}.jpeg" alt="{{.img}}" />
         <h2 class="h3">{{.name}}</h2>
         {{ if eq $lang "en"}}
-          <p class="l__team__meta">{{.position_en}}</p>
-          <p>{{.bio_en | markdownify}}</p>
+        <p class="l__team__meta">{{.position_en}}</p>
+        <p>{{.bio_en | markdownify}}</p>
         {{ else }}
-          <p class="l__team__meta">{{.position}}</p>
-          <p>{{.bio | markdownify}}</p>
+        <p class="l__team__meta">{{.projects}}</p>
+        <p>{{.bio | markdownify}}</p>
         {{ end }}
         <p class="l__team__contact">
-          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
-          {{ with .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }}
-          {{ with .website }}<a href="{{.}}">Website</a>{{ end }}
-          {{ with .github }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
+          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }} {{ with
+          .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }} {{
+          with .website }}<a href="{{.}}">Website</a>{{ end }} {{ with .github
+          }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
         </p>
       </li>
-      {{ end }}
-      {{ end }}
+      {{ end }} {{ end }}
     </ul>
   </div>
 </main>

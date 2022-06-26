@@ -27,9 +27,9 @@ years: 2022 - heute
 partners:
   - mediale pfade e.V.
   - okfn.de
-  - Digitallabor
+  - Digitallabor Münster
 financing:
-  - Deutsche Bahn Stiftung
+  - 
 contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
@@ -41,7 +41,7 @@ subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
     Du kannst <a href="https://jugendhackt.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:anne.ware@okfn.de">Kontaktaufnahme</a>.
+    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:thomas.bartoschek@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website von Jugend hackt</a>.
 

@@ -1,0 +1,48 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="/themen/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Offene Daten</title>
+    <link rel="alternate" href="/themen/open_data/"/>
+    <id>/themen/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und dem Prinzip des „share-alike&amp;quot;, d.h. Daten nur unter unveränderten urheberrechtlichen Nutzungsmöglichkeiten zu teilen. Davon ausgenommen sind persönliche Daten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Way of life</title>
+    <link rel="alternate" href="/themen/wayoflife/"/>
+    <id>/themen/wayoflife/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und dem Prinzip des „share-alike&amp;quot;, d.h. Daten nur unter unveränderten urheberrechtlichen Nutzungsmöglichkeiten zu teilen. Davon ausgenommen sind persönliche Daten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offene Bildung</title>
+    <link rel="alternate" href="/themen/bildung/"/>
+    <id>/themen/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung&amp;quot; und „zeitgemäßer Bildung&amp;quot; gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offene Bildung</title>
+    <link rel="alternate" href="/themen/citizenscience/"/>
+    <id>/themen/citizenscience/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung&amp;quot; und „zeitgemäßer Bildung&amp;quot; gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus.&lt;/p&gt;</summary>
+  </entry>
+  
+</feed>

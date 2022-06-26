@@ -1,5 +1,5 @@
 ---
-title: OKFDE
+title: openSenseLab EN
 blurb:  Open knowledge for a digital civil society
 work: We fight for open knowledge and democratic participation by developing technologies and tools that strengthen civil society.
 donate_title: Support our mission now!

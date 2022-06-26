@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Knowledge Foundation DE</title>
+    <link rel="self" href="/themen/atom.xml"/>
+    <description>Themen on OKF DE</description>
+    
+    
+    
+        <atom:link href="/themen/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Offene Daten</title>
+      <link>/themen/open_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themen/open_data/</guid>
+      <description>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und dem Prinzip des „share-alike&amp;quot;, d.h. Daten nur unter unveränderten urheberrechtlichen Nutzungsmöglichkeiten zu teilen. Davon ausgenommen sind persönliche Daten.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Way of life</title>
+      <link>/themen/wayoflife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themen/wayoflife/</guid>
+      <description>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und dem Prinzip des „share-alike&amp;quot;, d.h. Daten nur unter unveränderten urheberrechtlichen Nutzungsmöglichkeiten zu teilen. Davon ausgenommen sind persönliche Daten.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Offene Bildung</title>
+      <link>/themen/bildung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themen/bildung/</guid>
+      <description>&lt;p&gt;Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung&amp;quot; und „zeitgemäßer Bildung&amp;quot; gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Offene Bildung</title>
+      <link>/themen/citizenscience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themen/citizenscience/</guid>
+      <description>&lt;p&gt;Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung&amp;quot; und „zeitgemäßer Bildung&amp;quot; gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

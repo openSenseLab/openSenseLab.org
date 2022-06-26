@@ -4,27 +4,10 @@
   board: 1
   advisory: 0
   position: Gesellschafterin
-  position_en: Treasurer
   bio: "Angela Schwering ist Professorin am Institut für Geoinformatik der WWU Münster. Ihr Engagement gilt der Erforschung und Entwicklung von digitalen MINT-Bildungstools, wie dem kartenbasierten GeoGame OriGami und der Programmier­umgebung Blockly. Angela leitet seit 2006 das vom BMBF geförderte Forschungsprojekt senseBox, im Rahmen dessen die openSenseMap als Citizen Science Plattform entwickelt und groß geworden ist."
-  bio_en: "Gabriele has been elected member of OKFs board and its Treasurer since 2020. Gabriele is Deputy Chairwoman and Managing Director of the organization Green Economic Dialogue that aims to strengthen the dialogue and cooperation between  economy and politics. Gabriele Klug is a lawyer and spend many years in politics and state administration and on local level. 2010-2018 she held the position as Vice Mayor and Treasurer of the city of Cologne and in charge of the municipal enterprise portfolio. During that time Klug designed an urban approach towards sustainability in municipal finance including the development of infrastructure in ecological transformation. She was  member of the board of Transparency International Germany until 2019. Klug is specialized in sustainable public finance."
-  #mail: angela@opensenselab.org
-  twitter: gcklug
+  mail: angela@opensenselab.org
+  #twitter: gcklug
   website:
-
-- name: Philip Weiger
-  img: weiger
-  staff: 1
-  board: 1
-  advisory: 0
-  position: Geschäftsführer und Gesellschafter
-  position_en: Member of the Board
-  bio: "Philip Weiger ist Unternehmer, Projektmanager, Webentwickler und Experte für User Experience und Usability. Philip arbeitet mit seinen interdisziplinären Fähigkeiten als Schnittstelle zwischen den verschiedenen Bereichen. Er ist leidenschaftlicher Verfechter von Open-Source-Ansätzen und der Demokratisierung von Wissen und Informationen. Die steile Entwicklung der openSenseMap verfolgt er schon von Anfang an neugierig, da er seit Schulzeiten eng mit Jan befreundet ist."
-  bio_en: "Philip Weiger is an entrepreneur, project manager, web developer and expert in user experience and usability. Philip works with his interdisciplinary skills as an interface between different fields. He is passionate about open source approaches and the democratization of knowledge and information. He has been curiously following the steep development of openSenseMap since the beginning, as he has been close friends with Jan since school days."
-  mail: lea.gimpel@okfn.de
-  twitter:
-  website:
-  github:
-
 
 - name: Matthias Pfeil
   img: pfeil
@@ -40,7 +23,6 @@
   website:
   github:
 
-
 - name: Thomas Bartoschek
   img: bartoschek
   staff: 1
@@ -55,47 +37,27 @@
   website:
   github:
 
-
-- name: Jan Wirwahn
-  img: wirwahn
-  staff: 1
-  board: 1
-  advisory: 0
-  position: Geschäftsführer
-  position_en: Member of the Board
-  bio: "Jan Wirwahn (Gesellschafter) ist Geoinformatiker, Entrepreneur, Coder, Maker und Open-Source Enthusiast. Seine Begeisterung für offene Hardwareprojekte konnte er schon im Studium an der WWU Münster mit den Bereichen Digitale Bildung und Citizen Science verbinden. Nach seinem Studium konzentrierte er sich auf die Weiterentwicklung seiner Open-Source Projekte. Durch die Gründung des gemeinnützigen openSenseLabs macht er sich auch zukünftig für offene Umweltforschung und -bildung stark."
-  bio_en: "Lea was elected to the board of the Open Knowledge Foundation in 2020. Lea works for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH as co-leader of a project that supports developing countries in the use of artificial intelligence and, among other things, sets up open training data sets and develops ethical AI guidelines with partners. Previously she was a senior expert on digital change in development cooperation and has advised projects worldwide. She is committed to the use of digital technologies for the common good and is currently founding a think tank for the development of open resources. She was an associate at stiftung neue verantwortung (snv) and co-founder of the initiative “Das gute digitale Leben”. Previously, Lea worked in Ethiopia as a consultant for a women's association of entrepreneurs on the use of information and communication technologies."
-  mail: lea.gimpel@okfn.de
-  twitter:
-  website:
-  github:
-
-
 - name: Mario Pesch
   img: pesch
   staff: 1
   board: 1
   advisory: 0
-  position: Geschäftsführer
+  position: Geschäftsführer und Gesellschafter
   position_en: Member of the Board
   bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
-  bio_en: "Lea was elected to the board of the Open Knowledge Foundation in 2020. Lea works for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH as co-leader of a project that supports developing countries in the use of artificial intelligence and, among other things, sets up open training data sets and develops ethical AI guidelines with partners. Previously she was a senior expert on digital change in development cooperation and has advised projects worldwide. She is committed to the use of digital technologies for the common good and is currently founding a think tank for the development of open resources. She was an associate at stiftung neue verantwortung (snv) and co-founder of the initiative “Das gute digitale Leben”. Previously, Lea worked in Ethiopia as a consultant for a women's association of entrepreneurs on the use of information and communication technologies."
   mail: mario@opensenselab.de
   twitter:
   website:
   github:
 
 - name: Björn Luig
-  img: pesch
+  img: luig
   mentor: 1
   staff: 0
   board: 1
   advisory: 0
-  position: Geschäftsführer
-  position_en: Member of the Board
+  projects: Jugend hackt, Code Week
   bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
-  bio_en: "Lea was elected to the board of the Open Knowledge Foundation in 2020. Lea works for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH as co-leader of a project that supports developing countries in the use of artificial intelligence and, among other things, sets up open training data sets and develops ethical AI guidelines with partners. Previously she was a senior expert on digital change in development cooperation and has advised projects worldwide. She is committed to the use of digital technologies for the common good and is currently founding a think tank for the development of open resources. She was an associate at stiftung neue verantwortung (snv) and co-founder of the initiative “Das gute digitale Leben”. Previously, Lea worked in Ethiopia as a consultant for a women's association of entrepreneurs on the use of information and communication technologies."
-  mail: lea.gimpel@okfn.de
   twitter:
   website:
   github:
@@ -106,10 +68,17 @@
   staff: 0
 
 - name: Nick Jakuschona
-  img: 
+  img:
   mentor: 1
   staff: 0
 
+- name: Tom Niers
+  img:
 
+  mentor: 1
+  staff: 0
 
-
+- name: Helen Müller
+  img:
+  mentor: 1
+  staff: 0

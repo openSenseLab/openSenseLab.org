@@ -53,11 +53,11 @@ weight =  80
 
 [languages]
   [languages.de]
-    title = "OKF"
+    title = "openSenseLab"
     languageName = "DE" 
     weight = 1
   [languages.en]
-    title = "OKF DE"
+    title = "openSenseLab EN"
     languageName = "EN"
     weight = 2
     

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario Pesch on openSenseLab</title>
+    <link>/authors/mario-pesch/</link>
+    <description>Recent content in Mario Pesch on openSenseLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/mario-pesch/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Week Münsterland</title>
+      <link>/blog/2022/06/codeweek_muensterland/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2022/06/codeweek_muensterland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jugendhackt Lab</title>
+      <link>/blog/2022/04/jugendhackt/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2022/04/jugendhackt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projektwoche KlimaDatenSchule mit Schüler:innen der Anne-Frank-Gesamtschule Havixbeck am Institut für Geoinformatik</title>
+      <link>/blog/2021/09/projektwoche-afg/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021/09/projektwoche-afg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gründung der openSenseLab gGmbH</title>
+      <link>/blog/2021/04/gruendung-opensenselab/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021/04/gruendung-opensenselab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

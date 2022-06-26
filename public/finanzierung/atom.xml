@@ -1,0 +1,31 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="/finanzierung/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Ausgaben 2020</title>
+    <link rel="alternate" href="/finanzierung/ausgaben/"/>
+    <id>/finanzierung/ausgaben/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Die Personalkosten stellen den mit Abstand größten Ausgabeposten dar. Unser hervorragendes Team ist für uns die wichtigste Ressource. Darüber hinaus fallen – wie in jedem Jahr - Sach- und Honorarkosten an sowie Steuerzahlungen. Der größte Teil der Ausgaben ist projektbezogen. Die Sachkosten der Organisation versuchen wir gering zu halten (ca. 5% der Gesamtausgaben). Sie umfassen beispielsweise Buchhaltung sowie Sachkosten für Miete, Finanzbuchhaltung, Versicherungen und technische Infrastruktur.
+In diesem Jahr sind bei der OKF im Durchschnitt 28 Personen beschäftigt, viele davon in Teilzeit.</summary>
+  </entry>
+  
+  <entry>
+    <title>Einnahmen 2020</title>
+    <link rel="alternate" href="/finanzierung/einnahmen/"/>
+    <id>/finanzierung/einnahmen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Den Großteil (65%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen wachsende Spendeneinnahmen in Höhe von ca. 21% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch die OKF als Ganzes verbucht dank der Spendenkampagne FriendlyFire, die im Dezember 2019 für uns und für 7 andere Organisationen gesammelt hat, hohe Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 13% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.</summary>
+  </entry>
+  
+</feed>

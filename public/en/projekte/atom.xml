@@ -1,0 +1,68 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="/en/projekte/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>CodeWeek Regio Hub</title>
+    <link rel="alternate" href="/en/projekte/codeweek/"/>
+    <id>/en/projekte/codeweek/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Jugend hackt is a program for young people who want to improve the world with their technical skills. Supported by volunteer mentors, our participants develop digital tools, prototypes and concepts for a better future. Our offer includes hackathon events in many cities, regional labs, an online community and international exchange programs.
+In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend hackt is about more than just learning to program: We understand technology as a means of social change.</summary>
+  </entry>
+  
+  <entry>
+    <title>Jugend hackt</title>
+    <link rel="alternate" href="/en/projekte/jugendhackt/"/>
+    <id>/en/projekte/jugendhackt/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Jugend hackt is a program for young people who want to improve the world with their technical skills. Supported by volunteer mentors, our participants develop digital tools, prototypes and concepts for a better future. Our offer includes hackathon events in many cities, regional labs, an online community and international exchange programs.
+In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend hackt is about more than just learning to program: We understand technology as a means of social change.</summary>
+  </entry>
+  
+  <entry>
+    <title>DASA Exponat</title>
+    <link rel="alternate" href="/en/projekte/dasa/"/>
+    <id>/en/projekte/dasa/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</summary>
+  </entry>
+  
+  <entry>
+    <title>openSenseMap</title>
+    <link rel="alternate" href="/en/projekte/bsomint/"/>
+    <id>/en/projekte/bsomint/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</summary>
+  </entry>
+  
+  <entry>
+    <title>openSenseMap</title>
+    <link rel="alternate" href="/en/projekte/opensensemap/"/>
+    <id>/en/projekte/opensensemap/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</summary>
+  </entry>
+  
+  <entry>
+    <title>Sparkasse</title>
+    <link rel="alternate" href="/en/projekte/sparkasse/"/>
+    <id>/en/projekte/sparkasse/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</summary>
+  </entry>
+  
+</feed>

@@ -33,4 +33,4 @@ Mit Deiner Spende unterstüzt du uns und ermöglichst:
 
 Danke!
 
-Euer openSenseMap Team
+Euer openSenseLab Team

@@ -1,0 +1,48 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="/blog/atom.xml"/>
+  <updated>2022-06-26T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Code Week Münsterland</title>
+    <link rel="alternate" href="/blog/2022/06/codeweek_muensterland/"/>
+    <id>/blog/2022/06/codeweek_muensterland/</id>
+    <published>2022-06-26T00:00:00+0000</published>
+    <updated>2022-06-26T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+  <entry>
+    <title>Jugendhackt Lab</title>
+    <link rel="alternate" href="/blog/2022/04/jugendhackt/"/>
+    <id>/blog/2022/04/jugendhackt/</id>
+    <published>2022-04-22T00:00:00+0000</published>
+    <updated>2022-04-22T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+  <entry>
+    <title>Projektwoche KlimaDatenSchule mit Schüler:innen der Anne-Frank-Gesamtschule Havixbeck am Institut für Geoinformatik</title>
+    <link rel="alternate" href="/blog/2021/09/projektwoche-afg/"/>
+    <id>/blog/2021/09/projektwoche-afg/</id>
+    <published>2021-09-06T00:00:00+0000</published>
+    <updated>2021-04-19T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+  <entry>
+    <title>Gründung der openSenseLab gGmbH</title>
+    <link rel="alternate" href="/blog/2021/04/gruendung-opensenselab/"/>
+    <id>/blog/2021/04/gruendung-opensenselab/</id>
+    <published>2021-04-19T00:00:00+0000</published>
+    <updated>2021-04-19T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+</feed>

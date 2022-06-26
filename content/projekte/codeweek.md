@@ -38,8 +38,8 @@ contact:
 subtitle: Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern.
 cta: Teilnehmen
 cta_text: |-
-    Du kannst <a href="">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:anne.ware@okfn.de">Kontaktaufnahme</a>.
+    Du kannst Teil der Code Week werden und einen eigenen Workshop anbieten. <a href="">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
+    Sie wollen andere beim anbieten eine Workshops unterstützen. Mit einer Spende oder Kooperation ermöglichen wir  <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://codeweek.de/">Website der Code Week Deutschland</a>.
 
@@ -50,7 +50,6 @@ more_text: |-
 
 
 **Ressourcen**<br>
-+ [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online-Version<br>
-+ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF-Download<br>
-+ [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF-Download
++ [How To Code Week vom 20.06.22](http://www.handbuch.jugendhackt.de/) <br>
+
 
