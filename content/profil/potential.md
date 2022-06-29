@@ -1,5 +1,5 @@
 ---
-title: Wir zeigen das demokratische Potenzial von Technologie
+title: Wir schaffen Zugänge zu modernen Technologien
 weight: 1
 
 img:
