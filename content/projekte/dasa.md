@@ -28,13 +28,13 @@ financing:
   - BMBF
 cta: Mitmachen
 cta_text: |-
-  Die Möglichkeiten zum Mitmachen sind vielseitig. Alle Infos gibt es <a href="https://edulabs.de/join/">hier</a>.
-more_text: |-
-    Alle weiteren Infos gibt es ebenfalls auf der <a href=https://www.dasa-dortmund.de/">Website</a> von edulabs.
+   Alle weiteren Infos gibt es ebenfalls auf der <a href=https://www.dasa-dortmund.de/">Website</a> der DASA.   
 
 ---
 
 # Exponat in der DASA
+
+Die DASA ist Deutschlands größe Arbeitswelt Austellung: Auf einer Größe von fast zwei Fußballfedern ersrecken sich spannende Erlebniswelten zum Entdecken und Mitmachen. In der Aussteluung zum Thema **Künstliche Intelligenz** findet ihr ein Exponat mit der senseBox und der openSenseMap.
 
 
 

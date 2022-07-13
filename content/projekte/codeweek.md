@@ -12,23 +12,18 @@ layout: project
 weight: 6
 title: CodeWeek Regio Hub
 background: backgrounds/jugendhackt.jpg
-website: https://jugendhackt.org
+website: https://muensterland.codeweek.de
 img: projects/CodeWeek.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/CodeWeek.png
 people:
   - name: Mario Pesch
     role: Projektleitung
-  - name: Thomas Bartoschek
-    role: Projektleitung
 contact_person: mariopesch
 years: 2022 - heute
-partners:
-  - 
 financing:
   - REACH
   - Spenden
-  - Sponsorings
 contact:
   twitter: codeweek_muensterland
   facebook: 
