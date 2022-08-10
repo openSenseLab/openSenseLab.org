@@ -2,6 +2,9 @@
   <!-- {{ with .Site.GetPage "/finanzierung" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
   {{ with .Site.GetPage "/transparenz" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }} -->
   <!-- {{ with .Site.GetPage "/jobs" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }} -->
-  {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-  {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/kontakt" }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }} {{ with .Site.GetPage "/impressum" }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
 </ul>

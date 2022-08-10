@@ -14,9 +14,9 @@ Deutschland
 [OpenStreetMap](https://www.openstreetmap.org/way/29386807)
 
 **Handelsregister:** HRB 19449<br>
-**Umsatzsteuernummer:** DE278022128
-**Registergericht:** Amtsgericht Münster
-**Vertreten durch die Geschäftsführer**: Dr. Thomas Bartoschek, Mario Pesch, Philip Weiger
+**Umsatzsteuernummer:** DE278022128<br>
+**Registergericht:** Amtsgericht Münster<br>
+**Vertreten durch die Geschäftsführer**: Dr. Thomas Bartoschek, Mario Pesch<br>
 
 **Technisch:**
     Statisches HTML generiert mit [Hugo](https://gohugo.io/)

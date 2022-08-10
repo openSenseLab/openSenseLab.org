@@ -1,20 +1,25 @@
 <footer class="l__footer">
   <div class="printer-hidden">
     <div class="l__inner">
-      <section class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2">
+      <section
+        class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2"
+      >
         <h2>{{ i18n "footer_contact" }}</h2>
-        <p>openSenseLab gGmbH<br>
-         
+        <p>openSenseLab gGmbH<br /></p>
+
         <p>
-          Von-Steuben-Str. 21<br>
-          48143 Münster</p>
-        <p>0251 / 98 29 88 67<br>
-          info@opensenselab.org</p>
+          Von-Steuben-Str. 21<br />
+          48143 Münster
+        </p>
+        <p>
+          0251 / 98 29 88 67<br />
+          info@opensenselab.org
+        </p>
       </section>
       <section class="col col-10 col-sm-10 col-md-7 order-1">
-        <!-- <h2>Newsletter</h2>
+        <h2>Newsletter</h2>
         <p>{{ i18n "newsletter_text" }}</p>
-        {{- partial "newsletter" -}} -->
+        {{- partial "newsletter" -}}
       </section>
       <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3">
         {{- partial "footer-nav" . -}}
@@ -25,23 +30,38 @@
 
       <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5">
         {{ if eq .Lang "de" }}
-        <p>Die openSenseLab gGmbH ist eine gemeinnüztige Gesellschaft mit Beschränkter Haftung mit dem Ziel der Förderung von freier Bildung, Wissenschaft, Umwelt- und Klimaschutz und des bürgerschaftlichen Engagements.  
-        {{ else }}
-        <p>The openSenseLab gGmbH is a non-profit limited liability company with the aim of promoting free education, science, environmental and climate protection and civic engagement.  </p>
+        <p>
+          Die openSenseLab gGmbH ist eine gemeinnüztige Gesellschaft mit
+          Beschränkter Haftung mit dem Ziel der Förderung von freier Bildung,
+          Wissenschaft, Umwelt- und Klimaschutz und des bürgerschaftlichen
+          Engagements. {{ else }}
+        </p>
+
+        <p>
+          The openSenseLab gGmbH is a non-profit limited liability company with
+          the aim of promoting free education, science, environmental and
+          climate protection and civic engagement.
+        </p>
         {{ end }}
       </div>
-      <div class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s">
-        {{ with .Site.GetPage "/transparenz" }}
+      <div
+        class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s"
+      >
         <a href="{{.Permalink}}">
-          <img src="/files/logos/logo_openSenseLab_typo_gruen.png" alt='{{ i18n "itz_alt" }}' width="227" height="110">
+          <img
+            src="/files/logos/openSenseLab-LogoTypo.svg"
+            alt='{{ i18n "itz_alt" }}'
+            width="227"
+            height="110"
+          />
         </a>
-        {{ end }}
       </div>
     </div>
   </div>
   <div class="printer-only">
     <p>
-      openSenseLab gGmbH | Von-Steuben-Str. 21 - 48143 Münster | info@opensenselab.org | www.opensenselab.org
+      openSenseLab gGmbH | Von-Steuben-Str. 21 - 48143 Münster |
+      info@opensenselab.org | www.opensenselab.org
     </p>
   </div>
 </footer>

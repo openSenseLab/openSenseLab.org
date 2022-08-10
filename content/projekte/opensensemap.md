@@ -26,7 +26,6 @@ partners:
  - Institut für Geoinformatik WWU Münster
  - WWU Münster
 financing:
-  - BMBF
   - Spenden
 cta: Mitmachen
 cta_text: |-

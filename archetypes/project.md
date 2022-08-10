@@ -19,9 +19,7 @@ years: 2015 - 2018
 partners:
  - Partner 1
  - Partner 2
-financing:
-  - Money 1
-  - Money 2
+
 cta: Mitmachen
 cta_text: |-
   Längere Text mit Markdown wie mensch sich einbringen kann

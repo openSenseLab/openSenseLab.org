@@ -2,9 +2,9 @@
 title: Offene Daten
 project_tag: Open Data
 weight: 1
-img: /okf/themen/opendata.jpg
-img_header: /okf/themen/opendata_header.png
-img_social: /okf/opendata-social-og.png
+img: /files/images/themen/circle.svg
+img: /files/images/themen/circle.svg
+img: /files/images/themen/circle.svg
 color: "#382eff"
 ---
 
