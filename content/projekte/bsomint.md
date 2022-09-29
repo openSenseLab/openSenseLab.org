@@ -6,6 +6,7 @@ categories:
   - Education
 title: Berufs- und Studienorientierung MINT
 tile: double
+tileclass: green
 layout: project
 img: projects/bildungsangebote.jpeg
 img_header: projects/bildungsangebot.jpeg

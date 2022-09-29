@@ -13,6 +13,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Projektwoche KlimaDatenSchule mit Schüler:innen der Anne-Frank-Gesamtschule Havixbeck am Institut für Geoinformatik"
+title: "Projektwoche KlimaDatenSchule"
 ---
 
+Die Projektwoche der Anne-Frank Gesamtschule Havixbeck 

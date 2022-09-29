@@ -6,6 +6,7 @@ categories:
   - Education
 title: openSenseMap
 tile: double
+tileclass: green
 layout: project
 img: projects/opensensemap_overview.png
 img_header: projects/opensensemap.png
@@ -61,3 +62,6 @@ Wir sind dankbar für die Wertschätzung und Unterstützung, die die openSense
 
 Wir danken allen Unterstützer:innen des Projekts, der Stiftung der Sparkasse Münsterland Ost, den vielen Spender:innen, den Enthusiasten, die auf Github ehrenamtlich zur Weiterentwicklung der openSenseMap beitragen und allen Citizen Scientists, die mit ihren Messungen elementarer Bestandteil des Projekts sind.
 
+**Ressourcen**<br>
++ [openSenseMap](https://opensensemap.org)<br>
++ [Archiv der openSenseMap](https://archive.opensensemap.org)<br>

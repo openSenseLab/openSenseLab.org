@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/themen/open_data/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/themen/open_data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/themen/open_data/"
-                />
-  </url><url>
-    <loc>/en/themen/wayoflife/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/themen/wayoflife/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/themen/wayoflife/"
-                />
-  </url><url>
     <loc>/en/profil/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,30 +24,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/profil/wissen/"
-                />
-  </url><url>
-    <loc>/en/finanzierung/ausgaben/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/finanzierung/ausgaben/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/finanzierung/ausgaben/"
-                />
-  </url><url>
-    <loc>/en/finanzierung/einnahmen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/finanzierung/einnahmen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/finanzierung/einnahmen/"
                 />
   </url><url>
     <loc>/en/profil/vernetzen/</loc>
@@ -98,66 +50,6 @@
                 href="/en/profil/muendigkeit/"
                 />
   </url><url>
-    <loc>/en/themen/bildung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/themen/bildung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/themen/bildung/"
-                />
-  </url><url>
-    <loc>/en/themen/citizenscience/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/themen/citizenscience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/themen/citizenscience/"
-                />
-  </url><url>
-    <loc>/en/projekte/codeweek/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/codeweek/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/codeweek/"
-                />
-  </url><url>
-    <loc>/en/projekte/jugendhackt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/jugendhackt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/jugendhackt/"
-                />
-  </url><url>
-    <loc>/en/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/jahresberichte/"
-                />
-  </url><url>
     <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,18 +74,6 @@
                 href="/en/blog/"
                 />
   </url><url>
-    <loc>/en/projekte/dasa/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/dasa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/dasa/"
-                />
-  </url><url>
     <loc>/en/spenden/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,18 +84,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/spenden/"
-                />
-  </url><url>
-    <loc>/en/finanzierung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/finanzierung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/finanzierung/"
                 />
   </url><url>
     <loc>/en/impressum/</loc>
@@ -254,54 +122,6 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/projekte/bsomint/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/bsomint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/bsomint/"
-                />
-  </url><url>
-    <loc>/en/projekte/opensensemap/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/opensensemap/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/opensensemap/"
-                />
-  </url><url>
-    <loc>/en/partner/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/partner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/partner/"
-                />
-  </url><url>
-    <loc>/en/presse/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/presse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/presse/"
-                />
-  </url><url>
     <loc>/en/profil/</loc>
     <xhtml:link
                 rel="alternate"
@@ -324,18 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/projekte/"
-                />
-  </url><url>
-    <loc>/en/projekte/sparkasse/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/projekte/sparkasse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projekte/sparkasse/"
                 />
   </url><url>
     <loc>/en/tags/</loc>
@@ -362,28 +170,16 @@
                 href="/en/team/"
                 />
   </url><url>
-    <loc>/en/themen/</loc>
+    <loc>/en/angebote/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/themen/"
+                href="/angebote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/themen/"
-                />
-  </url><url>
-    <loc>/en/transparenz/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/transparenz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/transparenz/"
+                href="/en/angebote/"
                 />
   </url>
 </urlset>

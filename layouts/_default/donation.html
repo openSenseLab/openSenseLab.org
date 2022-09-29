@@ -20,13 +20,13 @@ end }} {{with .Params.meta}}
     <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
   </div>
   <div class="row mt-0 l__content">
-    <div class="col col-12 col-md-7">{{ .Content }}</div>
-    <div class="col col-12 col-md-4 offset-md-1">{{- partial "itz" . -}}</div>
+    <div class="col col-12 col-lg-12">{{ .Content }}</div>
+    <!-- <div class="col col-12 col-md-4 offset-md-1">{{- partial "itz" . -}}</div> -->
   </div>
 </section>
 <section class="l__donation container l__content">
   <div class="row">
-    <div class="col col-12 col-md-6 col-lg-5">
+    <!-- <div class="col col-12 col-md-6 col-lg-5">
       {{ with .Params.bank_name}}
       <h3>{{.}}</h3>
       {{ end }} {{ with .Params.bank_text}}
@@ -46,13 +46,24 @@ end }} {{with .Params.meta}}
       {{ end }} {{ with .Params.paypal_link}}
       <p><a href="#">{{.}}</a></p>
       {{ end }}
-    </div>
-    <div class="col col-12 col-md-10 col-lg-7">
+    </div> -->
+    <div class="col col-12 col-md-6 col-lg-6">
       {{ with .Params.betterplace_name}}
       <h3>{{.}}</h3>
       {{ end }} {{ with .Params.betterplace_text}}
       <p>{{.}}</p>
       {{ end }} {{- partial "betterplace" -}}
+    </div>
+    <div class="col col-12 col-md-6 col-lg-6">
+      {{ with .Params.bank_name}}
+      <h3>{{.}}</h3>
+      {{ end }} {{ with .Params.bank_text}}
+      <p>{{.}}</p>
+      <em>GLS Gemeinschaftsbank eG</em><br>
+      <em>IBAN: DE44 4306 0967 1213 8330 00</em><br>
+      <em>BIC: GENODEM1GLS</em><br>
+      <em>Bitte als Verwendungszweck "Spende openSenseMap" angeben</em>
+      {{ end }}
     </div>
   </div>
 </section>

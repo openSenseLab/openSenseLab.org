@@ -3,12 +3,13 @@
   max-width: $max-width
 
 .l__topics
+  div.fancy:nth-of-type(odd)
+    .l__topics__section
+      flex-direction: row-reverse
   a
     text-decoration: none
     color: $black
-  a:nth-of-type(2n + 1)
-    .l__topics__section
-      flex-direction: row-reverse
+  e
   a:hover,
   a:active
     .linked

@@ -20,9 +20,7 @@ end }} {{with .Params.meta}}
   <div class="container l__team">
     <div class="row l__team__title">
       <h1 class="col col-12 col-sm-10">
-        {{ if eq $lang "en"}} We are {{ len $team }} activists, policy
-        specialists & developers {{ else }} Wir sind {{ len $team }}
-        Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen {{ end }}
+       Wir sind ein Team aus Entwickler*innen, Wissenschaftler*innen und Bildungsspezialist*innen
       </h1>
     </div>
     <ul class="row l__team__list">
@@ -38,15 +36,19 @@ end }} {{with .Params.meta}}
         <p>{{.bio | markdownify}}</p>
         {{ end }}
         <p class="l__team__contact">
-          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }} {{ with
-          .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }} {{
-          with .website }}<a href="{{.}}">Website</a>{{ end }} {{ with .github
-          }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
+          {{ with .mail }}<a href="mailto:{{.}}">{{ readFile "static/files/icons/mail.svg" | safeHTML }}</a>{{ end }} {{ with
+          .twitter }} <a href="https://twitter.com/{{.}}" title="Twitter"
+          >{{ readFile "static/files/icons/twitter.svg" | safeHTML }}</a>{{ end }} {{
+          with .website }}<a href="{{.}}">Websit</a>{{ end }} {{ with .github
+          }}<a href="https://github.com/{{.}}">{{ readFile "static/files/icons/github.svg" | safeHTML }}</a>{{ end }}
         </p>
       </li>
       {{ end }} {{ end }}
     </ul>
     <h2>Mentor:innen</h2>
+    <h4 class="col col-12 col-sm-10">
+    Unser Team wird von zahlreichen Mentor*innen unterstützt
+    </h4>
     <ul class="row l__team__list">
       {{ range sort $mentor "name" }} {{if .mentor }}
       <li class="col col-12 col-sm-6 col-lg-4">
@@ -57,14 +59,7 @@ end }} {{with .Params.meta}}
         <p>{{.bio_en | markdownify}}</p>
         {{ else }}
         <p class="l__team__meta">{{.projects}}</p>
-        <p>{{.bio | markdownify}}</p>
         {{ end }}
-        <p class="l__team__contact">
-          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }} {{ with
-          .twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }} {{
-          with .website }}<a href="{{.}}">Website</a>{{ end }} {{ with .github
-          }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
-        </p>
       </li>
       {{ end }} {{ end }}
     </ul>

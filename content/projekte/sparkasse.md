@@ -6,6 +6,7 @@ categories:
   - Education
 title: Sparkasse "Gemeinsam Nachhaltig"
 tile: single
+tileclass: green
 layout: project
 img: projects/opensensemap_overview.png
 img_header: projects/opensensemap.png

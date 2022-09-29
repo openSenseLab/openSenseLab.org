@@ -6,6 +6,7 @@ categories:
   - Funding
 title: openSenseLab digital & mobil
 tile: double
+tileclass: green
 layout: project
 img: projects/react_eu.jpg
 img_header: projects/opensensemap.png

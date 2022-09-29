@@ -8,7 +8,7 @@ categories:
   - Community
 tile: single
 #tileclass: dark
-tileclass: mixed
+tileclass: green
 layout: project
 weight: 6
 title: Jugend hackt
@@ -16,7 +16,7 @@ background: backgrounds/jugendhackt.jpg
 website: https://jugendhackt.org/lab/muenster/
 img: projects/jugendhackt/bunte_alpakas_karolina_kaczmarcyk-560x560.jpeg
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
-img_header: projects/Jugendhackt_Header.png
+img_header: projects/jugendhackt/JH_Logo_Lab_Muenster_deepgreen_RGB.png
 people:
   - name: Thomas Bartoschek
     role: Projektleitung
@@ -29,7 +29,8 @@ partners:
   - okfn.de
   - Digitallabor Münster
 financing:
-  - 
+  - Reach Startup Center
+  - Deutsche Bahn Stiftung
 contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
@@ -51,14 +52,10 @@ Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fä
 
 Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung. Wir bestärken Jugendliche im verantwortungsbewussten Umgang mit Technik, um damit Lösungen für gesellschaftspolitische Fragen zu finden. Dabei entstehen kreative Projekte wie ein Bewässerungssystem, das freies WiFi spendet; ein Armband, das vor Überwachungskameras warnt, oder ein Audio-Computerspiel für Menschen mit Sehschwäche.
 
-<div class="two-img offset-lg-2">
+<div class="one-img">
     <figure class="license">
-        <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
-        <figcaption>Foto: Anna Henatsch, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> Jugend hackt</figcaption>
-    </figure>
-    <figure class="license">
-    <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
-        <figcaption>Foto: Sandra Schink, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> Jugend hackt</figcaption>
+        <img alt="Bild vom Event" src="/files/projects/jugendhackt/hackathon_01.jpg">
+        <figcaption>Foto: Mario Pesch, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> openSenseLab gGmbH</figcaption>
     </figure>
 </div>
 
@@ -67,17 +64,9 @@ Jugend hackt ist ein nicht-gewinnorientiertes Programm der Open Knowledge Founda
 Alle Infos zu unserem Angebot gibt's auf [jugendhackt.org](https://jugendhackt.org)
 
 **Fördergeber\*innen**<br>
-Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die [Jugend hackt Labs](https://jugendhackt.org/labs) seit 2019.
+Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die [Jugend hackt Labs](https://jugendhackt.org/labs) seit 2019. Das Jugend hackt Lab Münster ist ein Kooperationsprojekt der openSenseLab gGmbH und der Stadt Münster. Gefördert wird das Jugend hackt Lab Münster vom Reach Startup Center der Universität Münster.
 Jugend hackt wurde von 2018 bis März 2021 durch die [SKala-Initiative](http://www.skala-initiative.de/initiative/) gefördert.
 
-
-**Preise und Auszeichnungen** <br>
-Dieter-Baacke-Preis 2015<br>
-Deutscher Engagementpreis 2016<br>
-Phineo-Siegel für Wirksamkeit 2017<br>
-European Youth Culture Award 2017<br>
-BKM-Preis Kulturelle Bildung 2018<br>
-Theodor-Heuss-Medaille 2018
 
 **Ressourcen**<br>
 + [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online-Version<br>

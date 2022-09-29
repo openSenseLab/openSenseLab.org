@@ -6,7 +6,6 @@
   position: Gesellschafterin
   bio: "Angela Schwering ist Professorin am Institut für Geoinformatik der WWU Münster. Ihr Engagement gilt der Erforschung und Entwicklung von digitalen MINT-Bildungstools, wie dem kartenbasierten GeoGame OriGami und der Programmier­umgebung Blockly. Angela leitet seit 2006 das vom BMBF geförderte Forschungsprojekt senseBox, im Rahmen dessen die openSenseMap als Citizen Science Plattform entwickelt und groß geworden ist."
   mail: angela@opensenselab.org
-  #twitter: gcklug
   website:
 
 - name: Matthias Pfeil
@@ -21,7 +20,7 @@
   mail: info@opensenselab.org
   twitter:
   website:
-  github:
+  github: matpfe
 
 - name: Thomas Bartoschek
   img: bartoschek
@@ -33,9 +32,9 @@
   bio: "Dr. Thomas Bartoschek ist wissenschaftlicher Mitarbeiter am Institut für Geoinformatik der WWU Münster. Thomas studierte und promovierte in der Geoinformatik und baute an der WWU Münster das Schüler- und Forschungslabor GI@School auf, in dem neue Technologien im Kontext Digitaler Bildung wie die openSenseMap entwickelt und erforscht werden. Thomas ist Beiratsmitglied im Projekt 'Die Zukunft des MINT-Lernens' der Deutschen Telekom Stiftung."
   bio_en: "Dr. Thomas Bartoschek (shareholder) is a research associate at the Institute for Geoinformatics at WWU Münster. Thomas studied and received his PhD in geoinformatics and established the student and research lab GI@School at WWU Münster, where new technologies in the context of digital education such as the openSenseMap are developed and researched. Thomas is a member of the advisory board in the project 'The Future of STEM Learning' of the Deutsche Telekom Foundation."
   mail: thomas@opensenselab.org
-  twitter:
-  website:
-  github:
+  twitter: thomas_barto
+  website: 
+  github: robarto
 
 - name: Mario Pesch
   img: pesch
@@ -45,7 +44,18 @@
   position: Geschäftsführer und Gesellschafter
   position_en: Member of the Board
   bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
-  mail: mario@opensenselab.de
+  mail: mario.pesch@opensenselab.de
+  twitter: mario_pesch
+  website:
+  github: mariopesch
+
+- name: Sabine Weßling
+  img: weßling
+  staff: 1
+  board: 0
+  position: Öffentlichkeitsarbeit
+  bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
+  mail: sabine.weßling@opensenselab.de
   twitter:
   website:
   github:
@@ -63,22 +73,31 @@
   github:
 
 - name: Verena Witte
-  img:
+  img: verena
   mentor: 1
   staff: 0
 
-- name: Nick Jakuschona
+- name: Jan Stenkamp
   img:
   mentor: 1
   staff: 0
 
 - name: Tom Niers
   img:
-
   mentor: 1
   staff: 0
 
 - name: Helen Müller
+  img: helen
+  mentor: 1
+  staff: 0
+
+- name: Larissa Krull
+  img:
+  mentor: 1
+  staff: 0
+
+- name: Elias Grosse
   img:
   mentor: 1
   staff: 0

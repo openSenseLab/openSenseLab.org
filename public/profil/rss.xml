@@ -2,7 +2,7 @@
   <channel>
     <title>Open Knowledge Foundation DE</title>
     <link rel="self" href="/profil/atom.xml"/>
-    <description>Profil on OKF DE</description>
+    <description>Über uns on OKF DE</description>
     
     
     
@@ -10,7 +10,7 @@
     
     
     <item>
-      <title>Wir zeigen das demokratische Potenzial von Technologie</title>
+      <title>Wir schaffen Zugänge zu modernen Technologien</title>
       <link>/profil/potential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,13 +20,13 @@ Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaft
     </item>
     
     <item>
-      <title>Wir setzen uns für offenes Wissen ein</title>
+      <title>offenes Wissen - offene Daten</title>
       <link>/profil/wissen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/profil/wissen/</guid>
-      <description>#opendata #offenesregierungshandeln
-Offenes Wissen ist in einem demokratischen Staat Voraussetzung jeder Mitbestimmung, darum streben wir nach einer Welt, in der Wissen online wie offline frei verfügbar ist. Das bedeutet Wissen nicht nur zu nutzen, sondern auch zu teilen, weiterzuentwickeln und anzupassen. Wir stärken damit eine Gemeinschaft, an der alle partizipieren können. Um das zu erreichen, halten wir Vorträge, starten Initiativen, erforschen die Wirkungen offener Daten und veröffentlichen Studien. Das Besondere an unserer Arbeit ist, dass wir nicht nur fordern, sondern mit unseren Projekten und Kampagnen selbst zeigen, wie offenes Wissen die Demokratie stärkt.</description>
+      <description>#opendata #oer
+Die openSenseMap ist eine zentrale Plattform für offene Umweltdaten in Deutschland und auch Weltweit. Mit dem Betrieb der Plattform stellen wir Bürger:innen die Infrastruktur&amp;hellip;</description>
     </item>
     
     <item>
@@ -47,6 +47,15 @@ Wir wollen unser Wissen weitergeben – und fangen dabei schon bei den Jüngsten
       <guid>/profil/vernetzen/</guid>
       <description>#community
 In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik, Verwaltungen und der Zivilgesellschaft zusammen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/profil/partner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profil/partner/</guid>
+      <description></description>
     </item>
     
   </channel>

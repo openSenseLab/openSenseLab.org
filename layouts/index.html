@@ -29,20 +29,26 @@
         <div class="col col-12 col-sm-7 col-md-8 l__home__img">
           <figure class="license">
             <img src="/files/images/header1.jpg" alt="">
-            <figcaption>Foto: <a href="://tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/28768630798/in/album-72157667831731487/">Eliza meets Tay: Debatten auf Twitter analysieren</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+            <figcaption>Foto: Angela Schwering, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
           </figure>
           <figure class="license">
             <img src="/files/images/header2.jpg" alt="" class="d-none d-lg-block">
-            <figcaption>Foto: Mario Pesch, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/"></a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption>
+            <figcaption>Foto: Mario Pesch, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption>
           </figure>
         </div>
         <div class="col col-12 col-sm-5 col-md-4">
-          <p>{{ .Params.work }}</p>
+          <h3>{{ .Params.work }}</h3>
           <p>{{ with .Site.GetPage "/profil" }}
             <a href="{{ .Permalink }}" class="linked">
               {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
           </p>
+          <p>Gefödert von:</p>
+          <figure class="license">
+            <img src="files/logos/REACT-EU_LOGO_JPG_RGB.jpeg" alt="" class="d-lg-block">
+            <figcaption>Foto: Mario Pesch, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/"></a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption>
+          </figure>
         </div>
+      
       </div>
     </div>
 
@@ -79,7 +85,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col col-12 col-sm-6 col-md-4 col-lg-3 l__home__donate__img">
-            <img src="/files/images/donate_opensensemap.jpeg" alt="Spenden Illustration" width="255">
+            <img src="/files/images/donate_opensensemap.jpeg" alt="Spenden Illustration" width="400">
           </div>
           <div class="col col-12 col-sm-6 col-md-6 offset-md-1 col-lg-6 offset-lg-2 l__content ">
             <h3>{{ .Params.donate_title }}</h3>
@@ -112,6 +118,18 @@
             {{ i18n "home_all_posts" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
       </div>
   </div>
+    </section>
+
+    <section class="l__content__bg--grey l__home__donate">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 col-sm-6 col-md-6 offset-md-1 col-lg-6 offset-lg-2 l__content ">
+            <h3>Newsletter</h3>
+            <p>{{ .Params.newsletter_text}}</p>
+            {{- partial "newsletter" -}}
+          </div>
+        </div>
+      </div>
     </section>
 </main>
 {{ end }}

@@ -51,6 +51,29 @@
   @media print
     margin: $space-double 0
 
+.l__partner__section
+  margin: $space-double 0
+
+  @media print
+    margin: 0
+
+    .row
+      margin-left: 0
+      padding-left: 0
+    
+    .col.col-12
+      width: 100%
+      max-width: none
+      flex: 0 0 100%
+      position: static
+      margin-left: 0
+      padding-left: 0
+      @include avoid-break()
+
+    figure
+      display: none
+
+
 .c__additional
   img
     max-height: 364px

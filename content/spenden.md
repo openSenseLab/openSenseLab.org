@@ -15,7 +15,7 @@ betterplace_text:
 
 ### Spenden ermöglichen es uns, unabhängig, interdisziplinär und gemeinnützig zu arbeiten.
 
-Bildung und freier Zugang zu Wissen und Informationen sind die Triebkraft für positive Veränderungen in unserer Welt. Schulen, Forschungseinrichtungen, engagierte Bürger*innen, Hobbyforscher*innen, Journalist*innen und Umweltaktivist*innen weltweit nutzen die openSenseMap.org als freie Plattform für Umwelt-Daten.
+Bildung und freier Zugang zu Wissen und Informationen sind die Triebkraft für positive Veränderungen in unserer Welt. Schulen, andere Bildungseinrichtungen, Forschungseinrichtungen, engagierte Bürger:innen, Hobbyforscher:innen, Journalist:innen und Umweltaktivist:innen weltweit nutzen die openSenseMap.org als freie Plattform für Umwelt-Daten.
 
 Uns liegt es am Herzen, dass die openSenseMap.org weiterhin für alle kosten- und werbefrei zur Verfügung steht.
 
@@ -23,12 +23,14 @@ Daher brauchen wir dringend Eure Unterstützung!
 Bitte spendet jetzt für die openSenseMap.org über das Spendenportal betterplace.
 Wir freuen uns auch über Eure Mitarbeit am Code und der Dokumentation.
 
+Neben der openSenseMap bieten wir mit dem [Jugend hackt Lab Münster]() und dem [Code Week RegioHub Münsterland]() ein regelmäßiges Bildungsangebot rund um Coding, Tüfteln und Making für Kinder und Jugendliche in Münster und dem gesamten Münsterland. 
+
 Mit Deiner Spende unterstüzt du uns und ermöglichst:
 
 * Bildungsangebote für Kinder und Jugendliche kostenfrei und verstetigt durchzuführen
-* den Betrieb und Wartung der openSenseMap als freie und kostenlose Umweltdatenplattform
+* den Betrieb und Wartung der openSenseMap als freie, kostenlose und offene Umweltdatenplattform
 * die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
 
 Danke!
 
-Euer openSenseLab Team
+Euer [openSenseLab Team](/team)

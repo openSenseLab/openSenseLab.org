@@ -17,13 +17,10 @@
 {{end}}
 {{ end }}
 
-{{ define "main" }}
+{{ define "main" }}{{ $partner := where .Site.Data.partner "partner" 1 }}
 <div class="container">
   <div class="row">
     <h1 class="col col-12">{{.Params.blurb}}</h1>
-  </div>
-  <div class="printer-hidden my-4 print-page">
-    <a href="#!" onclick="window.print()">{{ i18n "print" }}</a>
   </div>
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
@@ -128,8 +125,24 @@
     {{ end }}
     {{ end }}
   </div>
-</div>
-<aside class="container printer-hidden">
+
+  <section class="row l__partner__section">
+    <div class="col col-12">
+      <h2>Partner</h2>
+    <p>Wir freuen uns über unsere Mitstreiter und bedanken uns für die Unterstützung</p>
+    <div class="row align-items-center">
+      <ul class="row l__partner__list">
+        {{ range sort $partner "name" }}
+        <li class="col col-12 col-sm-3 col-lg-3">
+          <a href="{{.website}}"><img src="{{.img}}" alt="" /></a>
+          <h4>{{.name}}</h4>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+</section>
+
+<!-- <aside class="container printer-hidden">
   <div class="l__profile__aside row">
     <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
       <div class="row c__additional no-gutters">
@@ -150,5 +163,5 @@
       </div>
     </div>
   </div>
-</aside>
+</aside> -->
 {{ end }}

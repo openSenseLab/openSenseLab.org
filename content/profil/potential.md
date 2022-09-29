@@ -4,12 +4,12 @@ weight: 1
 
 img:
   -
-    url: /okf/profil/01.jpg
+    url: /files/profil/opensensemap_laptop.jpeg
     license: >
         Foto: <a href='http://tnt-fotoart.de'>Thomas Nitz</a>, <a href='https://www.flickr.com/photos/okfde/28768630798/in/album-72157667831731487/'>Eliza meets Tay: Debatten auf Twitter analysieren</a>, <a href='https://creativecommons.org/licenses/by/2.0/'>CC BY 2.0</a>
 
   -
-    url: /okf/profil/02.jpg
+    url: /files/profil/zugang.jpeg
     license: 'Foto: Leonard Wolf, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> edulabs'
 
 
@@ -17,7 +17,7 @@ img:
 arrange: img_top
 ---
 
-[#civictech](../projekte/#civic-tech)
-[#informationsfreiheit](../themen/informationsfreiheit/)
+#civictech
+#informationsfreiheit
 
-Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: Bürger*innen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politische Diskurs unterstützt. Dafür entwickeln wir Software, stellen Infrastruktur bereit und fördern Open-Source-Projekte. Wir experimentieren und bieten ein Experimentierfeld für andere.
+Moderne vernetzte Technologien bieten neue Möglichkeiten in der Bildung, im Umsatz von 

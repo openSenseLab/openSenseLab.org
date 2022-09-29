@@ -1,0 +1,32 @@
+.l__offers
+  section:nth-of-type(2n + 1)
+    .l__topics__section
+      flex-direction: row-reverse
+  a
+    text-decoration: none
+    color: $black
+  a:hover,
+  a:active
+    .linked
+      svg
+        transform: translateX(1em)
+  .linked
+    position: relative
+    display: inline-block
+    color: $anchor
+    svg
+      position: absolute
+      top: 7px
+      right: -20px
+      transition: transform 300ms ease
+
+
+.c__offers_headline
+    color: $darkgreen
+
+.c__offers_img
+    max-height: 10em
+
+.c__card
+    background-color: $greyish
+    padding: 0.4em
