@@ -39,12 +39,9 @@ more_text: |-
 
 
 Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern. 
-In Deutschland wird die Code Week Regional von einzelnen Inititative, den Code Week Regio Hubs, organisiert.
+In Deutschland wird die Code Week regional von einzelnen Inititative, den Code Week Regio Hubs, organisiert.
 Seit Juni 2022 sind wir Teil dieses tollen Netzwerks und engagieren uns für die Code Week im Münsterland.
 
-
-
- 
 
 
 Die Code Week Münsterland wird in diesem Jahr vom 08.10.-23.10.22 stattfinden und alle Veranstaltungen findet ihr auf unserer Seite unter: https://muensterland.codeweek.de
@@ -53,8 +50,6 @@ Die Code Week Münsterland wird in diesem Jahr vom 08.10.-23.10.22 stattfinden u
 
 
 **Ressourcen**<br>
-+ [Code Week für Schulen](http://www.handbuch.jugendhackt.de/) <br>
-+ [Code Week für Schulen](http://www.handbuch.jugendhackt.de/) <br>
 + [Code Week für Schulen](http://www.handbuch.jugendhackt.de/) <br>
 
 

@@ -11,7 +11,7 @@ tile: single
 tileclass: green
 layout: project
 weight: 6
-title: Jugend hackt
+title: Jugend hackt Lab Münster
 background: backgrounds/jugendhackt.jpg
 website: https://jugendhackt.org/lab/muenster/
 img: projects/jugendhackt/bunte_alpakas_karolina_kaczmarcyk-560x560.jpeg
@@ -42,7 +42,7 @@ subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
     Du kannst <a href="https://jugendhackt.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:thomas.bartoschek@opensenselab.org">Kontaktaufnahme</a>.
+    Mit deiner <a href="/spenden/">Spende kannst du unser bei der Durchführung der Jugend hackt Labs unterstützen und unterstützt die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:thomas.bartoschek@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website von Jugend hackt</a>.
 
