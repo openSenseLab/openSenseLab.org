@@ -1,17 +1,18 @@
 ---
-title: Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Gesellschaft arbeiten
+title: Wir bauen eine Community
 weight: 5
 
 img:
   -
-    url: /okf/profil/04.jpg
+    url: /files/profil/profil/04.jpg
+    license: 'Foto: Leonard Wolf, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
   -
     url: /okf/profil/05.jpg
-    license: 'Foto: Leonard Wolf, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> edulabs'
+    license: 'Foto: Leonard Wolf, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 arrange: img_bottom
 ---
 
-[#community](../projekte/#community)
+#community
 
-In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik, Verwaltungen und der Zivilgesellschaft zusammen.
+Im Rahmen der Code Week Münsterland und des Jugend hackt Lab Münster bauen wir eine Community auf, um Bildungsangebote für Kinder und Jugendliche nachhaltig in der Region zu verankern. Hierbei arbeiten wir mit verschiedenen Partnern, wie die Stadt Münster und vielen Ehrenamtlichen Mentor:innen.

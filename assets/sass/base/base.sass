@@ -68,6 +68,31 @@ a
 .bold
   font-weight: 500
 
+figure.blog
+  position: relative  
+    font-family: 'Apercu', sans-serif
+    font-weight: 500
+  figcaption
+    position: absolute
+    //text-shadow: 1px 0px black
+    bottom: 8px
+    left: 8px
+    color: black
+    //background-color: rgba(black, 0.4)
+    padding: 0 .4em
+    font-size: 10px
+    //max-width: 200px
+    opacity: 0
+    transition: opacity 200ms ease
+  a
+    text-decoration: underline
+    color: $green
+  &:hover,
+  &:active
+    figcaption
+      opacity: 1
+
+
 figure.license
   position: relative
     font-family: 'Apercu', sans-serif

@@ -8,8 +8,8 @@ title: openSenseMap
 tile: double
 tileclass: green
 layout: project
-img: projects/opensensemap_overview.png
-img_header: projects/opensensemap.png
+img: projects/opensensemap_overview.jpeg
+img_header: projects/opensensemap.jpeg
 website: https://opensensemap.org
 people:
   - name: Matthias Pfeil

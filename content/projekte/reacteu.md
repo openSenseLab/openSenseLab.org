@@ -9,7 +9,7 @@ tile: double
 tileclass: green
 layout: project
 img: projects/react_eu.jpg
-img_header: projects/opensensemap.png
+img_header: projects/react_eu.jpg
 website: https://www.efre.nrw.de/wege-zur-foerderung/react-eu/digitalisierung-ausserschulischer-lernorte-zdi/
 people:
   - name: Thomas Bartoschek

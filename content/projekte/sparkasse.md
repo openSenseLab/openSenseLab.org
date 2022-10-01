@@ -8,25 +8,14 @@ title: Sparkasse "Gemeinsam Nachhaltig"
 tile: single
 tileclass: green
 layout: project
-img: projects/opensensemap_overview.png
-img_header: projects/opensensemap.png
-#website: https://muensterland-ost.spenden-ist-einfach.de/voting/nachhaltigkeits-voting/opensenselab-unterstuetze-junge-menschen-die-welt-gruener-zu-mac/project-promoter/
-# people:
-#   - name: Matthias Pfeil
-#     role: Entwickler
-#contact:
-#  twitter: opensensemap
-#  facebook: 
-#  github: https://github.com/sensebox/opensensemap
-
+img: projects/sparkasse.jpeg
+img_header: projects/sparkasse.jpeg
 subtitle: Kostenlose Lehrmaterialien und Tutorials
 contact_person: thomasbartoschek
 years: 2022 
 financing:
   - Sparkasse Münsterland OST
 cta: Mitmachen
-cta_text: |-
-  Die Möglichkeiten zum Mitmachen sind vielseitig. Alle Infos gibt es <a href="https://edulabs.de/join/">hier</a>.
 more_text: |-
     Alle weiteren Infos gibt es auf der Seite der <a href="https://muensterland-ost.spenden-ist-einfach.de/gemeinsam-nachhaltig/?project_list_type=3&voting_slug=nachhaltigkeits-voting&ordering=random&hide={%22hide_funded%22:false,%22hide_expired%22:false}&sort=-balance">Sparkasse Münsterland Ost</a>.
 
