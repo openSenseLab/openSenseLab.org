@@ -17,6 +17,11 @@ title: "Projektwoche Havixbeck Pop Up Nachhaltigkeitsstore"
 Im Rahmen einer ganz besonderen MINT-Berufs- und Studienorientierungsmaßnahme begleiteten wir vom 29.08. - 03.09.2022 den gesamten Jahrgang 12 der Anne-Frank-Gesamtschule Havixbeck-Billerbeck bei einer Projektwoche mit dem Ziel im kleinen beschaulichen Billerbeck ein “Pop-Up Nachhaltigkeitszentrum” unter Einsatz modernster und smarter Technologien aufzubauen. 
 Die Schülerinnen und Schüler haben sich nach ihren Interessen (Kommunikation, Ausstellungsgestaltung, Medienkompetenz, Web-Design/Entwicklung, Künstliche Intelligenz, Physical Computing, 3D-Druck, Handwerk, Umweltdaten, Datenanalyse und Audioproduktion)  vorab verschiedenen Projektgruppen zugeteilt, die von unseren Mitarbeiter:innen und Mentor:innen tatkräftig unterstützt wurden. Die rund 70 Jugendlichen wurden so auf 9 Gruppen mit den folgenden Themen aufgeteilt, die größtenteils auch Exponate für das Nachhaltigkeitszentrum entwickelt haben.
 Eine Gruppe baute ein smartes Stadtmodell eines Teils von Billerbeck unter Einsatz von 3D-Druck, Mikrocontrollern. Darin wurden exemplarisch nachhaltige Verfahren, z.B. zum automatischen Bewässern, zur smarten Straßenbeleuchtung oder Parkplatzsensorik funktional dargestellt.
+<figure class="blog">
+    <img src="/files/blog/2022/2022-08-29-projektwochehavixbeck/prowo2022_01.jpeg" alt="">
+    <figcaption>Foto: Mario Pesch, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+</figure>
+
 Eine weitere Gruppe baute vier internetfähige Umweltmessstationen (senseBox:home), die bei der Eröffnung des Nachhaltigkeitszentrums an Bürgerinnen weitergegeben wurden. Zudem entwickelte die Gruppe auch eine mobile senseBox für das städtische Lastenrad Billy. 
 Die dritte Gruppe baute zwei KI-basierte Vogelfutterkästen, ausgestattet mit Kamera und Sensorik, der befähigt wurde Vögel aufzuzeichnen und die Art zu erkennen. Hier war handwerkliches und technisches Geschick gefragt. Beide smarte Vogelhäuser wurden auf der Plattform www.wiediversistmeingarten.de registriert und in Billerbecker Gärten verteilt.
 Die vierte Gruppe entwickelte mit der App GeoGami Lehrpfade für die Billerbecker Bürger, die sowohl die örtlichen Kräuter als auch frei verfügbares Obst aufzeigte, darüber informierte und Spielelemente enthielt. Die Spiele sind frei verfügbar und von allen Interessierten spielbar. Im Nachhaltigkeitszentrum  
@@ -26,6 +31,11 @@ Eine weitere Gruppe arbeitete mit einem Geographischen Informationssystem und en
 In der siebten Gruppe liefen viele Informationen der anderen Gruppen zusammen und wurden auf einem webbasierten “Smart Billerbeck Dashboard” visualisiert. Die Gruppe musste eine Webseite entwickeln, die automatisch Daten der senseBoxen, vom Lastenradverleih, aus den Mapstories und anderen Gruppen bezog und den Bürger:innen im Sinne des Crowdsourcing ermöglichte Nachhaltigkeitsideen für Billerbeck einzureichen. Diese wurden auch zufällig als “Idee des Tages” dargestellt.
 Gruppen acht begleitete das gesamte Projekt mit Film- und Fotoequipment, schrieb eine Pressemitteilung und produzierte einen Film über die Projektwoche, der im Nachhaltigeitszentrum ausgestrahlt wird.
 Die letzte Gruppe war für die Entwicklung der Ausstellung im “einLaden” in Billerbeck zuständig, wo das Nachhaltigkeitszentrum temporär einen Platz fand und am Freitag feierlich eröffnet wurde. Sie platzierten die Exponate und gestalteten die Räumlichkeiten entsprechend.
+
+<figure class="blog">
+    <img src="/files/blog/2022/2022-08-29-projektwochehavixbeck/prowo2022_04.jpeg" alt="">
+    <figcaption>Foto: Mario Pesch, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+</figure>
 
 Mario Pesch, unser Geschätsführer, meinte dazu: „Die praktischen Projekte – wie z.B. der Bau eines smarten Vogelfutterkastens, der Vogelarten KI-basiert erkennt und die Vögel zählt, haben einen besonders berufsorierentierenden Charakter, weshalb die Projektwoche als sog. Berufs- und Studienorientierungsmaßnahme im MINT Bereich von zdi (Zukunft durch Innovation.NRW) gefördert wird.“
 

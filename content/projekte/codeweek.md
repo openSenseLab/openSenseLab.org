@@ -13,7 +13,7 @@ weight: 6
 title: CodeWeek Regio Hub
 background: backgrounds/jugendhackt.jpg
 website: https://muensterland.codeweek.de
-img: projects/cw/CW-Muensterland-Prev-08.png
+img: projects/cw/CW-Muensterland-Prev-08.jpeg
 img_square: projects/cw/CW-Muensterland-Prev-05.png
 img_header: projects/cw/CW-Muensterland-Prev-05.png
 people:

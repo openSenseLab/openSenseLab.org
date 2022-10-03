@@ -4,11 +4,11 @@ weight: 3
 
 img:
   -
-    url: /files/profil/header2.jpg
-    license: 'Foto: Sandra Schink, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> Jugend hackt'
+    url: /files/profil/header2.jpeg
+    license: 'Foto: Mario Pesch, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> Jugend hackt'
   -
     url: /files/profil/muendigkeit.jpg
-    license: 'Foto: Jürgen Grünwald, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/">Jugend hackt in Österreich 2017</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+    license: 'Foto: Mario Pesch, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/">Jugend hackt in Österreich 2017</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 arrange: img_bottom_2
 
