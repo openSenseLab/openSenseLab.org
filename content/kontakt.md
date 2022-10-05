@@ -16,4 +16,4 @@ Mario Pesch<br>
 
 ## Logos und Material
 
-Die Logos der openSenseLab gGmbH, stehen [hier als Paket](/) zur Verfügung.
+Die Logos der openSenseLab gGmbH, stehen [hier als Paket](/files/openSenseLab-logo.zip) zur Verfügung.
