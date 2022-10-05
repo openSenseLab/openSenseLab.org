@@ -54,50 +54,48 @@
   staff: 1
   board: 0
   position: Öffentlichkeitsarbeit
-  bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
-  mail: sabine.weßling@opensenselab.de
+  # bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
+  mail: sabine.wessling@opensenselab.org
   twitter:
   website:
   github:
 
 - name: Björn Luig
-  img: luig
+  img: bjoern
   mentor: 1
   staff: 0
-  board: 1
-  advisory: 0
-  projects: Jugend hackt, Code Week
-  bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
-  twitter:
-  website:
-  github:
+  projects: BSO MINT
 
 - name: Verena Witte
   img: verena
   mentor: 1
   staff: 0
+  projects: BSO MINT
 
 - name: Jan Stenkamp
-  img:
+  img: jan
   mentor: 1
   staff: 0
-
-- name: Tom Niers
-  img:
-  mentor: 1
-  staff: 0
+  projects: BSO MINT
 
 - name: Helen Müller
   img: helen
   mentor: 1
   staff: 0
+  projects: BSO MINT
 
-- name: Larissa Krull
-  img:
+- name: Tom Niers
+  img: tom
   mentor: 1
   staff: 0
+  projects: Jugend hackt
 
-- name: Elias Grosse
-  img:
-  mentor: 1
-  staff: 0
+# - name: Larissa Krull
+#   img:
+#   mentor: 1
+#   staff: 0
+
+# - name: Elias Grosse
+#   img:
+#   mentor: 1
+#   staff: 0
