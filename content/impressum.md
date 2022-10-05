@@ -11,10 +11,8 @@ Deutschland
 **E-Mail:** info@opensenselab.org<br>
 **Telefon:** 02 51 / 98 29 88 67<br>
 
-[OpenStreetMap](https://www.openstreetmap.org/way/29386807)
-
 **Handelsregister:** HRB 19449<br>
-**Umsatzsteuernummer:** DE278022128<br>
+**Umsatzsteuernummer:** <br>
 **Registergericht:** Amtsgericht Münster<br>
 **Vertreten durch die Geschäftsführer**: Dr. Thomas Bartoschek, Mario Pesch<br>
 
