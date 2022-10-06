@@ -5,5 +5,5 @@ work: Unsere Vision ist eine Zukunft, in der jede:r freien Zugang zu Wissen und 
 donate_title: Unterstütze unsere Arbeit!
 donate_text: Unsere Arbeit ist unabhängig, interdisziplinär und nicht kommerziell. Mit einer Spende kannst du uns und unsere Arbeit unterstützen, um Bildungsangebote für Kinder und Jugendliche kostenfrei anzubieten.
 meta: openSenseLab gGmbH
-img_header: /files/headerstart-social-og.png
+img_header: /files/logos/openSenseLab-Logo.svg
 ---

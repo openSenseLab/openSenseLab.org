@@ -1,7 +1,7 @@
 ---
 title: Blog
-blurb: News aus dem OKF-Büro
+blurb: Neues von der openSenseLab
 layout: blog
-meta: OKF News
-img_header: /okf/blog-social-og.png
+meta: openSenseLab News
+img_header: /files/logos/openSenseLab-Logo.svg
 ---
