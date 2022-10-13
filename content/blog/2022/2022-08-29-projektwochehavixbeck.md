@@ -46,3 +46,9 @@ vielen von Ihnen erste Programmiererfahrung ermöglicht haben
 einen Ausblick auf spannende Berufe rund um (Geo-)Informatik und Nachhaltigkeit vermittelt zu haben. 
 einen nachhatligen Beitrag zur Billerbecker Stadtgesellschaft geleistet zu haben.
 und beim Großen Finale - der Eröffnung des Nachhaltigkeitszentrums den Funken in Ihren Augen gesheen zu haben selbst stolz zu sein. 
+
+Wir bedanken uns beim [ZDI-Zentrum Coesfeld](https://bildungsnetzwerk.kreis-coesfeld.de/zdi-netzwerk.html) für die Förderung der Projektwoche.
+
+<figure class="blog">
+    <img src="/files/blog/2022/2022-08-29-projektwochehavixbeck/Logo_zdi_Coesfeld.jpg" alt="">
+</figure>
