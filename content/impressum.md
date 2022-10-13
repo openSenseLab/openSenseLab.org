@@ -12,7 +12,7 @@ Deutschland
 **Telefon:** 02 51 / 98 29 88 67<br>
 
 **Handelsregister:** HRB 19449<br>
-**Umsatzsteuernummer:** <br>
+**Umsatzsteuernummer:** DE347523917<br>
 **Registergericht:** Amtsgericht Münster<br>
 **Vertreten durch die Geschäftsführer**: Dr. Thomas Bartoschek, Mario Pesch<br>
 
