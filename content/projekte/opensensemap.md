@@ -30,7 +30,7 @@ financing:
   - Spenden
 cta: Mitmachen
 cta_text: |-
-  Um die openSenseMap auch weiterhin kostenlos anzubieten und stetig weiterzuentwickeln sind wir auf Spenden angewiesen. Hier gehts zum <a href="https://github.com/sensebox/">Spendenportal</a> Betterplace
+  Um die openSenseMap auch weiterhin kostenlos anzubieten und stetig weiterzuentwickeln sind wir auf Spenden angewiesen. Hier gehts zum <a href="https://www.betterplace.org/de/projects/89947-opensensemap-org-die-freie-karte-fuer-umweltdaten">Spendenportal</a> Betterplace
 more_text: |-
      Die Möglichkeiten zum Mitmachen sind vielseitig. Zum einen freuen wir uns natürlich über jede neue Messstation auf der Karte, zum anderen natürlich über Arbeit am Code <a href="https://github.com/sensebox/">hier</a>.
 
