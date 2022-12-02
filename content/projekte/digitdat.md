@@ -17,9 +17,9 @@ years: 2022 - 2025
 financing:
   - Sparkling Science 2.0
 cta: Förderung
-cta_text: Gefördert wird das Projekt durch <a href="https://www.sparklingscience.at/">Sparkling Science 2.0</a>. <a href="https://www.sparklingscience.at/de/show-project.html?--typo3_neos_nodetypes-page%5bid%5d=1324">Projektsteckbrief</a>
+cta_text: Gefördert vom österreichischen <a href="https://www.bmbwf.gv.at/">Bundesministerium für Bildung, Wissenschaft und Forschung</a> im Rahmen von <a href="https://www.sparklingscience.at/">Sparkling Science 2.0</a>. 
 more_text: |-
-    Alle weiteren Infos gibt es auf der Seite der <a href="https://www.uibk.ac.at/bauphysik/forschung/projects/digidat/">Universität Innsbruck</a>.
+    Alle weiteren Infos gibt es auf der Seite der <a href="https://www.uibk.ac.at/bauphysik/forschung/projects/digidat/">Universität Innsbruck</a> und im <a href="https://www.sparklingscience.at/de/show-project.html?--typo3_neos_nodetypes-page%5bid%5d=1324">Projektsteckbrief</a>
 
 ---
 
