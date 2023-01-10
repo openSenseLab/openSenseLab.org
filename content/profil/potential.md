@@ -18,4 +18,4 @@ arrange: img_top
 #bildung
 #workshops
 
-In unseren Workshops und Bildungsangeboten bieten wir Kindern und Jugendlichen den Raum neue Technologien kennen- und nutzen zu lernen. Hierbei nutzen wir verschiedenen Technologien wie z.B. die senseBox oder die openSenseMap. Wir leben eine offene Hands On Mentalität und fördern die Kinder und Jugendliche beim eigenen entdecken der Möglichkeiten. Der ganzeinheitliche Ansatz unserer Workshops bietet nicht nur den Einblick in die Arbeit den Technologien sondern diskutieren auch gesellschaftliche Relevanz und ethetische Aspekte.
+In unseren Workshops und Bildungsangeboten bieten wir Kindern und Jugendlichen den Raum neue Technologien kennen- und nutzen zu lernen. Hierbei werden verschiedene Technologien wie z.B. die senseBox oder die openSenseMap genutzt. Wir leben eine offene Hands On Mentalität und fördern Kinder und Jugendliche beim eigenen Entdecken der Möglichkeiten. Der ganzeinheitliche Ansatz unserer Workshops bietet nicht nur Einblicke in die Arbeit der Technologien, sondern diskutieren auch gesellschaftliche Relevanz und ethische Aspekte.

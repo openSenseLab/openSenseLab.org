@@ -13,4 +13,4 @@ arrange: img_right
 #opendata
 #citizenscience
 
-Die [openSenseMap](/projekte/opensensemap/) ist eine zentrale Plattform für offene Umweltdaten in Deutschland und Weltweit. Mit dem Betrieb der Plattform stellen wir Bürger:innen, Forschungseinrichtugen die Infrastruktur für den Betrieb von eigenen Citzen Science Projekten.
+Die [openSenseMap](/projekte/opensensemap/) ist eine zentrale Plattform für offene Umweltdaten in Deutschland wie auch weltweit. Mit dem Betrieb der Plattform stellen wir Bürger:innen und Forschungseinrichtugen die Infrastruktur für den Betrieb von eigenen Citzen Science Projekten.
