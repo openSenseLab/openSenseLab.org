@@ -38,7 +38,7 @@ contact:
   website: https://jugendhackt.org/lab/muenster/
 #video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
 
-subtitle: Förderprogramm für technikbegeisterte Jugendliche
+subtitle: Jugendliche programmieren Stadt der Zukunft
 cta: ePart MS
 cta_text: |-
     ePart MS-LAB das Münster-Labor der Stabstelle Smart City für junge elektronische Partizipation, also digitale Bürgerbeteiligung mit Kindern und Jugendlichen. Entwickelt und gefördert wird diese Maßnahme im Rahmen des Bundsförderprogramms Modellprojekte Smart Cities vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen. Mehr Information zum Projekt findest du auf der <a href="https://smartcity.ms/epart-ms-lab/">Projektseite</a>.
