@@ -56,3 +56,9 @@ Gemeinsam mit der Stadt Münster und dem Digtallabor organsieren und veranstalte
     </figure>
 </div>
 
+
+<div class="one-img">
+    <figure class="license">
+        <img alt="Projektpartner" src="/files/projects/jugendhackt/projektpartner_hackathon.jpg">
+    </figure>
+</div>
