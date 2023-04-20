@@ -97,7 +97,7 @@ Der von Victoria und Anstasiia entwickelte Mülleimer animiert durch Abstimmungs
 
 🙏 TeraDank an codecentric AG und Dieter Dirkes für die Unterstützung mit zwei Mentoren und einem Pitch Training für die Teilnehmer:innen.
 
-🙏 PetaDank an die Mentor:innen Matthias Pfeil und Verena Witte (von re:edu GmbH & Co. KG) Tom Niers Jan Stenkamp Fabian Schumacher Björn Luig und Ilhan Oezkaya (von der University of Münster) und Florian Lüdiger Michel Ehmen (von codecentric AG) und das Orga-Team Torsten Henseler, Stefanie Heeke, Hening Spenthoff (Stadt Münster), Sabine Weßling und last but first: Mario Pesch (openSenseLab gGmbH) für die Gesamtkoordination!
+🙏 PetaDank an die Mentor:innen Matthias Pfeil und Verena Witte (von re:edu GmbH & Co. KG) Tom Niers Jan Stenkamp Fabian Schumacher Björn Luig und Ilhan Oezkaya (von der University of Münster), Florian Lüdiger Michel Ehmen (von codecentric AG) und David Krammer (LichtBlick SE) und das Orga-Team Torsten Henseler, Stefanie Heeke, Hening Spenthoff (Stadt Münster), Sabine Weßling und last but first: Mario Pesch (openSenseLab gGmbH) für die Gesamtkoordination!
 
 🙏 ExaDank an die Teilnehmer:innen für die tolle Arbeit und die vielen Ideen! 
 

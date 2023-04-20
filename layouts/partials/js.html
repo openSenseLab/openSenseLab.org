@@ -1,5 +1,12 @@
 {{ $banner := resources.Get "/js/banner.js" }}
 <script src="{{$banner.RelPermalink}}"></script>
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.7/dist/medium-zoom.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+      mediumZoom('[data-zoomable]')
+  });
+</script>
+
 
 {{ $lunr := resources.Get "/js/vendor/lunr.js" | resources.Minify | resources.Fingerprint }}
 <link rel="preload" href="{{$lunr.RelPermalink}}" as="script">
@@ -17,6 +24,7 @@
   <link rel="preload" href="{{$bsearch.RelPermalink}}" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="{{$bsearch.RelPermalink}}"></script>
+
 {{ end }}
 
 {{ if (eq .Section "projekte") }}
