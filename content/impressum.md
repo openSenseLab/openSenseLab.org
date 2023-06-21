@@ -5,7 +5,7 @@ meta: openSenseLab gGmbH Impressum, Adresse, Datenschutzerklärung
 **Angaben gemäß § 5 TMG**<br>
 openSenseLab gGmbH<br>
 Von-Steuben-Str. 21<br>
-48149 Münster</br>
+48143 Münster</br>
 Deutschland
 
 **E-Mail:** info@opensenselab.org<br>
