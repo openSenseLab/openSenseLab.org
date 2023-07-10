@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://opensenselab.org/"
 languageCode = "de-DE"
 title = "openSenseLab gGmbH"
 defaultContentLanguage = "de"
