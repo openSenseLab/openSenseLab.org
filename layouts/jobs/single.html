@@ -19,8 +19,8 @@
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
 <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
 {{with .Params.image}}
-  <meta property="og:image" content='{{ $.Site.BaseURL }}/{{ trim .src "/"}}'>
-  <meta name="twitter:image" content='{{ $.Site.BaseURL }}/{{ trim .src "/"}}'>
+  <meta property="og:image" content='{{ $.Site.BaseURL }}{{ trim .src "/"}}'>
+  <meta name="twitter:image" content='{{ $.Site.BaseURL }}{{ trim .src "/"}}'>
 {{end}}
 {{ end }}
 
@@ -66,7 +66,7 @@
         <div class="col col-12 col-md-6 offset-md-1">
           <p>
             Teilen:
-            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
+            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=openSenseLab&related=openSenseLab" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
             <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
           </p>
         </div>

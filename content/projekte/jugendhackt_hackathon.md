@@ -47,6 +47,8 @@ more_text: |-
 
 ---
 
+<iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/-DQYlCgqkWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Gemeinsam mit der Stadt Münster und dem Digtallabor organsieren und veranstalten wir einen Hackathon für Kinder und Jugendliche zwischen 12 und 18 Jahren. Durchgeführt wird der Hackathon im Rahmen des ePart MS-LABs, das Münster-Labor der Stabstelle Smart City für junge elektronische Partizipation, also digitale Bürgerbeteiligung mit Kindern und Jugendlichen. Entwickelt und gefördert wird diese Maßnahme im Rahmen des Bundsförderprogramms Modellprojekte Smart Cities vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen.
 
 <div class="one-img">
