@@ -40,7 +40,7 @@ Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten 
 - Umgang mit gängigen Software Tools (z.B. Canva, Affinity oder Adobe Creative Cloud)
 - Erfahrung mit der Betreuung von Social Media Kanälen
 - Erfahrung mit WordPress und/oder Typo3  
-- Einen ästhetischen Blick, und Lusth selbst zu gestalten und layouten und sowie Freude am Fotografieren/Filmen 
+- Einen ästhetischen Blick und Lust selbst zu gestalten und zu layouten, sowie Freude am Fotografieren/Filmen 
 
 ### Was musst du jetzt wissen
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
