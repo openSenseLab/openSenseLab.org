@@ -33,14 +33,14 @@ Die openSenseLab gGmbH ist ein im Jahr 2021 aus der Universität Münster ausge
 #### Was wir suchen
 
 - Eine kommunikative Persönlichkeit mit Teamplayer-Kompetenzen und Interesse am Thema Digitalisierung in der Bildung 
-- Hands-On Mentalität aber auch den Blick fürs große Ganze
+- Hands-On Mentalität, aber auch den Blick fürs große Ganze
 - Spaß am Texten und Gestalten
 
 Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten mit:
 - Umgang mit gängigen Software Tools (z.B. Canva, Affinity oder Adobe Creative Cloud)
 - Erfahrung mit der Betreuung von Social Media Kanälen
 - Erfahrung mit WordPress und/oder Typo3  
-- Einen ästhetischen Blick und Lust selbst zu gestalten und zu layouten, sowie Freude am Fotografieren/Filmen 
+- Einen ästhetischen Blick, Lust selbst zu gestalten und zu layouten, sowie Freude am Fotografieren/Filmen 
 
 ### Was musst du jetzt wissen
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
