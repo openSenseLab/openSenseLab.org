@@ -6,7 +6,7 @@ image:
     src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
     title: Jugend hackt Hackathon im Digitallabor
     license: "©Stadt Münster | Foto: Heiner Witte"
-published: true
+published: false
 title: "Gesucht: Werkstudent*in für Kommunikationsmanagement in Münster"
 ---
 ### Um unser Team in Sachen Kommunikation, Social Media und Veranstaltungen zu unterstützen, suchen wir ab sofort eine/n Werkstudent*in für Kommunkationsmanagement mit 8-12h/Woche in Münster.
