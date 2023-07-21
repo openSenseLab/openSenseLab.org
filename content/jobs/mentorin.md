@@ -31,8 +31,12 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Person mit Interesse an digitalen Technologien und digitaler Bildung in Schulen und außerschulischen Lernorten
 - Medienpädagogische Kompetenzen und technisches Grundverständnis 
 - Offenes Mindset und Engagement, die Zukunft des Lernens neu zu gestalten
-- Idealerweise Vorkenntnisse in z.B. blockbasierter Programmierung (z. B. Scratch, OzoBlockly), VR und AR (z. B. CoSpaces), Robotik und Sensorik (z. B. Ozobot, Dash, Lego EV3),    Mikrocontroller (z. B. senseBox, Arduino) oder anderen spannenden Technik Themen
-- Idealerweise Vorkenntnisse in Digitalen (Geo)-Lerntools (z.B. ArcGIS Online, Google Earth, QGIS, Mapstories...)
+
+Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten mit:
+- (blockbasierte) Programmierung (z. B. Scratch, Blockly, Javascript, Python etc.), VR und AR (z. B. CoSpaces), Robotik und Sensorik (z. B. Ozobot, Dash, Lego EV3), programmierung von Mikrocontrollern (z. B. senseBox, Arduino)
+- Umgang mit digitalen Fertigungstools wie z.B. 3D-Druck und Lasercutting
+- Digitalen (Geo)-Lerntools (z.B. ArcGIS Online, Google Earth, QGIS, Mapstories...)
+- Erfahrung in der Durchführung von Workshops mit Kindern und Jugendlichen
 
 
 ### Was musst du jetzt wissen
