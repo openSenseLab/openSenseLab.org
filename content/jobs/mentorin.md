@@ -18,21 +18,21 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Ein spannendes und bereicherndes Tätigkeitsfeld
 - Möglichkeiten, deine eigenen innovativen Ideen einzubringen
 - Neue Impulse und Ansätze im Bereich Lernen neu zu denken & Digitale Bildung
-- Eine Vergütung der Tätigkeit mit 16€/h als steuerfreie Übungsleiterpauschale
+- Eine Vergütung der Tätigkeit mit 16€/h als steuerfreie Übungsleiterpauschale 
 
 
 #### Deine Aufgaben
-- Durchführung von Workshops z.B. Jugend hackt Lab im Bereich Coding, Making und Robotik mit Kindern, Jugendlichen oder Erwachsenen in Münster und Umgebung
+- Durchführung von Workshops (z.B. im Jugend hackt Lab Münster) im Bereich Coding, Making und Robotik mit Jugendlichen in Münster und Umgebung
 - Schaffen von kreativen Lernräumen und spielerischen Lernerlebnissen
 - Selbstständige Vor- und Nachbearbeitung der Workshops in Absprache mit dem Team
 - Flexibilität: Termine unter der Woche vormittags oder nachmittags in 2–6 Stunden Formaten wie z.B. das [Jugend hackt Lab Münster](https://opensenselab.org/projekte/jugendhackt/) Dienstags von 16:00 - 18:00 Uhr.
-
 
 #### Was wir suchen
 - Person mit Interesse an digitalen Technologien und digitaler Bildung in Schulen und außerschulischen Lernorten
 - Medienpädagogische Kompetenzen und technisches Grundverständnis 
 - Offenes Mindset und Engagement, die Zukunft des Lernens neu zu gestalten
 - Idealerweise Vorkenntnisse in z.B. blockbasierter Programmierung (z. B. Scratch, OzoBlockly), VR und AR (z. B. CoSpaces), Robotik und Sensorik (z. B. Ozobot, Dash, Lego EV3),    Mikrocontroller (z. B. senseBox, Arduino) oder anderen spannenden Technik Themen
+- Idealerweise Vorkenntnisse in Digitalen (Geo)-Lerntools (z.B. ArcGIS Online, Google Earth, QGIS, Mapstories...)
 
 
 ### Was musst du jetzt wissen
