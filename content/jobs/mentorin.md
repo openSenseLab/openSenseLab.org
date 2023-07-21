@@ -33,13 +33,13 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Offenes Mindset und Engagement, die Zukunft des Lernens neu zu gestalten
 
 Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten mit:
-- (blockbasierte) Programmierung (z. B. Scratch, Blockly, Javascript, Python etc.), VR und AR (z. B. CoSpaces), Robotik und Sensorik (z. B. Ozobot, Dash, Lego EV3), programmierung von Mikrocontrollern (z. B. senseBox, Arduino)
+- (blockbasierte) Programmierung (z. B. Scratch, Blockly, Javascript, Python etc.), VR und AR (z. B. CoSpaces), Robotik und Sensorik (z. B. Ozobot, Dash, Lego EV3), Programmierung von Mikrocontrollern (z. B. senseBox, Arduino)
 - Umgang mit digitalen Fertigungstools wie z.B. 3D-Druck und Lasercutting
 - Digitalen (Geo)-Lerntools (z.B. ArcGIS Online, Google Earth, QGIS, Mapstories...)
-- Erfahrung in der Durchführung von Workshops mit Kindern und Jugendlichen
+- Erfahrung Kinder- und Jugendarbeit
 
 
 ### Was musst du jetzt wissen
-Wir freuen uns insbesondere über die Bewerbungen von Frauen, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
+Wir freuen uns insbesondere über die Bewerbungen von FLINTA*, BIPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
 
 Bitte schicke uns eine kurze Bewerbung per E-Mail an Mario Pesch (mario.pesch@opensenselab.org). Wir freuen uns auf dich!
