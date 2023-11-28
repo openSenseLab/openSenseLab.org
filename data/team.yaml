@@ -90,6 +90,19 @@
   staff: 0
   projects: Jugend hackt
 
+- name: Timber Borner
+  img: 
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Softwareentwickler*in und Mentor*in
+  position_en: Software developer and mentor
+  bio: "Timber Borner hat 2022 den Bachelor in Computing in Science mit Schwerpunkt Physik an der Universität Hamburg abgeschlossen. Seit 2015 ist sie als Softwareentwickler*in aktiv, seit 2021 außerdem als Aktivist*in. Bei openSenseLab vereint sie nun beides und verbessert (getreu dem Jugend Hackt Motto) mit Code die Welt."
+  mail: timber@opensenselab.org
+  twitter: 
+  website:
+  github: timber-they
+
 # - name: Larissa Krull
 #   img:
 #   mentor: 1
