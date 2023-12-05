@@ -1,5 +1,5 @@
 - name: Angela Schwering
-  img: schwering
+  img: schwering.jpeg
   staff: 1
   board: 1
   advisory: 0
@@ -9,7 +9,7 @@
   website:
 
 - name: Matthias Pfeil
-  img: pfeil
+  img: pfeil.jpeg
   staff: 1
   board: 1
   advisory: 0
@@ -23,7 +23,7 @@
   github: matpfe
 
 - name: Thomas Bartoschek
-  img: bartoschek
+  img: bartoschek.jpeg
   staff: 1
   board: 1
   advisory: 0
@@ -37,7 +37,7 @@
   github: robarto
 
 - name: Mario Pesch
-  img: pesch
+  img: pesch.jpeg
   staff: 1
   board: 1
   advisory: 0
@@ -50,8 +50,8 @@
   github: mariopesch
 
 - name: Sabine Weßling
-  img: wessling
-  staff: 1
+  img: wessling.jpeg
+  staff: 0
   board: 0
   position: Öffentlichkeitsarbeit und Fundraising
   bio: "Sabine Weßling ist Ansprechpartnerin für die Bereiche Öffentlichkeitsarbeit und Fundraising. Zuvor war sie u.a. für das Kulturgut Haus Nottbeck, die Bertelsmann Stiftung und weitere Non-Profit-Organisationen im Bildungsbereich tätig. Sabine studierte Sprach- und Literaturwissenschaften an der WWU Münster und managte zuletzt einen Sonderforschungsbereich am Institut für Neuro-und Verhaltensbiologie."
@@ -60,48 +60,98 @@
   website:
   github:
 
-- name: Björn Luig
-  img: bjoern
-  mentor: 1
-  staff: 0
-  projects: BSO MINT
+- name: Sophie Loewen 
+  img: loewen.jpeg
+  staff: 1
+  board: 0
+  position: Öffentlichkeitsarbeit und Fundraising
+  bio: " Sophie Loewen absolviert ihren Master in Strategischer Kommunikation an der Universität Münster und ist in der Planung der externen Kommunikation tätig. Ihr Ziel ist es, ihre Kenntnisse in strategischer Kommunikationsplanung mit ihrem Interesse und Engagement im Non-Profit-Sektor zu verbinden."
+  mail: sophie.loewen@opensenselab.org
+  twitter:
+  website:
+  github:  
 
-- name: Verena Witte
-  img: verena
-  mentor: 1
-  staff: 0
-  projects: BSO MINT
+- name: Marie Hozak
+  img: hozak.jpg
+  staff: 1
+  board: 0
+  position: Öffentlichkeitsarbeit und Social Media
+  bio: "Marie Hozak studiert in ihren letzten Bachelorsemestern Geographie am Institut für Geographie an der Uni Münster und unterstützt uns als Werkstudentin für Kommunikationsmanagement. In diesem Bereich konnte sie zuvor schon durch Praktika und ihr Engagement bei EGEA Erfahrung sammeln."
+  mail: sophie.loewen@opensenselab.org
+  twitter:
+  website:
+  github:  
 
-- name: Jan Stenkamp
-  img: jan
-  mentor: 1
-  staff: 0
-  projects: BSO MINT
+- name: Yousef Qamaz
+  img: qamaz.jpeg
+  staff: 1
+  board: 0
+  position: Software Entwickler
+  bio: ""
+  mail: yousef.qamaz@opensenselab.org
+  twitter:
+  website:
+  github:  
 
-- name: Helen Müller
-  img: helen
-  mentor: 1
-  staff: 0
-  projects: BSO MINT
-
-- name: Tom Niers
-  img: tom
-  mentor: 1
-  staff: 0
-  projects: Jugend hackt
+- name: Jonas Raabe
+  img: avatar.png
+  staff: 1
+  board: 0
+  position: Software Entwickler
+  bio: ""
+  mail: jonas.raabe@opensenselab.org
+  twitter:
+  website:
+  github:  
 
 - name: Timber Borner
-  img: 
+  img: timber.jpeg
   staff: 1
   board: 0
   advisory: 0
   position: Softwareentwickler*in und Mentor*in
   position_en: Software developer and mentor
-  bio: "Timber Borner hat 2022 den Bachelor in Computing in Science mit Schwerpunkt Physik an der Universität Hamburg abgeschlossen. Seit 2015 ist sie als Softwareentwickler*in aktiv, seit 2021 außerdem als Aktivist*in. Bei openSenseLab vereint sie nun beides und verbessert (getreu dem Jugend Hackt Motto) mit Code die Welt."
+  bio: "Timber Borner hat 2022 den Bachelor in Computing in Science mit Schwerpunkt Physik an der Universität Hamburg abgeschlossen. Seit 2015 ist sie als Softwareentwickler&ast;in aktiv, seit 2021 außerdem als Aktivist&ast;in. Bei openSenseLab vereint sie nun beides und verbessert (getreu dem Jugend Hackt Motto) mit Code die Welt."
   mail: timber@opensenselab.org
   twitter: 
   website:
   github: timber-they
+
+- name: Björn Luig
+  img: bjoern.jpeg
+  mentor: 1
+  staff: 0
+  projects: BSO MINT
+
+- name: Verena Witte
+  img: verena.jpeg
+  mentor: 1
+  staff: 0
+  projects: BSO MINT
+
+- name: Jan Stenkamp
+  img: jan.jpeg
+  mentor: 1
+  staff: 0
+  projects: BSO MINT
+
+- name: Helen Müller
+  img: helen.jpeg
+  mentor: 1
+  staff: 0
+  projects: BSO MINT
+
+- name: Tom Niers
+  img: tom.jpeg
+  mentor: 1
+  staff: 0
+  projects: Jugend hackt
+
+- name: Ilhan Özkaya  
+  img: avatar.png
+  mentor: 1
+  staff: 0
+  projects: Jugend hackt
 
 # - name: Larissa Krull
 #   img:
