@@ -43,7 +43,7 @@
   advisory: 0
   position: Geschäftsführer und Gesellschafter
   position_en: Member of the Board
-  bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepten rund um die senseBox und als Softwareentwickler die die graphische Lern- und Programmierumgebung. "
+  bio: "Mario Pesch hat Chemie und Geographie an der WWU Münster studiert und ist Experte für digitale Bildung und Bildungstechnologien. Während seiner Arbeit am Institut für Geoinformatik entwickelte er Bildungskonzepte rund um die senseBox und als Softwareentwickler die graphische Lern- und Programmierumgebung. "
   mail: mario.pesch@opensenselab.org
   twitter: mario_pesch
   website:
@@ -72,7 +72,7 @@
   github:  
 
 - name: Marie Hozak
-  img: hozak.jpg
+  img: hozak.jpeg
   staff: 1
   board: 0
   position: Öffentlichkeitsarbeit und Social Media
@@ -98,7 +98,7 @@
   staff: 1
   board: 0
   position: Software Entwickler
-  bio: ""
+  bio: "Jonas Raabe hat Geoinformatik an der Universität Münster studiert. Als Werkstudent war er auch während dieser Zeit im Bereich der Softwareentwicklung tätig. Er interessiert sich unter anderem für Open Source Technologien und die Umsetzung digitaler Kartentools."
   mail: jonas.raabe@opensenselab.org
   twitter:
   website:
