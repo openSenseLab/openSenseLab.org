@@ -26,7 +26,7 @@ end }} {{with .Params.meta}}
     <ul class="row l__team__list">
       {{ range sort $team "name" }} {{if .staff }}
       <li class="col col-12 col-sm-6 col-lg-4">
-        <img src="/team/{{.img}}.jpeg" alt="{{.img}}" />
+        <img src="/team/{{.img}}" alt="{{.img}}" />
         <h2 class="h3">{{.name}}</h2>
         {{ if eq $lang "en"}}
         <p class="l__team__meta">{{.position_en}}</p>
@@ -52,7 +52,7 @@ end }} {{with .Params.meta}}
     <ul class="row l__team__list">
       {{ range sort $mentor "name" }} {{if .mentor }}
       <li class="col col-12 col-sm-6 col-lg-4">
-        <img src="/team/{{.img}}.jpeg" alt="{{.img}}" />
+        <img src="/team/{{.img}}" alt="{{.img}}" />
         <h2 class="h3">{{.name}}</h2>
         {{ if eq $lang "en"}}
         <p class="l__team__meta">{{.position_en}}</p>
