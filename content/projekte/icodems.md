@@ -16,7 +16,6 @@ partners:
   - MExLab ExperMINTe Universität Münster
   - reedu GmbH & Co. KG
 contact:
-  mailinglist: https://jugendhackt.org/newsletter
   website: https://icode.ms
 contact_person: mariopesch
 years: 2024-2025 
@@ -24,7 +23,7 @@ financing:
   - EFRE/JTF Programm Nordrhein-Westfalen 
 cta: Mitmachen
 more_text: |-
-    Das Projekt iCODE_MS  der <a href="https://muensterland-ost.spenden-ist-einfach.de/gemeinsam-nachhaltig/?project_list_type=3&voting_slug=nachhaltigkeits-voting&ordering=random&hide={%22hide_funded%22:false,%22hide_expired%22:false}&sort=-balance">Sparkasse Münsterland Ost</a>.
+    Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 
 ---
 
