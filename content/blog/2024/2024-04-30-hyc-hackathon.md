@@ -1,6 +1,6 @@
 ---
 authors:
-- Sophie Loewen
+- Marie & Sophie
 date: 2024-04-30
 image:
   src: /files/blog/2024/2024-04-30-hyc-hackathon/DSCF0487.jpeg
