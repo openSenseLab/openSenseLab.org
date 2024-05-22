@@ -13,8 +13,7 @@ img_header: projects/bildungsangebot.jpeg
 people:
   - name: Mario Pesch
     role: Organisation und Durchführung
-  - name: Merle Morgenroth 
-    role: Durchführung
+
 subtitle: Berufs- und Studienorientierung für Schüler:innen ab der Jgst. 7
 contact_person: mariopesch  
 years: 2021 - heute

@@ -23,6 +23,8 @@ contact:
 people:
   - name: Mario Pesch
     role: Projektleitung
+  - name: Merle Morgenroth 
+    role: Durchführung
 years: 2024-2025 
 financing:
   - EFRE/JTF Programm Nordrhein-Westfalen 
