@@ -2,26 +2,33 @@
 type: education
 kategorien:
   - Bildung
+  - Förderungen
 categories:
   - Education
+  - Funding
 title: iCODE_MS
-published: false
+published: true
 tile: single
 tileclass: green
 layout: project
-img: projects/sparkasse.jpeg
-img_header: projects/sparkasse.jpeg
+img: projects/icodems/icodems.jpg
+img_header: projects/icodems/icodems_logo.png
 subtitle: Informatics Competencies Oriented Digital Education in Münster
 partners:
-  - MExLab ExperMINTe Universität Münster
+  - MExLab ExperiMINTe Universität Münster
   - reedu GmbH & Co. KG
+website: https://icode.ms
 contact:
   website: https://icode.ms
-contact_person: mariopesch
+people:
+  - name: Mario Pesch
+    role: Projektleitung
 years: 2024-2025 
 financing:
   - EFRE/JTF Programm Nordrhein-Westfalen 
 cta: Mitmachen
+cta_text: |-
+    Alle V zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 more_text: |-
     Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 
@@ -47,5 +54,17 @@ Lehrern konzipiert und umgesetzt wird. Dabei werden explizite Angebote für Mä
 eine wichtige Rolle einnehmen, da die Forschung zeigt, dass das Interesse von Mädchen an
 informatischer Bildung bereits während der Grundschulzeit und dann in der weiterführenden Schule
 stetig abnimmt. So wählen nur ca. 15% Mädchen und junge Frauen Informatik als Leistungskurs und
-sind somit in dieser MINT-Disziplin nach wie vor deutlich unterrepräsentiert
+sind somit in dieser MINT-Disziplin nach wie vor deutlich unterrepräsentiert.
 
+## Veranstaltungen
+Im Zeitraum von 2024-2025 werden verschiedene Veranstaltungen und Workshops für Kinder und Jugendliche angeboten. Alle Informationen zu den Veranstaltungen findest du auf der [Projektseite](https://icode.ms/veranstaltungen/).
+
+## Förderung  
+ iCODE_MS ist ein Gemeinschaftsprojekt der re:edu GmbH & Co. KG, des MExLab ExperiMINTe der Universität Münster und der openSenseLab gGmbH. Das Projekt ist gefördert im Rahmen des Aufrufes zum "Pakt für Informatik 2.0" mit Mitteln der Europäischen Union und dem Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW finanziert.
+
+<div class="one-img">
+    <figure class="license">
+        <img alt="Fördergeber" src="/files/projects/icodems/icodems_foerderung.jpg">
+        <figcaption><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+    </figure>
+</div>
