@@ -3,11 +3,6 @@
   img: /files/logos/ifgi-long.png
   website: https://www.uni-muenster.de/Geoinformatics/
 
-- name: re:edu GmbH & Co. KG
-  partner: 1
-  img: /files/logos/reedu.png
-  website: https://reedu.de/
-
 - name: Stadt Münster
   partner: 1
   img: /files/logos/stadtlogo-muenster.png
@@ -27,8 +22,3 @@
   partner: 1
   img: /files/logos/REACH_Logo_klein.svg
   website: https://www.reach-euregio.de/
-
-- name: kimai
-  partner: 1
-  img: /files/logos/cloud-logo.png
-  website: https://www.kimai.cloud/
