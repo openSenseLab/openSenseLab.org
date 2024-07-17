@@ -30,7 +30,7 @@ financing:
   - EFRE/JTF Programm Nordrhein-Westfalen 
 cta: Mitmachen
 cta_text: |-
-    Alle V zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
+    Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 more_text: |-
     Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 
