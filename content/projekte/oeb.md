@@ -53,15 +53,23 @@ Badges sind digitale Nachweise, die wie Zertifikate einfach und zeiteffizient ve
 2. Einem standardisierten, offenen und skalierbarem Kompetenz-Raster nach ESCO, das die Wertigkeit der Badges sicherstellt und institutionsübergreifendes Lernen ermöglicht.
 3. Einer offenen Community, die Badges erstellt, vergibt, erwirbt und gleichzeitig ihre Qualität durch ein Community-Review-Prinzip sicherstellt.
 
-## Veranstaltungen
-Im Zeitraum von 2024-2025 werden verschiedene Veranstaltungen und Workshops für Kinder und Jugendliche angeboten. Alle Informationen zu den Veranstaltungen findest du auf der [Projektseite](https://icode.ms/veranstaltungen/).
+
 
 ## Förderung  
- iCODE_MS ist ein Gemeinschaftsprojekt der re:edu GmbH & Co. KG, des MExLab ExperiMINTe der Universität Münster und der openSenseLab gGmbH. Das Projekt ist gefördert im Rahmen des Aufrufes zum "Pakt für Informatik 2.0" mit Mitteln der Europäischen Union und dem Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW finanziert.
+Open Educational Badges ist ein Gemeinschaftsprojekt von matrix Gruppe, mycelia.education und openSenseLab gGmbH. Es findet in Kooperation mit @Deutsche Telekom Stiftung statt, wird gefördert vom Bundesministerium für Bildung und Forschung und finanziert von der Europäischen Union - NextGenerationEU.
 
 <div class="one-img">
     <figure class="license">
-        <img alt="Fördergeber" src="/files/projects/icodems/icodems_foerderung.jpg">
-        <figcaption><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+        <img alt="Fördergeber" src="/files/projects/oeb/bmbf_logo_new.jpg">
+        <figcaption>BMBF</figcaption>
+    </figure>
+     <figure class="license">
+        <img alt="Fördergeber" src="/files/projects/oeb/eu_logo_new.png">
+        <figcaption>Fördergeber</figcaption>
     </figure>
 </div>
+
+## Partner
+
+
+## Mitmachen
