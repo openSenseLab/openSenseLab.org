@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <div class="events">
+    <h1>Upcoming Events</h1>
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p>{{ .Params.description }}</p>
+          <p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
+          <p><strong>Location:</strong> {{ .Params.location }}</p>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
