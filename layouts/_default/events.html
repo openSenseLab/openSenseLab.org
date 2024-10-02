@@ -21,19 +21,29 @@
 <main>
   <section class='container l__projects js-shuffle'>
     <div class="row">
-      <h1 class="col col-12 col-sm-10">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
-      <div class="events">
+      <h1 class="col col-12 col-sm-10 mb-2">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
+      <div class="events p-4" style="width: 100%;">
         <ul>
           {{ range .Pages }}
             <li>
-              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-              <p>{{ .Params.description }}</p>
-              <p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
-              <p><strong>Location:</strong> {{ .Params.location }}</p>
+              <div class="card p-2 mb-4" style="border: 1px solid #ddd; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <div class="card-body p-2">
+                  <h3 class="card-title mb-2"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                  <div class="d-flex justify-content-start align-items-center py-2">
+                    <h4 class="card-subtitle text-muted pr-2">{{ .Date | time.Format ":date_long"}}</h4>
+                    <div>
+                      {{ range .Params.tags }}
+                      <span class="badge" style="background-color: rgb(169, 246, 255);padding: 4px 8px; margin: 4px; border: 1px solid #ddd; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">{{ . }}</span>
+                      {{ end }}
+                    </div>
+                  </div>
+                  <h4 class="card-subtitle text-muted py-2"><strong>@</strong> {{ .Params.location }}</h4>
+                  <p class="card-text py-2">{{ .Params.description }} {{ i18n "more_information_under" }}: <a href="{{ .Permalink }}">{{ .Permalink }}</a></p>
+                </div>
+              </div>
             </li>
           {{ end }}
         </ul>
       </div>
-    
 </main>
 {{ end }}
