@@ -102,3 +102,5 @@
   translation: new project
 - id: anniversary_multiple_new_projects
   translation: new projects
+- id: more_information_under
+  translation: More information here

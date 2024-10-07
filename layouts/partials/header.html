@@ -33,7 +33,12 @@
         {{ end }} {{ with .Site.GetPage "/team" }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
-        <li><a href="/blog">Blog</a></li>
+        {{ with .Site.GetPage "/events" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ with .Site.GetPage "/blog" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
 
         <!-- {{ $langList := (.Page.AllTranslations) }} //Language selector
         {{ $currentLang := .Language}}
