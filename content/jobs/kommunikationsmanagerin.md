@@ -6,7 +6,7 @@ image:
     src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
     title: Jugend hackt Hackathon im Digitallabor
     license: "©Stadt Münster | Foto: Heiner Witte"
-published: false
+published: true
 title: "Gesucht: Werkstudent*in für Kommunikationsmanagement in Münster"
 ---
 ### Um unser Team in Sachen Kommunikation, Social Media und Veranstaltungen zu unterstützen, suchen wir ab sofort eine/n Werkstudent*in für Kommunkationsmanagement mit 8-12h/Woche in Münster.
@@ -24,11 +24,11 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Einen flexiblen Arbeitsvertrag mit 8-12 h/Woche, mit einer Vergütung von 15€/h
 
 #### Deine Aufgaben
-- Eigenständige Planung, Ausarbeitung und Umsetzung von digitalen Kampagnen
+- Eigenständige Planung, Ausarbeitung und Umsetzung von digitalen Kampagnen (Social Media, Newsletter, Website)
 - Verfassen von Texten für Websites, Newsletter und Printprodukte
 - Erstellen von Flyern, Broschüren und anderen Publikationen
 - Pflege der Websites für das Jugend hackt Lab, Code Week Münsterland und unsere eigene Website
-- Planung, Durchführung und Nachbereitung von Veranstaltungen und Aktionen
+- Unterstützung bei der Planung, Durchführung und Nachbereitung von Veranstaltungen und Aktionen
 
 #### Was wir suchen
 
