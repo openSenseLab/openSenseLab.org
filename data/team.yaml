@@ -117,6 +117,19 @@
   website:
   github: timber-they
 
+- name: Younes Assebbane
+  img: Younes.jpg
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Sozialarbeiter und Medienpädagoge
+  position_en: 
+  bio: "Younes hat Soziale Arbeit an der Fachhochschule Münster studiert. Er arbeitet seit mehreren Jahren als Medienpädagoge und ist in seiner Freizeit als Gamedesigner tätig. Aktuell studiert er Soziale Arbeit & Forschung im Master."
+  mail: younes.assebbane@opensenselab.org
+  twitter: 
+  website:
+  github: Dubleron
+
 - name: Björn Luig
   img: bjoern.jpeg
   mentor: 1
