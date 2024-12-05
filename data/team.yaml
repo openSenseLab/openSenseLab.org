@@ -33,7 +33,7 @@
   bio_en: "Dr. Thomas Bartoschek (shareholder) is a research associate at the Institute for Geoinformatics at WWU Münster. Thomas studied and received his PhD in geoinformatics and established the student and research lab GI@School at WWU Münster, where new technologies in the context of digital education such as the openSenseMap are developed and researched. Thomas is a member of the advisory board in the project 'The Future of STEM Learning' of the Deutsche Telekom Foundation."
   mail: thomas@opensenselab.org
   twitter: thomas_barto
-  website: 
+  website:
   github: robarto
 
 - name: Mario Pesch
@@ -60,16 +60,16 @@
   website:
   github:
 
-- name: Sophie Loewen 
+- name: Sophie Loewen
   img: loewen.jpeg
-  staff: 1
+  staff: 0
   board: 0
   position: Öffentlichkeitsarbeit und Fundraising
   bio: " Sophie Loewen absolviert ihren Master in Strategischer Kommunikation an der Universität Münster und ist in der Planung der externen Kommunikation tätig. Ihr Ziel ist es, ihre Kenntnisse in strategischer Kommunikationsplanung mit ihrem Interesse und Engagement im Non-Profit-Sektor zu verbinden."
   mail: sophie.loewen@opensenselab.org
   twitter:
   website:
-  github:  
+  github:
 
 - name: Marie Hozak
   img: hozak.jpeg
@@ -80,7 +80,7 @@
   mail: sophie.loewen@opensenselab.org
   twitter:
   website:
-  github:  
+  github:
 
 - name: Yousef Qamaz
   img: qamaz.jpeg
@@ -91,7 +91,7 @@
   mail: yousef.qamaz@opensenselab.org
   twitter:
   website:
-  github:  
+  github:
 
 - name: Jonas Raabe
   img: avatar.png
@@ -102,7 +102,7 @@
   mail: jonas.raabe@opensenselab.org
   twitter:
   website:
-  github:  
+  github:
 
 - name: Timber Borner
   img: timber.jpeg
@@ -113,23 +113,23 @@
   position_en: Software developer and mentor
   bio: "Timber Borner hat 2022 den Bachelor in Computing in Science mit Schwerpunkt Physik an der Universität Hamburg abgeschlossen. Seit 2015 ist sie als Softwareentwickler&ast;in aktiv, seit 2021 außerdem als Aktivist&ast;in. Bei openSenseLab vereint sie nun beides und verbessert (getreu dem Jugend Hackt Motto) mit Code die Welt."
   mail: timber@opensenselab.org
-  twitter: 
+  twitter:
   website:
   github: timber-they
 
 - name: Younes Assebbane
-  img: Younes.jpg
+  img: younes.jpg
   staff: 1
   board: 0
   advisory: 0
   position: Sozialarbeiter und Medienpädagoge
-  position_en: 
+  position_en:
   bio: "Younes hat Soziale Arbeit an der Fachhochschule Münster studiert. Er arbeitet seit mehreren Jahren als Medienpädagoge und ist in seiner Freizeit als Gamedesigner tätig. Aktuell studiert er Soziale Arbeit & Forschung im Master."
   mail: younes.assebbane@opensenselab.org
-  twitter: 
+  twitter:
   website:
   github: Dubleron
-=======
+
 - name: Sven Heitmann
   img: heitmann.jpg
   staff: 1
@@ -139,15 +139,35 @@
   position_en: Software developer and project manager
   bio: "Sven hat Geoinformatik an der Universität Münster studiert und arbeitet seit mehreren Jahren im agilen Software-Entwicklungsumfeld in Wirtschaft oder Wissenschaft. Sven begeistert sich dafür, im Team gesellschaftlich relevante Problemstellungen mit Technik anzugehen."
   mail: sven.heitmann@opensenselab.org
-  twitter: 
+  twitter:
   website:
   github: zven
 
 - name: Björn Luig
   img: bjoern.jpeg
-  mentor: 1
-  staff: 0
-  projects: BSO MINT
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Tüftler und Workshopleiter
+  position_en:
+  bio: "Björn ist passionierter Tüftler und entwickelt seit längerer Zeit Projekte rund um Mikrocontroller, Elektronik und 3D-Druck digitale Bildungsmaterialien. Er leitet vor allem Workshops für Jugendliche im Projekt iCODE_MS."
+  mail: bjoern.luig@opensenselab.org
+  twitter:
+  website:
+  github: BjoernLuig
+
+- name: Merle Morgenroth
+  img: avatar.png
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Workshopleiterin
+  position_en:
+  bio: "Merle studierte Biologie und Mathe im Lehramtstudium und leitet vor allem Workshops für Jugendliche im Projekt iCODE_MS."
+  mail: merle.morgenroth@opensenselab.org
+  twitter:
+  website:
+  github:
 
 - name: Verena Witte
   img: verena.jpeg
@@ -173,18 +193,8 @@
   staff: 0
   projects: Jugend hackt
 
-- name: Ilhan Özkaya  
+- name: Ilhan Özkaya
   img: avatar.png
   mentor: 1
   staff: 0
   projects: Jugend hackt
-
-# - name: Larissa Krull
-#   img:
-#   mentor: 1
-#   staff: 0
-
-# - name: Elias Grosse
-#   img:
-#   mentor: 1
-#   staff: 0
