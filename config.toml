@@ -6,6 +6,7 @@ enableRobotsTXT = true
 
 [params]
   twitter = "opensenselab"
+  paginate = 10
 
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
@@ -37,6 +38,15 @@ weight =  80
     suffixes = ["xml"]
   [mediaTypes."application/json"]
     suffixes = ["json"]
+
+
+[menu]
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = 1
+
 
 [outputFormats]
   [outputFormats.Atom]

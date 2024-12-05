@@ -1,7 +1,7 @@
 ---
 authors:
 - Mario
-date: 2023-07-21
+date: 2024-10-01
 image:
     src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
     title: Jugend hackt Hackathon im Digitallabor

@@ -18,7 +18,6 @@ contact:
   twitter: 
   facebook: 
   github: 
-
 subtitle: Digitalisierung außerschulischer Lernorte zdi
 contact_person: thomasbartoschek
 years: 2022 

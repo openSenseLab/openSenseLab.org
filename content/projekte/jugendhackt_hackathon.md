@@ -10,7 +10,7 @@ tile: single
 #tileclass: dark
 tileclass: green
 layout: project
-weight: 6
+weight: 7
 title: Jugend hackt Hackathon Münster
 background: projects/epart_hackathon.jpeg
 website: https://jugendhackt.org/lab/muenster/

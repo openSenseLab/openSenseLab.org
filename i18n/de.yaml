@@ -98,3 +98,5 @@
   translation: "Diese Seite drucken"
 - id: close
   translation: Schließen
+- id: more_information_under
+  translation: Mehr Informationen unter

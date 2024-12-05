@@ -7,6 +7,12 @@
   {{ end }} {{ with .Site.GetPage "/impressum" }}
   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
-  <li><a href="https://pad.opensenselab.org">Hedgedoc</a></li>
-  <li><a href="https://chat.opensenselab.org">Mattermost</a></li>
+  {{ with .Site.GetPage "/datenschutz" }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  {{ with .Site.GetPage "/newsletter" }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  <!-- <li><a href="opensenselab.org">Newsletter</a></li>
+  <li><a href="https://chat.opensenselab.org">Mattermost</a></li> -->
 </ul>

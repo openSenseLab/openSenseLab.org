@@ -129,6 +129,19 @@
   twitter: 
   website:
   github: Dubleron
+=======
+- name: Sven Heitmann
+  img: heitmann.jpg
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Softwareentwickler und Projektleiter
+  position_en: Software developer and project manager
+  bio: "Sven hat Geoinformatik an der Universität Münster studiert und arbeitet seit mehreren Jahren im agilen Software-Entwicklungsumfeld in Wirtschaft oder Wissenschaft. Sven begeistert sich dafür, im Team gesellschaftlich relevante Problemstellungen mit Technik anzugehen."
+  mail: sven.heitmann@opensenselab.org
+  twitter: 
+  website:
+  github: zven
 
 - name: Björn Luig
   img: bjoern.jpeg

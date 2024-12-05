@@ -31,7 +31,7 @@ contact:
 subtitle: Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern.
 cta: Teilnehmen
 cta_text: |-
-    Du kannst Teil der Code Week werden und einen eigenen Workshop anbieten.  Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
+    Du kannst Teil der Code Week werden und einen eigenen Workshop anbieten. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf unserer <a href="https://muensterland.codeweek.de/">Website der Code Week Münsterland</a> oder auf der <a href="https://codeweek.de/">Website der Code Week Deutschland</a>.
 
@@ -44,12 +44,14 @@ Seit Juni 2022 sind wir Teil dieses tollen Netzwerks und engagieren uns für die
 
 
 
-Die Code Week Münsterland wird in diesem Jahr vom 08.10.-23.10.22 stattfinden und alle Veranstaltungen findet ihr auf unserer Seite unter: https://muensterland.codeweek.de
+Die Code Week Münsterland wird in diesem Jahr vom 12.10.-27.10.24 stattfinden und alle Veranstaltungen findet ihr auf unserer Seite unter: https://muensterland.codeweek.de
 
 
 
 
 **Ressourcen**<br>
-+ [Code Week für Schulen](http://www.handbuch.jugendhackt.de/) <br>
++ [Code Week Germany](http://www.codeweek.de.jugendhackt.de/) <br>
++ [Code Week Münsterland](https://muensterland.codeweek.de/)<br>
++ [Code Week Europe](https://codeweek.eu)<br>
 
 
