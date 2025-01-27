@@ -51,8 +51,8 @@ Neben dem Projekt OEB betreiben wir mit der [openSenseMap](https://opensensemap.
 - Kommunikation in Englisch und Deutsch (Englisch notwendig)
 - Spaß an kreativen Problemlösungen
 
-#### Was musst du jetzt wissen
+#### Werde Teil des Teams
 
 Wir freuen uns insbesondere über die Bewerbungen von FLINTA\*, BIPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
 
-Bitte schicke uns eine kurze Bewerbung per E-Mail an Mario Pesch (mario.pesch@opensenselab.org). Wir freuen uns auf dich!
+Bitte schicke uns eine kurze Bewerbung oder Fragen bis zum **15.02.2025** per E-Mail an Mario Pesch (mario.pesch@opensenselab.org). Wir freuen uns auf dich!
