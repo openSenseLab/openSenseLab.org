@@ -18,11 +18,10 @@ title: "Gesucht: Full-Stack Entwickler*in für Webanwendungen"
 
 Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausgegründete gemeinnützige Einrichtung, deren Vision eine Zukunft ist, in der jede:r freien Zugang zu Wissen und exzellenter Bildung und digitalen Technologien hat und sich digital mündig für Klima- und Umweltschutz einsetzt. Wir sind Anbieter von schulischen und außerschulischen Bildungsmaßnahmen (Code Week Münsterland, Jugend hackt Lab Münster, Hackathons, Workshops) sowie in Softwareentwicklung und dem Betrieb von Softwareplattoformen im Citizen Science und Bildungsbereich tätig.
 
-Mit der openSenseMap betreiben wir eine offene Citizen Science Plattform für Umweltdaten, die einen wichtigen Beitrag zur Demokratisierung von Wissen und Informationen rund um die Themen Klima und Umwelt leistet und zugleich eine wichtige Grundlage für Bildungsarbeit im Kontext von Nachhaltigkeit, Data Literacy und Data Science darstellt.
-
-Neben der openSenseMap betreuen wir die technische Entwicklung im Projekt MINT.OBadges, ein vom BMBF gefördertes Kooperationsprojekt, welches mit Partnern aus Berlin und Erkrath seit 1.5 Jahren gemeinsam umgesetzt. Die Plattform Open Educational Badges ermöglicht es Zertifikate als open Badges an Lernende auszustellen.
-
+Im Bereich der Softwareentwicklung betreuen wir die technische Entwicklung im Projekt MINT.OBadges, ein vom BMBF gefördertes Kooperationsprojekt, welches mit Partnern aus Berlin und Erkrath seit 1.5 Jahren gemeinsam umgesetzt. Die Plattform Open Educational Badges ermöglicht es Zertifikate als open Badges an Lernende auszustellen.
 Einen ersten Eindruck von der Plattform kannst du dir unter https://openbadges.education verschaffen. Der Code ist frei zugänglich unter: https://github.com/orgs/mint-o-badges/repositories einsehbar.
+
+Neben dem Projekt OEB betreiben wir mit der [openSenseMap](https://opensensemap.org/) eine offene Citizen Science Plattform für Umweltdaten, die einen wichtigen Beitrag zur Demokratisierung von Wissen und Informationen rund um die Themen Klima und Umwelt leistet und zugleich eine wichtige Grundlage für Bildungsarbeit im Kontext von Nachhaltigkeit, Data Literacy und Data Science darstellt.
 
 #### Was wir bieten
 
