@@ -6,7 +6,7 @@ image:
   src: /files/jobs/2025-01-27-oeb-osem.png
   title: OEB und openSenseMap
   license: "©openSenseLab gGmbH"
-published: true
+published: false
 title: "Gesucht: Full-Stack Entwickler*in für Webanwendungen"
 ---
 
