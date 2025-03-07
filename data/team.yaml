@@ -156,6 +156,19 @@
   website:
   github: BjoernLuig
 
+- name: Sandra-Marie Oijlsager
+  img: sandra.jpeg
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Kommunkationsmangerin
+  position_en:
+  bio: ""
+  mail: sandra.oijlsager@opensenselab.org
+  twitter:
+  website:
+  github:
+
 - name: Merle Morgenroth
   img: avatar.png
   staff: 1
