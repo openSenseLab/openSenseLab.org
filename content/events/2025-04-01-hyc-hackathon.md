@@ -1,12 +1,12 @@
 ---
 title: "Fortbildungsangebot: Hackathon für Lehrkräfte | Entwicklung von innovativen Ideen und Projekten für digitale Schule"
-date: 2024-09-30 # only the date when the event will be released on the website
-eventdate: 2024-11-13
+date: 2025-01-01 # only the date when the event will be released on the website
+eventdate: 2025-04-24
 location: "Digitallabor Münster | Leonardo Campus 6a | 48149 Münster"
 description: "."
 link: https://pretix.opensenselab.org/hack1311124/
 tags: ["Fortbildung", "Lehrkräfte", "Schule"]
-archive: true
+archive: false
 ---
 
 Sie sind Lehrkraft und möchten innovative Ansätze für eine zeitgemäße MINT-Bildung an Ihrer Schule entwickeln? Dann nehmen Sie an unserem eintägigen Hackathon teil! In diesem inspirierenden Format werden gemeinsam mit weiteren Lehrkräften aus verschiedenen Fachrichtungen kreative Ideen für eine zukunftsfähige MINT-Bildung erarbeitet.
