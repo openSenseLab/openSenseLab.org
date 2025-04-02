@@ -21,34 +21,35 @@
 <main>
   <section class='container l__projects js-shuffle'>
     <div class="row">
-      <h1 class="col col-12 col-sm-10 mb-2">{{ if .Params.blurb }}{{ .Params.blurb }}{{ else }}{{ .Title }}{{ end }}</h1>
+      <h1 class="col col-12 col-sm-10 mb-2">
+        {{ if .Params.blurb }}{{ .Params.blurb }}{{ else }}{{ .Title }}{{ end }}
+      </h1>
       <div class="events p-4" style="width: 100%;">
         <ul>
           {{ $allEvents := slice }}
+          {{ $now := .Date.Format "2006-01-02" }} <!-- Get the current date in the same format as eventdate -->
+
           {{ range .Pages }}
-            {{ $sortDate := (or .Params.eventDateStart .Params.eventdate .Date) }}
-            {{ $event := dict "page" . "sortDate" $sortDate }}
-            {{ $allEvents = $allEvents | append $event }}
+            {{ $eventDate := .Params.eventdate }} <!-- Get the event date -->
+            {{ $isArchived := or (.Params.archive | default false) false }}
+
+            {{ if and $eventDate (ge $eventDate $now) (not $isArchived) }} <!-- Compare eventdate with current date -->
+              {{ $event := dict "page" . "eventDate" $eventDate }}
+              {{ $allEvents = $allEvents | append $event }}
+            {{ end }}
           {{ end }}
 
-          {{ range sort $allEvents "sortDate" "asc" }}
+          {{ range sort $allEvents "eventDate" "asc" }}
             {{ $event := .page }}
             <li>
               <div class="card p-2 mb-4" style="border: 1px solid #ddd; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
                 <div class="card-body p-2">
                   <h3 class="card-title mb-2"><a href="{{ $event.Permalink }}">{{ $event.Title }}</a></h3>
-                  
+
                   <div class="d-flex justify-content-start align-items-center py-2">
-                    {{ if $event.Params.eventDateStart }}
-                      <h4 class="card-subtitle text-muted pr-2">
-                        {{ $event.Params.eventDateStart | time.Format ":date_long" }}
-                        {{ with $event.Params.eventDateEnd }} - {{ . | time.Format ":date_long" }}{{ end }}
-                      </h4>
-                    {{ else if $event.Params.eventdate }}
-                      <h4 class="card-subtitle text-muted pr-2">{{ $event.Params.eventdate | time.Format ":date_long" }}</h4>
-                    {{ else }}
-                      <h4 class="card-subtitle text-muted pr-2">{{ $event.Date | time.Format ":date_long" }}</h4>
-                    {{ end }}
+                    <h4 class="card-subtitle text-muted pr-2">
+                      {{ $event.Params.eventdate | time.Format ":date_long" }}
+                    </h4>
                     
                     <div>
                       {{ range $event.Params.tags }}
