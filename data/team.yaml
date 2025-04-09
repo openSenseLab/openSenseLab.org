@@ -224,3 +224,9 @@
   mentor: 1
   staff: 0
   projects: Jugend hackt
+
+- name: Jerry Vincent
+  img: Jerry.png
+  mentor: 1
+  staff: 0
+  projects: openSenseMap
