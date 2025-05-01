@@ -6,7 +6,6 @@ image:
   src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
   title: Jugend hackt Hackathon im Digitallabor
   license: "©Stadt Münster | Foto: Heiner Witte"
-published: false
 title: "Gesucht: Werkstudent*in für Kommunikationsmanagement in Münster"
 ---
 

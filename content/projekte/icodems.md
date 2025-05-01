@@ -7,7 +7,7 @@ categories:
   - Education
   - Funding
 title: iCODE_MS
-published: true
+published: 2023-06-21
 tile: single
 tileclass: green
 layout: project
@@ -23,28 +23,28 @@ contact:
 people:
   - name: Mario Pesch
     role: Projektleitung
-  - name: Merle Morgenroth 
+  - name: Merle Morgenroth
     role: Durchführung
-years: 2024-2025 
+years: 2024-2025
 financing:
-  - EFRE/JTF Programm Nordrhein-Westfalen 
+  - EFRE/JTF Programm Nordrhein-Westfalen
 cta: Mitmachen
 cta_text: |-
-    Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
+  Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 more_text: |-
-    Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
-
+  Alle Informationen zum Projekt findest du auf der <a href="https://icode.ms">Projektseite</a>.
 ---
 
 # Informatics Competencies Oriented Digital Education in Münster | iCODE_MS
 
 Im Projekt iCODE_ms möchten wir Kinder und Jugendliche verschiedenen Alters und aus unterschiedlichen Bildungskontexten nachhaltig mit informatischen Zukunftskompetenzen ausstatten. Nachhaltig im doppelten Sinne, denn wir möchten:
+
 - die Schüler:innen an den für Sie relevanten Themen wie Klima- und Umweltschutz,
-Mobilitätswende und digitale Mitgestaltung von Politik und Gesellschaft „abholen“ und sie
-„mitnehmen“ an die dafür relevanten Orte in ihrer Stadt und in der Natur und
+  Mobilitätswende und digitale Mitgestaltung von Politik und Gesellschaft „abholen“ und sie
+  „mitnehmen“ an die dafür relevanten Orte in ihrer Stadt und in der Natur und
 - ihnen die für eine zukunftsorientierte Teilhabe relevanten informatischen Kompetenzen,
-wie Algorithmen, Modellierung, Programmierung, aber auch aktuelle Themen wie Künstliche
-Intelligenz, Data Science und Internet of Things vermitteln.
+  wie Algorithmen, Modellierung, Programmierung, aber auch aktuelle Themen wie Künstliche
+  Intelligenz, Data Science und Internet of Things vermitteln.
 
 Eine forschende Auseinandersetzung und inhaltliche Verzahnung von informatischer Bildung im
 anwendungsbezogenen Kontext der Bildung für Nachhaltige Entwicklung (BNE) schafft so den Zugang
@@ -59,10 +59,12 @@ stetig abnimmt. So wählen nur ca. 15% Mädchen und junge Frauen Informatik als 
 sind somit in dieser MINT-Disziplin nach wie vor deutlich unterrepräsentiert.
 
 ## Veranstaltungen
+
 Im Zeitraum von 2024-2025 werden verschiedene Veranstaltungen und Workshops für Kinder und Jugendliche angeboten. Alle Informationen zu den Veranstaltungen findest du auf der [Projektseite](https://icode.ms/veranstaltungen/).
 
-## Förderung  
- iCODE_MS ist ein Gemeinschaftsprojekt der re:edu GmbH & Co. KG, des MExLab ExperiMINTe der Universität Münster und der openSenseLab gGmbH. Das Projekt ist gefördert im Rahmen des Aufrufes zum "Pakt für Informatik 2.0" mit Mitteln der Europäischen Union und dem Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW finanziert.
+## Förderung
+
+iCODE_MS ist ein Gemeinschaftsprojekt der re:edu GmbH & Co. KG, des MExLab ExperiMINTe der Universität Münster und der openSenseLab gGmbH. Das Projekt ist gefördert im Rahmen des Aufrufes zum "Pakt für Informatik 2.0" mit Mitteln der Europäischen Union und dem Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW finanziert.
 
 <div class="one-img">
     <figure class="license">

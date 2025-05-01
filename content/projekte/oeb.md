@@ -7,7 +7,7 @@ categories:
   - Education
   - Funding
 title: open Educational Badges
-published: true
+published: 2023-06-21
 tile: single
 weight: 1
 tileclass: green
@@ -24,7 +24,7 @@ contact:
 people:
   - name: Mario Pesch
     role: Administration
-  - name: Sven Heitmann 
+  - name: Sven Heitmann
     role: Projektleitung
   - name: Jonas Raabe
     role: Entwicklung
@@ -32,15 +32,14 @@ people:
     role: Entwicklung
   - name: Yousef Qamaz
     role: Entwicklung
-years: 2023-2025 
+years: 2023-2025
 financing:
   - Bildungsministerium für Bildung und Forschung
 cta: Mitmachen
 cta_text: |-
-    Alle Informationen zum Projekt findest du auf der <a href="https://openbadges.education/public/about">Projektseite</a>.
+  Alle Informationen zum Projekt findest du auf der <a href="https://openbadges.education/public/about">Projektseite</a>.
 more_text: |-
-    Ihr wollt auch open Badges für eure Institution oder euer Projekt vergeben? Dann meldet euch bei uns oder registriert euch direkt auf der <a href="https://openbadges.education/public/start">Plattform</a>.
-
+  Ihr wollt auch open Badges für eure Institution oder euer Projekt vergeben? Dann meldet euch bei uns oder registriert euch direkt auf der <a href="https://openbadges.education/public/start">Plattform</a>.
 ---
 
 # open Educational Badges | OEB
@@ -53,9 +52,8 @@ Badges sind digitale Nachweise, die wie Zertifikate einfach und zeiteffizient ve
 2. Einem standardisierten, offenen und skalierbarem Kompetenz-Raster nach ESCO, das die Wertigkeit der Badges sicherstellt und institutionsübergreifendes Lernen ermöglicht.
 3. Einer offenen Community, die Badges erstellt, vergibt, erwirbt und gleichzeitig ihre Qualität durch ein Community-Review-Prinzip sicherstellt.
 
+## Förderung
 
-
-## Förderung  
 Open Educational Badges ist ein Gemeinschaftsprojekt von matrix Gruppe, mycelia.education und openSenseLab gGmbH. Es findet in Kooperation mit @Deutsche Telekom Stiftung statt, wird gefördert vom Bundesministerium für Bildung und Forschung und finanziert von der Europäischen Union - NextGenerationEU.
 
 <div class="one-img">
@@ -70,6 +68,5 @@ Open Educational Badges ist ein Gemeinschaftsprojekt von matrix Gruppe, mycelia.
 </div>
 
 ## Partner
-
 
 ## Mitmachen
