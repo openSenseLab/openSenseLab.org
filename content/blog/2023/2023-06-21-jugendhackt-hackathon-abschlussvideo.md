@@ -1,6 +1,6 @@
 ---
 authors:
-- Mario Pesch
+  - Mario Pesch
 date: 2023-06-21
 image:
   src: /files/blog/2023/2023-06-21-jugendhackt-hackathon-abschlussvideo/Jugend_hackt_Hackathon_thumbnail.jpg
@@ -8,7 +8,7 @@ image:
   license: "©openSenseLab gGmbH"
 type: post
 layout: post
-published: true
+published: 2023-06-21
 featured: blue
 title: "Jugend hackt Hackathon Abschlussvideo"
 ---

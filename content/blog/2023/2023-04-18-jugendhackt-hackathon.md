@@ -1,6 +1,6 @@
 ---
 authors:
-- Mario Pesch
+  - Mario Pesch
 date: 2023-04-18
 image:
   src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
@@ -8,7 +8,7 @@ image:
   license: "©Stadt Münster | Foto: Heiner Witte"
 type: post
 layout: post
-published: true
+published: 2023-04-18
 featured: blue
 title: "Erster Jugend hackt Hackathon in Münster"
 ---
@@ -22,12 +22,14 @@ Wir sind zutiefst beeindruckt mit welch fantastischen Ideen für die #StadtderZu
 ### Die Projekte im Überblick:
 
 ### Dirtbike App
+
 <figure class="blog">
     <img src="/files/blog/2023/2023-04-18-jugendhackt-hackathon/hackathon_abschluss-8.jpg" alt="">
     <figcaption>Foto: Jan Stenkamp, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
 </figure>
 
 ### ConnectBus
+
 Der Connect-Bus von Laurin, Jonas und Paul kann sich durch eine selbst entwickelte und programmierte Magnet-Kopplung teilen, um flexibler auf Bedarfe einzugehen. Neben einem Modeel haben sich eine Website gebaut, in der Busse angefordert werden können und auf der auch die Busfahrer:innen Informationen über die zu fahrende Strecke erhalten. So soll Wartezeit reduziert werden.
 
 <figure class="blog">
@@ -64,7 +66,7 @@ Leo, Lonnie, Liam, Una und Frede haben eine lokale Zahlungsmöglichkeit für Ges
 
 ### Locallense
 
-Die Seite locallense (https://localense.de/) von Jaro, Sammy, Jonah, Tim und Henri ermöglicht einen Überblick über lokale Geschäfte und Restaurants in Münster. Die Seite soll helfen, lokale Geschäfte zu unterstützen und die Stadt lebenswerter zu machen. 
+Die Seite locallense (https://localense.de/) von Jaro, Sammy, Jonah, Tim und Henri ermöglicht einen Überblick über lokale Geschäfte und Restaurants in Münster. Die Seite soll helfen, lokale Geschäfte zu unterstützen und die Stadt lebenswerter zu machen.
 
 <figure class="blog">
     <img src="/files/blog/2023/2023-04-18-jugendhackt-hackathon/hackathon_abschluss-3.jpg" alt="">
@@ -73,7 +75,7 @@ Die Seite locallense (https://localense.de/) von Jaro, Sammy, Jonah, Tim und Hen
 
 ### Ein Zuhause fast so Smart wie wir
 
-Felix, David, Torben, und Phil haben eine Smarthome-Anwendung entwickelt, die neben Clients auch einen MQTT-Broker enthält. So können Sie z.B. von jedem Standort aus ein LED-Band steuern. 
+Felix, David, Torben, und Phil haben eine Smarthome-Anwendung entwickelt, die neben Clients auch einen MQTT-Broker enthält. So können Sie z.B. von jedem Standort aus ein LED-Band steuern.
 
 <figure class="blog">
     <img src="/files/blog/2023/2023-04-18-jugendhackt-hackathon/hackathon_abschluss-1.jpg" alt="">
@@ -99,8 +101,8 @@ Der von Victoria und Anstasiia entwickelte Mülleimer animiert durch Abstimmungs
 
 🙏 PetaDank an die Mentor:innen Matthias Pfeil und Verena Witte (von re:edu GmbH & Co. KG) Tom Niers Jan Stenkamp Fabian Schumacher Björn Luig und Ilhan Oezkaya (von der University of Münster), Florian Lüdiger Michel Ehmen (von codecentric AG) und David Krammer (LichtBlick SE) und das Orga-Team Torsten Henseler, Stefanie Heeke, Hening Spenthoff (Stadt Münster), Sabine Weßling und last but first: Mario Pesch (openSenseLab gGmbH) für die Gesamtkoordination!
 
-🙏 ExaDank an die Teilnehmer:innen für die tolle Arbeit und die vielen Ideen! 
+🙏 ExaDank an die Teilnehmer:innen für die tolle Arbeit und die vielen Ideen!
 
 ## Jugend hackt Lab Münster
-Alle zwei Wochen bieten wir Dienstags von 16:00 - 18:00 Uhr die Türen öffnen. Neben offenen Lab Terminen wird es Workshops zu verschiedenen Themen geben. Eine genaue Übersicht der Termine und Themen findest du auf unserer Lab Website unter: [https://jugendhackt.org/lab/muenster/](https://jugendhackt.org/lab/muenster/)
 
+Alle zwei Wochen bieten wir Dienstags von 16:00 - 18:00 Uhr die Türen öffnen. Neben offenen Lab Terminen wird es Workshops zu verschiedenen Themen geben. Eine genaue Übersicht der Termine und Themen findest du auf unserer Lab Website unter: [https://jugendhackt.org/lab/muenster/](https://jugendhackt.org/lab/muenster/)

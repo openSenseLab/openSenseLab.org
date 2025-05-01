@@ -1,6 +1,6 @@
 ---
 authors:
-- Marie & Sophie
+  - Marie & Sophie
 date: 2024-04-30
 image:
   src: /files/blog/2024/2024-04-30-hyc-hackathon/DSCF0487.jpeg
@@ -8,16 +8,14 @@ image:
   license: "©openSenseLab gGmbH"
 type: post
 layout: post
-published: true
+published: 2023-06-21
 featured: blue
 title: "Hack your City Hackathon | Rückblick"
 ---
 
-
-
 # "Hack your city": Hackathon in Münster
 
-In erfolgreicher Kooperation mit der Stadt Münster veranstalteten wir auch dieses Jahr einen  Hackathon unter dem Motto "Hack Your City" im Digitallabor.
+In erfolgreicher Kooperation mit der Stadt Münster veranstalteten wir auch dieses Jahr einen Hackathon unter dem Motto "Hack Your City" im Digitallabor.
 
 ![DSC_7537.jpg](/files/blog/2024/2024-04-30-hyc-hackathon/DSC_7537.jpeg)
 

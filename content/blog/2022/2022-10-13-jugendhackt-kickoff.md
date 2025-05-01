@@ -1,6 +1,6 @@
 ---
 authors:
-- Mario Pesch
+  - Mario Pesch
 date: 2022-10-13
 image:
   src: /files/blog/2022/2022-10-13-jugendhackt-kickoff/kickoff.gif
@@ -9,12 +9,12 @@ image:
   license_url: https://creativecommons.org/licenses/by/4.0/
 type: post
 layout: post
-published: true
+published: 2022-10-13
 featured: blue
 title: "Jugend hackt Kick Off im Digitallabor"
 ---
 
-Das Jugend hackt Lab Münster ist nun offiziell eröffnet! Am 11.10.2022 haben wir einen gemeinsamen Kickoff Termin im Digitallabor Münster durchgeführt. Neben Inga Zeisberg vom Schulamt der Stadt Münster war auch [Philip Steffan](https://twitter.com/philipsteffan), Community-Foo bei Jugend hackt, aus Berlin zu besuch. Nach ein paar kurzen Worten ist das Lab feierlich eröffnet worden und die Kinder und Jugendlichen konnten an verschiedenen Stationen Dinge wie Lasercutter, Roboter und die senseBox ausprobieren. 
+Das Jugend hackt Lab Münster ist nun offiziell eröffnet! Am 11.10.2022 haben wir einen gemeinsamen Kickoff Termin im Digitallabor Münster durchgeführt. Neben Inga Zeisberg vom Schulamt der Stadt Münster war auch [Philip Steffan](https://twitter.com/philipsteffan), Community-Foo bei Jugend hackt, aus Berlin zu besuch. Nach ein paar kurzen Worten ist das Lab feierlich eröffnet worden und die Kinder und Jugendlichen konnten an verschiedenen Stationen Dinge wie Lasercutter, Roboter und die senseBox ausprobieren.
 
 <figure class="blog">
     <img src="/files/blog/2022/2022-10-13-jugendhackt-kickoff/kickoff_01.jpeg" alt="">
