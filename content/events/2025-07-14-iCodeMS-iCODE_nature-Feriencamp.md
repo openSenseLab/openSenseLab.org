@@ -1,5 +1,6 @@
 ---
 title: "iCODE_MS | iCODE_nature Feriencamp"
+type: "event"
 date: 2025-05-01 #publish date
 eventdatestart: 2025-07-14
 eventdateend: 2025-07-18

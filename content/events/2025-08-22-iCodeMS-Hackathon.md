@@ -1,5 +1,6 @@
 ---
 title: "iCODE_MS | Hackathon"
+type: "event"
 date: 2025-05-01 #publish date
 eventdatestart: 2025-08-22
 eventdateend: 2025-08-25

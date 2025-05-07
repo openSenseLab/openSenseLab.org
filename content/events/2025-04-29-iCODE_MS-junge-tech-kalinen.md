@@ -1,5 +1,6 @@
 ---
 title: "iCodeMS | Junge Tech-Kalinen"
+type: "event"
 date: 2025-04-01
 eventdate: 2025-04-29
 location: "Digital Hub münsterLAND, Hafenweg 16, 48155 Münster"

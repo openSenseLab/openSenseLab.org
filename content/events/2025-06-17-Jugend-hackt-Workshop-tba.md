@@ -1,5 +1,6 @@
 ---
 title: "Jugend hackt Lab: Münster | Workshop: tba"
+type: "event"
 date: 2025-06-17
 eventdate: 2025-06-17
 location: "Digitallabor, Leonardo Campus 6a, 48149 Münster"

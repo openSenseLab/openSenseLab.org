@@ -1,5 +1,6 @@
 ---
 title: "Jugend hackt Lab: Münster | Open Lab"
+type: "event"
 date: 2025-05-06
 eventdate: 2025-05-06
 location: "Digitallabor, Leonardo Campus 6a, 48149 Münster"

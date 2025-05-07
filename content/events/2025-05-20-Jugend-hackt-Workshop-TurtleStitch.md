@@ -1,5 +1,6 @@
 ---
 title: "Jugend hackt Lab: Münster | Workshop: Einführung in TurtleStitch"
+type: "event"
 date: 2025-05-01
 eventdate: 2025-05-20
 location: "Digitallabor, Leonardo Campus 6a, 48149 Münster"

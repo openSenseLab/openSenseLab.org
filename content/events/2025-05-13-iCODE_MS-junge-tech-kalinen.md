@@ -1,5 +1,6 @@
 ---
 title: "iCODE_MS | Junge Tech-Kalinen"
+type: "event"
 date: 2025-05-01
 eventdate: 2025-05-13
 location: "Digital Hub münsterLAND, Hafenweg 16, 48155 Münster"

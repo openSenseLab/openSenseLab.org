@@ -1,5 +1,6 @@
 ---
 title: "iCODE_MS | iCODE_city Ferienprogramm"
+type: "event"
 date: 2025-04-14
 eventdatestart: 2025-04-14
 eventdateend: 2025-04-17
