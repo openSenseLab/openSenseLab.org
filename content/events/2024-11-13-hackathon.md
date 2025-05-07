@@ -3,7 +3,6 @@ title: "Fortbildungsangebot: Hackathon für Lehrkräfte | Entwicklung von innova
 date: 2024-09-30 # only the date when the event will be released on the website
 eventdate: 2024-11-13
 location: "Digitallabor Münster | Leonardo Campus 6a | 48149 Münster"
-description: "."
 link: https://pretix.opensenselab.org/hack1311124/
 tags: ["Fortbildung", "Lehrkräfte", "Schule"]
 archive: true

@@ -3,7 +3,6 @@ title: "Jugend hackt Game Lab"
 date: 2024-09-30 # only the date when the event will be released on the website
 eventdate: 2024-10-22
 location: "Digitallabor Münster | Leonardo Campus 6a | 48149 Münster"
-description: "."
 link: https://jugendhackt.org/lab/muenster/
 tags: ["Jugend hackt", "Jugendliche", "Code Week"]
 archive: true

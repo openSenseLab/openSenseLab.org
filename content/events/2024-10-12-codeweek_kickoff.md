@@ -3,7 +3,6 @@ title: "Offizielle Auftaktveranstaltung zur Code Week Münsterland"
 date: 2024-09-30 # only the date when the event will be released on the website
 eventdate: 2024-10-12
 location: "REACH Startup Center | Geiststr. 24-26 | 48151 Münster"
-description: "."
 link: https://muensterland.codeweek.de/programm/veranstaltung/2024-10-12-offizielle-auftaktveranstaltung-zur-code-week-muensterland
 tags: ["Code Week", "Jugendliche"]
 archive: true
