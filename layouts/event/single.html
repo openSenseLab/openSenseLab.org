@@ -1,0 +1,87 @@
+{{ define "title" }}
+<title>
+  {{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title }}
+</title>
+{{ end }} {{ define "head" }} {{ range .AlternativeOutputFormats -}}
+<link
+  rel="{{ .Rel }}"
+  type="{{ .MediaType.Type }}"
+  href="{{ .Permalink | safeURL }}"
+/>
+{{ end -}} {{ with .Params.subtitle }}<meta description="{{.}}" />{{ end }}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content='/files/{{ trim .Params.img_header "/"}}' />
+{{ with .Params.subtitle }}
+<meta property="og:description" content="{{.}}" />
+<meta name="description" content="{{.}}" />
+{{ end }} {{ end }} {{ define "main" }}
+<main>
+  <article class="l__project">
+    <div class="container">
+      <div class="row">
+        <h1 class="col col-12 col-md-10 offset-md-1">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}
+        <p class="l__project__subtitle col col-12 col-md-10 offset-md-1">
+          {{.}}
+        </p>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ if .Params.img_header }}
+    <div class="container l__project__headerimg">
+      <div class="row">
+        <div class="col col-12">
+          <figure class="license">
+            <img src="/files/{{.Params.img_header}}" alt="" />
+            {{ with .Params.img_license }}
+            <figcaption>{{ . }}</figcaption>
+            {{ end }}
+          </figure>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+    <div class="container">
+      <div class="row">
+        <aside
+          class="order-2 col col-12 col-sm-10 col-md-3 col-lg-2 offset-lg-1"
+        >
+          {{ with .Params.eventdate }}
+          <p>
+            <span class="bold">Datum</span><br />{{ . | time.Format "02.01.2006"
+            }}
+          </p>
+          {{ else }} {{ with .Params.eventdatestart }}
+          <p>
+            <span class="bold">Datum</span><br />{{ . | time.Format "02.01.2006"
+            }} – {{ $.Params.eventdateend | time.Format "02.01.2006" }}
+          </p>
+          {{ end }} {{ end }} {{ with .Params.location }}
+          <p><span class="bold">Ort</span><br />{{ . }}</p>
+          {{ end }} {{ with .Params.link }}
+          <p>
+            <span class="bold">Link</span><br /><a
+              href="{{ . }}"
+              target="_blank"
+              >{{ . }}</a
+            >
+          </p>
+          {{ end }} {{ with .Params.tags }}
+          <p><span class="bold">Tags</span><br />{{ delimit . ", " }}</p>
+          {{ end }}
+        </aside>
+
+        <div
+          class="l__project__content l__content col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7"
+        >
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </article>
+</main>
+{{ end }}

@@ -3,7 +3,6 @@ title: Fashion & Tech | Gestalte deine eigenen Wearables!"
 date: 2024-09-30 # only the date when the event will be released on the website
 eventdate: 2024-10-24
 location: "Digitallabor Münster | Leonardo Campus 6a | 48149 Münster"
-description: "."
 link: https://muensterland.codeweek.de/programm/veranstaltung/609263-fashion-amp-tech-gestalte-deine-eigenen-wearables
 tags: ["Code Week", "Jugendliche", "Wearables"]
 archive: true

@@ -1,71 +1,102 @@
 {{ define "title" }}
 <title>{{ .Title }} - {{ .Site.Title }}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end }} {{ define "head" }} {{ range .AlternativeOutputFormats -}}
+<link
+  rel="{{ .Rel }}"
+  type="{{ .MediaType.Type }}"
+  href="{{ .Permalink | safeURL }}"
+/>
 {{ end -}}
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ with .Params.img_header }}
-<meta property="og:image" content="{{ . }}" />{{ end }}
-{{ with .Params.meta }}
-<meta property="og:description" content="{{ . }}">
-<meta name="description" content="{{ . }}">
-{{ end }}
-{{ end }}
-
-{{ define "main" }}
+<meta property="og:image" content="{{ . }}" />{{ end }} {{ with .Params.meta }}
+<meta property="og:description" content="{{ . }}" />
+<meta name="description" content="{{ . }}" />
+{{ end }} {{ end }} {{ define "main" }}
 <main>
-  <section class='container l__projects js-shuffle'>
+  <section class="container l__projects js-shuffle">
     <div class="row">
       <h1 class="col col-12 col-sm-10 mb-2">
         {{ if .Params.blurb }}{{ .Params.blurb }}{{ else }}{{ .Title }}{{ end }}
       </h1>
-      <div class="events p-4" style="width: 100%;">
+      <div class="events p-4" style="width: 100%">
         <ul>
-          {{ $allEvents := slice }}
-          {{ $now := .Date.Format "2006-01-02" }} <!-- Get the current date in the same format as eventdate -->
+          {{ $allEvents := slice }} {{ $now := now.Format "2006-01-02" }} {{
+          range .Pages }} {{ $event := . }} {{ $isArchived := or
+          ($event.Params.archive | default false) false }} {{ if not $isArchived
+          }} {{ $singleDate := $event.Params.eventdate | default "" }} {{
+          $startDate := $event.Params.eventdatestart | default "" }} {{ $endDate
+          := $event.Params.eventdateend | default "" }} {{ if $startDate }} {{
+          $start := time $startDate }} {{ $end := cond (ne $endDate "") (time
+          $endDate) $start }} {{ if ge ($end.Format "2006-01-02") $now }} {{
+          $allEvents = $allEvents | append (dict "page" $event "start" $start
+          "end" $end) }} {{ end }} {{ else if $singleDate }} {{ $date := time
+          $singleDate }} {{ if ge ($date.Format "2006-01-02") $now }} {{
+          $allEvents = $allEvents | append (dict "page" $event "start" $date
+          "end" $date) }} {{ end }} {{ end }} {{ end }} {{ end }} {{ range sort
+          $allEvents "start" "asc" }} {{ $event := .page }} {{ $start := .start
+          }} {{ $end := .end }}
+          <li>
+            <div
+              class="card p-2 mb-4"
+              style="
+                border: 1px solid #ddd;
+                border-radius: 15px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+              "
+            >
+              <div class="card-body p-2">
+                <h3 class="card-title mb-2">
+                  <a href="{{ $event.Permalink }}">{{ $event.Title }}</a>
+                </h3>
 
-          {{ range .Pages }}
-            {{ $eventDate := .Params.eventdate }} <!-- Get the event date -->
-            {{ $isArchived := or (.Params.archive | default false) false }}
+                <div
+                  class="d-flex justify-content-start align-items-center py-2"
+                >
+                  <h4 class="card-subtitle text-muted pr-2">
+                    {{ if eq $start $end }} {{ $start | time.Format ":date_long"
+                    }} {{ else }} {{ printf "%s – %s" ($start | time.Format
+                    ":date_long") ($end | time.Format ":date_long") }} {{ end }}
+                  </h4>
 
-            {{ if and $eventDate (ge $eventDate $now) (not $isArchived) }} <!-- Compare eventdate with current date -->
-              {{ $event := dict "page" . "eventDate" $eventDate }}
-              {{ $allEvents = $allEvents | append $event }}
-            {{ end }}
-          {{ end }}
-
-          {{ range sort $allEvents "eventDate" "asc" }}
-            {{ $event := .page }}
-            <li>
-              <div class="card p-2 mb-4" style="border: 1px solid #ddd; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <div class="card-body p-2">
-                  <h3 class="card-title mb-2"><a href="{{ $event.Permalink }}">{{ $event.Title }}</a></h3>
-
-                  <div class="d-flex justify-content-start align-items-center py-2">
-                    <h4 class="card-subtitle text-muted pr-2">
-                      {{ $event.Params.eventdate | time.Format ":date_long" }}
-                    </h4>
-                    
-                    <div>
-                      {{ range $event.Params.tags }}
-                        <span class="badge" style="background-color: rgb(78, 175, 71);color:white; padding: 4px 8px; margin: 4px; border: 1px solid #ddd; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">{{ . }}</span>
-                      {{ end }}
-                    </div>
+                  <div>
+                    {{ range $event.Params.tags }}
+                    <span
+                      class="badge"
+                      style="
+                        background-color: rgb(78, 175, 71);
+                        color: white;
+                        padding: 4px 8px;
+                        margin: 4px;
+                        border: 1px solid #ddd;
+                        border-radius: 15px;
+                        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                      "
+                      >{{ . }}</span
+                    >
+                    {{ end }}
                   </div>
-
-                  <h4 class="card-subtitle text-muted py-2"><strong>@</strong> {{ $event.Params.location }}</h4>
-                  <p class="card-text py-2">{{ $event.Content }} {{ i18n "more_information_under" }}: <a href="{{ $event.Permalink }}">{{ $event.Params.link }}</a></p>
                 </div>
+
+                {{ with $event.Params.location }}
+                <h4 class="card-subtitle text-muted py-2">
+                  <strong>@</strong> {{ . }}
+                </h4>
+                {{ end }}
+
+                <p class="card-text py-2">
+                  {{ $event.Content }} {{ i18n "more_information_under" }}:
+                  <a href="{{ $event.Permalink }}">{{ $event.Params.link }}</a>
+                </p>
               </div>
-            </li>
+            </div>
+          </li>
           {{ end }}
         </ul>
       </div>
+    </div>
   </section>
 </main>
 {{ end }}
