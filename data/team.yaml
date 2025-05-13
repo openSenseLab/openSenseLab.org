@@ -118,7 +118,7 @@
   github: timber-they
 
 - name: Younes Assebbane
-  img: younes.jpg
+  img: Younes.jpg
   staff: 1
   board: 0
   advisory: 0
@@ -142,6 +142,18 @@
   twitter:
   website:
   github: zven
+
+- name: David Scheidt
+  img: avatar.png
+  staff: 1
+  board: 0
+  position: Software Entwickler
+  position_en: Software developer
+  bio: "David hat angewandte Informatik an der TU Dortmund studiert und interessiert sich für alles was mit Technologie und Wissenschaft zu tun hat. Als Software Entwickler bringt er die Open Educational Badges und die openSenseMap voran, um damit einen Beitrag zu offenen Plattformen und der Wisschenschaft zu leisten."
+  mail: david.scheidt@opensenselab.org
+  twitter:
+  website:
+  github: scheidtdav
 
 - name: Björn Luig
   img: bjoern.jpeg
