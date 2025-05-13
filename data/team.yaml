@@ -10,11 +10,10 @@
 
 - name: Matthias Pfeil
   img: pfeil.jpeg
-  staff: 1
+  staff: 0
   board: 1
   advisory: 0
   position: Software Entwickler
-  position_en: Member of the Board
   bio: "Matthias Pfeil hat Geo­informatik an der WWU Münster studiert und ist Open Data und Open Source Liebhaber. Mit seiner Bachelor-Arbeit legte er den Grundstein für die openSenseMap. Als Experte für Sensor­netzwerke und Cloud Computing gehört Matthias schon seit der ersten Stunde zum openSenseMap Entwickler-Team und beschäftigt sich seit 2014 mit öffentlichen Sensor­daten und Platt­formen zur Ver­öffentlichung solcher Daten."
   bio_en: "Matthias Pfeil studied geoinformatics at the WWU Münster and is an open data and open source enthusiast. With his bachelor thesis he laid the foundation for the openSenseMap. As an expert in sensor networks and cloud computing, Matthias has been part of the openSenseMap developer team since the beginning and has been involved with public sensor data and platforms for publishing such data since 2014."
   mail: info@opensenselab.org
@@ -73,7 +72,7 @@
 
 - name: Marie Hozak
   img: hozak.jpeg
-  staff: 1
+  staff: 0
   board: 0
   position: Öffentlichkeitsarbeit und Social Media
   bio: "Marie Hozak studiert in ihren letzten Bachelorsemestern Geographie am Institut für Geographie an der Uni Münster und unterstützt uns als Werkstudentin für Kommunikationsmanagement. In diesem Bereich konnte sie zuvor schon durch Praktika und ihr Engagement bei EGEA Erfahrung sammeln."
@@ -84,7 +83,7 @@
 
 - name: Yousef Qamaz
   img: qamaz.jpeg
-  staff: 1
+  staff: 0
   board: 0
   position: Software Entwickler
   bio: ""
@@ -118,7 +117,7 @@
   github: timber-they
 
 - name: Younes Assebbane
-  img: Younes.jpg
+  img: younes.jpg
   staff: 1
   board: 0
   advisory: 0
@@ -144,7 +143,7 @@
   github: zven
 
 - name: David Scheidt
-  img: avatar.png
+  img: david.jpeg
   staff: 1
   board: 0
   position: Software Entwickler
@@ -157,7 +156,8 @@
 
 - name: Björn Luig
   img: bjoern.jpeg
-  staff: 1
+  staff: 0
+  mentor: 1
   board: 0
   advisory: 0
   position: Tüftler und Workshopleiter
@@ -167,6 +167,7 @@
   twitter:
   website:
   github: BjoernLuig
+  projects: Jugend hackt
 
 - name: Sandra-Marie Olijslager
   img: SandraMarieOlijslager.jpg
@@ -196,7 +197,7 @@
 
 - name: Merle Morgenroth
   img: avatar.png
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Workshopleiterin
@@ -209,7 +210,7 @@
 
 - name: Verena Witte
   img: verena.jpeg
-  mentor: 1
+  mentor: 0
   staff: 0
   projects: BSO MINT
 
@@ -223,22 +224,29 @@
   img: helen.jpeg
   mentor: 1
   staff: 0
-  projects: BSO MINT
+  projects: iCODE_MS
 
 - name: Tom Niers
   img: tom.jpeg
-  mentor: 1
+  mentor: 0
   staff: 0
   projects: Jugend hackt
 
 - name: Ilhan Özkaya
-  img: avatar.png
+  img: ilhan.jpg
   mentor: 1
   staff: 0
   projects: Jugend hackt
 
 - name: Jerry Vincent
   img: Jerry.png
-  mentor: 1
-  staff: 0
-  projects: openSenseMap
+  mentor: 0
+  staff: 1
+  advisory: 0
+  position: Werkstudent*in Softwareentwicklung
+  position_en:
+  bio: "Jerry studiert Master 'Spational Datascience and Geoinformatics' an der Uni Münster und absolviert gerade sein externes Semester bei openSenseLab."
+  mail:
+  twitter:
+  website:
+  github:
