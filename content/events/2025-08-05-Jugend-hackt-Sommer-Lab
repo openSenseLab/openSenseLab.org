@@ -1,7 +1,9 @@
 ---
 title: "Jugend hackt Lab: Münster | Sommer Lab"
 type: "event"
-date: 2025-08-05
+date: 2025-07-04 # only the date when the event will be released on the website
+eventdateStart: 2025-08-05 #start date
+eventdateEnd: 2025-08-05 #end date
 location: "Digitallabor, Leonardo Campus 6a, 48149 Münster"
 description: "Lust auf Coden, Tüfteln und kreative Ideen in den Sommerferien? Mitten in den Ferien öffnen wir unseren Maker Space für alle zwischen 12 und 18 Jahren.
 Programmieren, 3D-Drucken oder deine eigenen Ideen umsetzen – hier ist alles möglich. Wir haben viele neue Dinge vor Ort (Schneidplotter, Stickmaschine, Podcast Setup), die darauf warten, von dir ausprobiert zu werden! Gestalte z.B. deine eigenen Sticker oder Textilien und bringe deine kreativen Ideen zum Leben.
