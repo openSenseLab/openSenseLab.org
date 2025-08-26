@@ -5,6 +5,3 @@ layout: events
 meta: openSenseLab Termine und Veranstaltungen
 img_header: /files/logos/openSenseLab-Logo.svg
 ---
-
-
-Test
