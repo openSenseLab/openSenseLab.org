@@ -2,154 +2,107 @@
 title: Impressum
 meta: openSenseLab gGmbH Impressum, Adresse, Datenschutzerklärung
 ---
-**Angaben gemäß § 5 TMG**<br>
-openSenseLab gGmbH<br>
-Von-Steuben-Str. 21<br>
-48143 Münster</br>
-Deutschland
 
-**E-Mail:** info@opensenselab.org<br>
-**Telefon:** 02 51 / 98 29 88 67<br>
+<div class="contractDetails"><style>.contractDetails {
+  padding-left: 1.25cm;
+  font-family: sans-serif;
+  overflow-wrap: break-word;
+}
 
-**Handelsregister:** HRB 19449<br>
-**Umsatzsteuernummer:** DE347523917<br>
-**Registergericht:** Amtsgericht Münster<br>
-**Vertreten durch die Geschäftsführer**: Dr. Thomas Bartoschek, Mario Pesch<br>
+p.BodyLeft,
+p.Body {
+  margin-left: 0 !important;
+}
 
-**Technisch:**
-    Statisches HTML generiert mit [Hugo](https://gohugo.io/)
+p.BodyLeft p,
+p.Body p {
+  margin-left: 0 !important;
+}
 
+p.BodyLeft p span,
+p.Body p span {
+  margin-left: 0 !important;
+}
 
-### Haftungsausschluss
+p.BodyLeft p span span,
+p.Body p span span {
+  margin-left: 0 !important;
+}
 
-Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist der jeweilige Autor eines Textes.
+.DieterLista,
+.DieterListi,
+.BulletList1 {
+  padding-left: 1.25cm;
+}
 
-### EU-Streitschlichtung
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/.
-Unsere E-Mail-Adresse finden Sie oben im Impressum.
+.DieterLista .number-prefix-p,
+.DieterListi .number-prefix-p,
+.BulletList1 .number-prefix-p {
+  margin-left: -1.25cm;
+  display: inline-block;
+  width: 1.25cm;
+}
 
-### Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+.DieterListaIndent,
+.DieterListiIndent,
+.BulletList2 .number-prefix-p {
+  margin-left: 1.25cm;
+  display: inline-block;
+  width: 1.25cm;
+}
 
-### Haftung für Inhalte
+.DieterHeading2 .number-prefix-p,
+.DieterHeading3 .number-prefix-p,
+.DieterHeading4 .number-prefix-p {
+  display: inline-block;
+  width: 1.25cm;
+  margin-left: -1.25cm;
+}
 
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+.DieterHeading2,
+.HeadingLeft {
+  font-weight: 600;
+}
 
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-### Haftung für Links
+.DieterHeading2 span:not(.number-prefix-p) {
+  margin-left: 0 !important;
+}
 
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+.BulletListNoIndent {
+  margin-left: 0 !important;
+}
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+.BulletListNoIndent span {
+  text-indent: 0;
+}
 
-### Urheberrecht
+.BulletListNoIndent .number-prefix-p {
+  display: inline-block;
+  width: 1.25cm;
+  margin-left: -1.25cm;
+}
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+.BulletListNoIndent span:not(.number-prefix-p) {
+  text-indent: 1.25cm !important;
+}
 
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+.HeadingLeft {
+  margin-left: 0 !important;
+  font-size: 1.25rem;
+}
 
-Quelle: https://www.e-recht24.de
+.HeadingLeft span {
+  margin-left: 0 !important;
+}
 
-<div id="datenschutzerklaerung"></div>
+.DieterInvisible {
+  display: none;
+}
 
-# Datenschutz­erklärung
-## 1. Datenschutz auf einen Blick
-Allgemeine Hinweise
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
-
-### Datenerfassung auf dieser Website
-Wer ist verantwortlich für die Datenerfassung auf dieser Website?
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
-
-### Wie erfassen wir Ihre Daten?
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
-
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
-
-### Wofür nutzen wir Ihre Daten?
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
-
-### Welche Rechte haben Sie bezüglich Ihrer Daten?
-Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
-
-Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
-
-## 2. Hosting und Content Delivery Networks (CDN)
-Externes Hosting
-Diese Website wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.
-
-Der Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
-
-Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.
-
-Wir setzen folgenden Hoster ein:
-
-Host Europe GmbH
-Hansestr. 111
-51149 Köln
-
-## 3. Allgemeine Hinweise und Pflicht­informationen
-### Datenschutz
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
-
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
-
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-
-Hinweis zur verantwortlichen Stelle
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-
-openSenseLab gGmbh
-Von-Steuben-Straße 21
-48143 Münster
-
-Telefon: 0251 98119797
-E-Mail: info@opensenselab.de
-
-Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
-
-### Speicherdauer
-Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z.B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
-
-### Widerruf Ihrer Einwilligung zur Datenverarbeitung
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
-
-Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
-WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
-
-WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).
-
-### Beschwerde­recht bei der zuständigen Aufsichts­behörde
-Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
-
-### Recht auf Daten­übertrag­barkeit
-Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
-
-### SSL- bzw. TLS-Verschlüsselung
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
-
-Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
-
-### Auskunft, Löschung und Berichtigung
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
-
-### Recht auf Einschränkung der Verarbeitung
-Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
-
-Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
-Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
-
-## 4. Datenerfassung auf dieser Website
-### Anfrage per E-Mail, Telefon oder Telefax
-Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
-
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
-
-Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
-
-Quelle: https://www.datenschutzerklaerung.de
-
-
+.multiline {
+  white-space: pre-wrap;
+}
+</style><h1 class="DieterHeading1">Impressum</h1><h2 class="HeadingLeft"><span>Anbieter</span></h2><p class="Body">openSenseLab gGmbH</p><p class="Body"><span class="multiline">Von-Steuben-Str. 21
+48143 Münster</span></p><p class="Body">Vertreten durch:</p><p class="Body">Geschäftsführung: Dr. Thomas Bartoschek, Mario Pesch</p><h2 class="HeadingLeft"><span>Kontakt</span></h2><p class="Body">E-Mail: info@opensenselab.org</p><p class="Body">Telefon:  02 51 / 98 29 88 67</p><h2 class="HeadingLeft"><span>Registereintrag</span></h2><p class="Body">Handelsregister: HRB 19449</p><p class="Body">Registergericht: Amtsgericht Münster</p><h2 class="HeadingLeft"><span>Umsatzsteuer-ID</span></h2><p class="Body">DE347523917</p><h2 class="HeadingLeft"><span>Berufshaftpflichtversicherung</span></h2><p class="Body">Anbieter: </p><p class="Body">Markel Insurance SE</p><p class="Body"><span class="multiline">Sophienstraße 26 
+80333 München</span></p><p class="Body">Geltungsbereich: Deutschland</p><h2 class="HeadingLeft"><span>Inhaltlich verantwortliche Person gem. § 18 Abs. 2 MStV</span></h2><p class="Body">Mario Pesch</p><p class="Body"><span class="multiline">Von-Steuben-Str. 21
+48143 Münster</span></p><h2 class="HeadingLeft"><span>Angaben zu audiovisuellen Mediendiensten </span></h2><p class="Body">Sitzland: Deutschland </p><p class="Body">Regulierungs- und Aufsichtsbehörde:         Landesanstalt für Medien Nordrhein-Westfalen (LfM NRW)      </p><h2 class="HeadingLeft"><span>Verbraucherstreitbeilegung gem. § 36 VSBG</span></h2><p class="Body">Wir nehmen an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil. </p><p class="Body"><span>Zuständig ist die Universalschlichtungsstelle des Zentrums für Schlichtung e. V., Straßburger Straße 8, 77694 Kehl am Rhein (</span><a href="https://www.verbraucher-schlichter.de)."><span><a href="https://www.verbraucher-schlichter.de" target="_blank">https://www.verbraucher-schlichter.de</a></span></a><span>).</span></p><h2 class="HeadingLeft"><span>Haftungsausschluss</span></h2><p class="Body">Wir sind für die Inhalte unserer Internetseiten nach den Maßgaben der allgemeinen Gesetzen verantwortlich. Alle Inhalte werden mit der gebotenen Sorgfalt und nach bestem Wissen erstellt. Soweit wir auf unseren Internetseiten mittels Hyperlink auf Internetseiten Dritter verweisen, können wir keine Gewähr für die fortwährende Aktualität, Richtigkeit und Vollständigkeit der verlinkten Inhalte übernehmen, da diese Inhalte außerhalb unseres Verantwortungsbereichs liegen und wir auf die zukünftige Gestaltung keinen Einfluss haben. Sollten aus Ihrer Sicht Inhalte gegen geltendes Recht verstoßen oder unangemessen sein, teilen Sie uns dies bitte mit.</p><p class="Body">Die rechtlichen Hinweise auf dieser Seite sowie alle Fragen und Streitigkeiten im Zusammenhang mit der Gestaltung dieser Internetseite unterliegen dem Recht der Bundesrepublik Deutschland.</p><h2 class="HeadingLeft"><span>Datenschutzhinweis</span></h2><p class="Body">Unsere Datenschutzerklärung finden Sie unter: <a href="https://opensenselab.org/datenschutz/" target="_blank">https://opensenselab.org/datenschutz/</a></p><h2 class="HeadingLeft"><span>Urheberrechtshinweis</span></h2><p class="Body">Die auf unserer Internetseite vorhandenen Texte, Bilder, Fotos, Videos oder Grafiken unterliegen in der Regel dem Schutz des Urheberrechts. Jede unberechtigte Verwendung (insbesondere die Vervielfältigung, Bearbeitung oder Verbreitung) dieser urheberrechtsgeschützten Inhalte ist daher untersagt. Wenn Sie beabsichtigen, diese Inhalte oder Teile davon zu verwenden, kontaktieren Sie uns bitte im Voraus unter den oben stehenden Angaben. Soweit wir nicht selbst Inhaber der benötigten urheberrechtlichen Nutzungsrechte sein sollten, bemühen wir uns, einen Kontakt zum Berechtigten zu vermitteln.</p><h2 class="HeadingLeft"><span>Social-Media-Profile</span></h2><p class="Body">Dieses Impressum gilt auch für folgende Social-Media-Profile:</p><p class="Body">Instagram: <a href="https://www.instagram.com/opensenselab/" target="_blank">https://www.instagram.com/opensenselab/</a></p><p class="Body">X (ehemals Twitter): x.com/opensenselab</p><p class="Body">YouTube: <a href="https://www.youtube.com/@openSenseLab" target="_blank">https://www.youtube.com/@openSenseLab</a></p><p class="Body">LinkedIn: <a href="https://www.linkedin.com/company/opensenselab-ggmbh/" target="_blank">https://www.linkedin.com/company/opensenselab-ggmbh/</a></p><p class="DieterSmall"><span>Erstellt mit freundlicher Unterstützung von </span><a href="https://www.dieter-datenschutz.de/"><span>Dieter macht den Datenschutz</span></a></p></div>
