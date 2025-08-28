@@ -57,7 +57,7 @@ Von-Steuben-Straße 21
 48143 Münster
 
 Telefon: 0251 98119797
-E-Mail: datenschutz@opensenselab.de
+E-Mail: info@opensenselab.org
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
