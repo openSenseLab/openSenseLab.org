@@ -140,6 +140,34 @@ $theight-large: 503px
         border-left: 3px solid white
 
 
+.one-img 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 15vw;
+  img 
+    width: 100%;
+    max-width: 320px; // default small size
+    display: block;
+  
+
+  @include media-breakpoint-down(md) 
+    margin-top: 2em;
+  
+
+  @include media-breakpoint-up(sm) 
+    img 
+      max-width: 420px;
+    
+  
+
+  @include media-breakpoint-up(lg) 
+    img 
+      max-width: 700px;
+
+
+
+
 .two-img
   img
     width: 100%
