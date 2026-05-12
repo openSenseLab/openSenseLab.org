@@ -107,7 +107,6 @@
         </section>
         {{ end }}
 
-        {{ if isset .Params "contact_person" }}
         {{ if isset .Params "cta" }}
         <section class="col col-12 col-md-6">
           {{ else }}
@@ -134,7 +133,6 @@
                 <p><a href="mailto:{{ if $alternate}}{{$alternate}}{{else}}{{.mail}}{{end}}">Mail</a></p>
               </div>
             </div>
-            {{ end }}
             {{ end }}
           </section>
           {{ end }}

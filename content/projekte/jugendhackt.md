@@ -41,14 +41,13 @@ contact:
 subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
-    Du kannst <a href="mailto:thomas.bartoschek@opensenselab.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="/spenden/">Spende</a> kannst du unser bei der Durchführung der Jugend hackt Labs unterstützen und unterstützt die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:thomas.bartoschek@opensenselab.org">Kontaktaufnahme</a>.
+  Du kannst <a href="mailto:mario.pesch@opensenselab.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
+  Mit deiner <a href="/spenden/">Spende</a> kannst du unser bei der Durchführung der Jugend hackt Labs unterstützen und unterstützt die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
-    Alle Lab Termine findest du auf unserer <a href="https://jugendhackt.org/lab/muenster">Jugend hackt Lab Münster Website</a> .
-
+  Alle Lab Termine findest du auf unserer <a href="https://jugendhackt.org/lab/muenster">Jugend hackt Lab Münster Website</a> .
 ---
 
-Im September 2022 haben wir das Jugend hackt Lab Münster eröffnet. Alle 2 Wochen bieten wir einen offenen Ort für Kinder und Jugendliche zum Tüfteln, zum Programmieren und für die Arbeit an gemeinsamen Projekten für eine bessere Zukunft. 
+Im September 2022 haben wir das Jugend hackt Lab Münster eröffnet. Alle 2 Wochen bieten wir einen offenen Ort für Kinder und Jugendliche zum Tüfteln, zum Programmieren und für die Arbeit an gemeinsamen Projekten für eine bessere Zukunft.
 
 <div class="one-img">
     <figure class="license">
@@ -58,14 +57,11 @@ Im September 2022 haben wir das Jugend hackt Lab Münster eröffnet. Alle 2 Woch
 </div>
 
 **Themen und Termine**<br>
-Die Termine und Themen der Workshops veröffentlichen wir immer unserer [Lab Website](https://jugendhackt.org/lab/muenster/). 
- 
-
+Die Termine und Themen der Workshops veröffentlichen wir immer unserer [Lab Website](https://jugendhackt.org/lab/muenster/).
 
 **Fördergeber\*innen**<br>
 Das Jugend hackt Lab Münster ist ein Kooperationsprojekt der openSenseLab gGmbH und der Stadt Münster. Gefördert wird das Jugend hackt Lab Münster vom Reach Startup Center der Universität Münster.
 Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die [Jugend hackt Labs](https://jugendhackt.org/labs) seit 2019 über die open Knowledge Foundation.
-
 
 <div class="one-img">
     <figure class="license">
@@ -74,9 +70,6 @@ Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die 
     </figure>
 </div>
 
-
-
-
 **Ressourcen**<br>
-+ [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online-Version<br>
 
+- [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online-Version<br>

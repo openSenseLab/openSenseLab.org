@@ -56,7 +56,7 @@ Badges sind digitale Nachweise, die wie Zertifikate einfach und zeiteffizient ve
 
 Open Educational Badges ist ein Gemeinschaftsprojekt von matrix Gruppe, mycelia.education und openSenseLab gGmbH. Es findet in Kooperation mit @Deutsche Telekom Stiftung statt, wird gefördert vom Bundesministerium für Bildung und Forschung und finanziert von der Europäischen Union - NextGenerationEU.
 
-<div class="one-img">
+<div class="two-img">
     <figure class="license">
         <img alt="Fördergeber" src="/files/projects/oeb/bmbf_logo_new.jpg">
         <figcaption>BMBF</figcaption>
@@ -66,7 +66,3 @@ Open Educational Badges ist ein Gemeinschaftsprojekt von matrix Gruppe, mycelia.
         <figcaption>Fördergeber</figcaption>
     </figure>
 </div>
-
-## Partner
-
-## Mitmachen

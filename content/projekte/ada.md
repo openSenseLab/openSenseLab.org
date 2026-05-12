@@ -33,15 +33,22 @@ financing:
 cta: Mitmachen
 cta_text: |-
   Alle Informationen zum Projekt findest du auf der <a href="https://ai-data.academy">Projektseite</a>.
-more_text: |-
-  Alle Informationen zum Projekt findest du auf der <a href="https://ai-data.academy">Projektseite</a>.
+
+# more_text: |-
+#   Alle Informationen zum Projekt findest du auf der <a href="https://ai-data.academy">Projektseite</a>.
 ---
 
 # AI and Data Academy | ADA
 
+Das Projekt
+Die AI & Data Academy (ADA) ermöglicht Jugendlichen zwischen 12 und 16 Jahren einen praxisnahen Einstieg in die Welt der Informatik und der Künstlichen Intelligenz. In Workshops im Rahmen von KI-Days und einem großen KI-Festival lernen sie, wie KI funktioniert und wo sie im Alltag und in der Arbeitswelt eingesetzt wird. Dabei entwickeln die Teilnehmenden eigene Projekte, experimentieren mit Daten und erleben moderne Technologien aktiv. Ein besonderer Fokus liegt darauf, Chancen, Risiken und gesellschaftliche Auswirkungen von KI zu verstehen. Ziel ist es, Begeisterung für digitale Technologien zu wecken und junge Menschen zu befähigen, ihre digitale Zukunft selbst mitzugestalten.
+
+Die Strategie
+Die AI & Data Academy setzt auf eine enge Zusammenarbeit zwischen Bildung, Wissenschaft, Wirtschaft und Zivilgesellschaft. Durch praxisorientierte Lernformate und direkte Begegnungen mit Unternehmen aus der Region erleben Jugendliche KI als gestaltbare und relevante Technologie. Regionale KI-Days in Unternehmen und Organisationen machen Berufsperspektiven sichtbar und stärken den Transfer in die Praxis. Ergänzend werden offene Lernmaterialien und digitale Kompetenznachweise entwickelt, um nachhaltige Lernwege zu ermöglichen. Das abschließende KI-Festival vernetzt alle Beteiligten und schafft Raum für Austausch, Reflexion und neue Impulse.
+
 ## Veranstaltungen
 
-Im Zeitraum von 2026-2027 werden verschiedene Veranstaltungen und Workshops Jugendliche angeboten. Alle Informationen zu den Veranstaltungen findest du auf der [Projektseite](https://ai-data.academy/veranstaltungen/).
+Im Zeitraum von 2026-2027 werden verschiedene Veranstaltungen und Workshops Jugendliche angeboten. Alle Informationen zu den Veranstaltungen findest du auf der [Projektseite](https://ai-data.academy/).
 
 ## Förderung
 
