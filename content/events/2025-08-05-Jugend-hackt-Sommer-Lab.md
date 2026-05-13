@@ -15,7 +15,7 @@ tags:
     "Digitallabor",
     "Ferienprogramm",
   ]
-archive: false
+archive: true
 ---
 
 Lust auf Coden, Tüfteln und kreative Ideen in den Sommerferien? Mitten in den Ferien öffnen wir unseren Maker Space für alle zwischen 12 und 18 Jahren.

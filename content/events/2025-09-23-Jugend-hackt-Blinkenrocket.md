@@ -7,7 +7,7 @@ eventdateEnd: 2025-09-23 #end date
 location: "Digitallabor, Leonardo Campus 6a, 48149 Münster"
 link: https://jugendhackt.org/lab/muenster/
 tags: ["Jugend Hackt", "Workshop", "Blinkenrocket"]
-archive: false
+archive: true
 ---
 
 Löten, programmieren, leuchten lassen – die Blinkenrocket ist am Start! 🚀✨

@@ -1,0 +1,160 @@
+{{ define "title" }}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }} {{ define "head" }} {{ range .AlternativeOutputFormats -}}
+<link
+  rel="{{ .Rel }}"
+  type="{{ .MediaType.Type }}"
+  href="{{ .Permalink | safeURL }}"
+/>
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Params.img_header }}
+<meta property="og:image" content="{{ . }}" />
+{{ end }} {{ with .Params.meta }}
+<meta property="og:description" content="{{ . }}" />
+<meta name="description" content="{{ . }}" />
+{{ end }} {{ end }} {{ define "main" }}
+<main>
+  <section class="container l__projects js-shuffle">
+    <div class="row">
+      <h1 class="col col-12 col-sm-10 mb-2">
+        {{ if .Params.blurb }}{{ .Params.blurb }}{{ else }}{{ .Title }}{{ end }}
+      </h1>
+
+      <div class="events p-4" style="width: 100%">
+        <!-- responsive grid: 2 columns on typical content widths -->
+        <ul
+          style="
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+            gap: 16px;
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
+          "
+        >
+          {{/* Build a list of archived/past events */}} {{ $archive := slice }}
+          {{ $today := now.Format "2006-01-02" }} {{ $events := where
+          site.RegularPages "Section" "events" }} {{ range $events }} {{ $p := .
+          }} {{/* Flags and dates from front matter */}} {{ $flagArchive := or
+          ($p.Params.archive | default false) false }} {{ $singleDate :=
+          $p.Params.eventdate | default "" }} {{ $startDate :=
+          $p.Params.eventdatestart | default "" }} {{ $endDate :=
+          $p.Params.eventdateend | default "" }} {{/* Normalize to a start and
+          end time */}} {{ if $startDate }} {{ $start := time $startDate }} {{
+          $end := cond (ne $endDate "") (time $endDate) $start }} {{/* archive:
+          include if explicitly archived OR event ended before today */}} {{ if
+          or $flagArchive (lt ($end.Format "2006-01-02") $today) }} {{ $archive
+          = $archive | append (dict "page" $p "start" $start "end" $end) }} {{
+          end }} {{ else if $singleDate }} {{ $date := time $singleDate }} {{ if
+          or $flagArchive (lt ($date.Format "2006-01-02") $today) }} {{ $archive
+          = $archive | append (dict "page" $p "start" $date "end" $date) }} {{
+          end }} {{ else }} {{/* If no dates, include only when explicitly
+          flagged archived */}} {{ if $flagArchive }} {{ $archive = $archive |
+          append (dict "page" $p "start" (time $p.Date) "end" (time $p.Date)) }}
+          {{ end }} {{ end }} {{ end }} {{/* Sort most recent first
+          (descending), with year headers */}} {{ $currentYear := "" }} {{ range
+          sort $archive "start" "desc" }} {{ $event := .page }} {{ $start :=
+          .start }} {{ $end := .end }} {{ $year := $start | time.Format "2006"
+          }} {{ if ne $year $currentYear }} {{ $currentYear = $year }}
+          <li style="grid-column: 1 / -1; margin: 8px 0 0 0">
+            <h2 class="mt-3 mb-2">{{ $year }}</h2>
+          </li>
+          {{ end }}
+
+          <li>
+            <div
+              class="card p-2"
+              style="
+                border: 1px solid #ddd;
+                border-radius: 12px;
+                box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+              "
+            >
+              <div class="card-body p-2">
+                <h3 class="card-title mb-1" style="font-size: 1.1rem">
+                  <a href="{{ $event.Permalink }}">{{ $event.Title }}</a>
+                </h3>
+
+                <div
+                  class="d-flex justify-content-start align-items-center py-1"
+                >
+                  <h4
+                    class="card-subtitle text-muted pr-2"
+                    style="font-size: 0.95rem"
+                  >
+                    {{ if eq $start $end }} {{ $start | time.Format ":date_long"
+                    }} {{ else }} {{ printf "%s – %s" ($start | time.Format
+                    ":date_long") ($end | time.Format ":date_long") }} {{ end }}
+                  </h4>
+
+                  <div>
+                    {{ range $event.Params.tags }}
+                    <span
+                      class="badge"
+                      style="
+                        background-color: rgb(78, 175, 71);
+                        color: white;
+                        padding: 2px 8px;
+                        margin: 2px;
+                        border: 1px solid #ddd;
+                        border-radius: 12px;
+                        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+                      "
+                    >
+                      {{ . }}
+                    </span>
+                    {{ end }}
+                  </div>
+                </div>
+
+                {{ with $event.Params.location }}
+                <h4
+                  class="card-subtitle text-muted py-1"
+                  style="font-size: 0.95rem"
+                >
+                  <strong>@</strong> {{ . }}
+                </h4>
+                {{ end }}
+
+                <p class="card-text py-1" style="margin-bottom: 0.5rem">
+                  {{ with $event.Params.summary }}{{ . | markdownify }}{{ else
+                  }}{{ $event.Summary }}{{ end }}
+                </p>
+                <div class="py-1">
+                  <a
+                    class="btn btn-sm btn-outline-primary mr-2"
+                    href="{{ $event.Permalink }}"
+                  >
+                    {{ i18n "details" | default "Details" }}
+                  </a>
+                  {{ with $event.Params.link }}
+                  <a
+                    class="btn btn-sm btn-primary"
+                    href="{{ . }}"
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    {{ i18n "external_link" | default "Externe Seite" }}
+                  </a>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </li>
+          {{ end }} {{ if eq (len $archive) 0 }}
+          <li style="grid-column: 1 / -1">
+            <div class="p-3 text-muted">
+              {{ i18n "no_archived_events" | default "No archived events yet."
+              }}
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

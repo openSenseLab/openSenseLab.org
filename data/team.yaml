@@ -105,7 +105,7 @@
 
 - name: Timber Borner
   img: timber.jpeg
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Softwareentwickler*in und Mentor*in
@@ -171,7 +171,7 @@
 
 - name: Sandra-Marie Olijslager
   img: SandraMarieOlijslager.jpg
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Kommunkationsmangerin
@@ -250,3 +250,15 @@
   twitter:
   website:
   github:
+  
+- name: Kalle Kröger
+  img: Kalle_Kroeger.jpg
+  staff: 1
+  board: 0
+  position: Produktentwickler
+  position_en: product developer
+  bio: "Kalle hat 2025 seinen Master im Produktdesign abgeschlossen und unterstützt das openSenseLab mit seiner Expertise in 3D-Druck und Konstruktion. Durch sein Auslandssemester mit dem Titel ´Creative Design and Technologies` schlägt er die Brücke zwischen Technik und Gestaltung und entwickelt modulare Bildungsangebote."
+  mail: kalle.kroeger@opensenselab.org
+  twitter:
+  website: https://www.kallescompany.de/
+  github: kalle253
