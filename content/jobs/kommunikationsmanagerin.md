@@ -1,7 +1,7 @@
 ---
 authors:
   - Mario
-date: 2030-01-01
+date: 2026-06-09
 image:
   src: /files/blog/2023/2023-04-18-jugendhackt-hackathon/gruppenbild.jpeg
   title: Jugend hackt Hackathon im Digitallabor
@@ -9,7 +9,7 @@ image:
 title: "Gesucht: Werkstudent*in für Kommunikationsmanagement in Münster"
 ---
 
-### Um unser Team in Sachen Kommunikation, Social Media und Veranstaltungen zu unterstützen, suchen wir ab sofort eine/n Werkstudent\*in für Kommunkationsmanagement mit 8-12h/Woche in Münster.
+### Um unser Team in Sachen Kommunikation, Social Media und Veranstaltungen zu unterstützen, suchen wir ab sofort eine/n Werkstudent\*in für Kommunkationsmanagement mit 8-10h/Woche in Münster.
 
 #### Über uns
 
@@ -17,13 +17,13 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 
 #### Was wir bieten
 
-- Ein spannendes Start-Up im Bildungsbereich in Münster
+- Ein spannendes gemeinnütziges Unternehmen im Bildungsbereich in Münster
 - Abwechslungsreiche Tätigkeiten in den Bereichen Redaktion, PR, Social Media, E-Mail-Marketing, Webseitengestaltung und Eventorganisation
 - Ein aufgeschlossenes Team, das sich gegenseitig inspiriert
 - Die Chance deine eigenen Ideen in die Tat umzusetzen
 - Einblick in das Thema Digitalisierung in der Bildung
 - Eine steile Lernkurve durch selbständiges Arbeiten
-- Einen flexiblen Arbeitsvertrag mit 8-12 h/Woche, mit einer Vergütung von 15€/h
+- Einen flexiblen Arbeitsvertrag mit 8-10 h/Woche, mit einer Vergütung von 16€/h
 
 #### Deine Aufgaben
 
@@ -31,7 +31,8 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Verfassen von Texten für Websites, Newsletter und Printprodukte
 - Erstellen von Flyern, Broschüren und anderen Publikationen
 - Pflege der Websites für das Jugend hackt Lab, Code Week Münsterland und unsere eigene Website
-- Unterstützung bei der Planung, Durchführung und Nachbereitung von Veranstaltungen und Aktionen
+- Unterstützung bei der Planung, Durchführung und Nachbereitung von Veranstaltungen und Aktionen in unseren Projekten
+- Unterstützung bei der Betreuung unserer Social Media Kanäle
 
 #### Was wir suchen
 
@@ -43,7 +44,7 @@ Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten 
 
 - Umgang mit gängigen Software Tools (z.B. Canva, Affinity oder Adobe Creative Cloud)
 - Erfahrung mit der Betreuung von Social Media Kanälen
-- Erfahrung mit WordPress und/oder Typo3
+- Erfahrung mit WordPress, Typo3 oder anderen Content Management Systemen
 - Einen ästhetischen Blick, Lust selbst zu gestalten und zu layouten, sowie Freude am Fotografieren/Filmen
 
 ### Was musst du jetzt wissen
