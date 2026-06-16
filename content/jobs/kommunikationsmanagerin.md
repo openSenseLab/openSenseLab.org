@@ -23,7 +23,7 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 - Die Chance deine eigenen Ideen in die Tat umzusetzen
 - Einblick in das Thema Digitalisierung in der Bildung
 - Eine steile Lernkurve durch selbständiges Arbeiten
-- Einen flexiblen Arbeitsvertrag mit 8-10 h/Woche, mit einer Vergütung von 16€/h
+- Einen flexiblen Arbeitsvertrag mit 8-10 h/Woche, mit einer Vergütung von 16 €/h
 
 #### Deine Aufgaben
 
@@ -42,7 +42,7 @@ Die openSenseLab gGmbH ist eine im Jahr 2021 aus der Universität Münster ausg
 
 Am besten bringst du mindestens eine der folgenden Kenntnisse oder Fähigkeiten mit:
 
-- Umgang mit gängigen Software Tools (z.B. Canva, Affinity oder Adobe Creative Cloud)
+- Umgang mit gängigen Software-Tools (z.B. Canva, Affinity oder Adobe Creative Cloud)
 - Erfahrung mit der Betreuung von Social Media Kanälen
 - Erfahrung mit WordPress, Typo3 oder anderen Content Management Systemen
 - Einen ästhetischen Blick, Lust selbst zu gestalten und zu layouten, sowie Freude am Fotografieren/Filmen
