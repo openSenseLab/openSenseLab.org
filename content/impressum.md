@@ -6,8 +6,8 @@ meta: openSenseLab gGmbH Impressum, Adresse, Datenschutzerklärung
 ### Anbieter
 
 openSenseLab gGmbH  
-Von-Steuben-Str. 21  
-48143 Münster
+Johann-Krane-Weg 23
+48149 Münster
 
 Vertreten durch:  
 Geschäftsführung: Dr. Thomas Bartoschek, Mario Pesch
@@ -38,8 +38,8 @@ Geltungsbereich: Deutschland
 ### Inhaltlich verantwortliche Person gem. § 18 Abs. 2 MStV
 
 Mario Pesch  
-Von-Steuben-Str. 21  
-48143 Münster
+Johann-Krane-Weg 23  
+48149 Münster
 
 ### Angaben zu audiovisuellen Mediendiensten
 
