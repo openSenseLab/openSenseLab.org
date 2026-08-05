@@ -241,7 +241,7 @@
 - name: Jerry Vincent
   img: Jerry.png
   mentor: 0
-  staff: 1
+  staff: 0
   advisory: 0
   position: Werkstudent*in Softwareentwicklung
   position_en:
@@ -250,7 +250,7 @@
   twitter:
   website:
   github:
-  
+
 - name: Kalle Kröger
   img: Kalle_Kroeger.jpg
   staff: 1
