@@ -4,7 +4,7 @@ blurb: Unterstütze uns und unsere Arbeit!
 meta: openSenseLab unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation
 bank_name: "Überweisung"
-bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
+bank_text: "Leider wurde unser Konto für einen Anlagebetrug missbräuchlich verwendet. Wenn Sie auf unserer Seite gelandet sind, weil Sie Krypto-Investments tätigen möchten und in diesem Zusammenhang Geld auf unser Konto überweisen sollen, sind Sie betroffen. Unsere Organisation hat damit nichts zu tun! Überweisen Sie in diesem Fall kein Geld auf unser Konto. Falls Sie per Überweisung spenden möchten und die Kontodaten benötigen, wenden Sie sich bitte an: info@opensenselab.org"
 img_header: /images/donate_opensensemap.jpeg
 paypal_name:
 paypal_text:
@@ -23,13 +23,13 @@ Daher brauchen wir dringend Eure Unterstützung!
 Bitte spendet jetzt für die openSenseMap.org über das Spendenportal betterplace.
 Wir freuen uns auch über Eure Mitarbeit am Code und der Dokumentation.
 
-Neben der openSenseMap bieten wir mit dem [Jugend hackt Lab Münster]() und dem [Code Week RegioHub Münsterland]() ein regelmäßiges Bildungsangebot rund um Coding, Tüfteln und Making für Kinder und Jugendliche in Münster und dem gesamten Münsterland. 
+Neben der openSenseMap bieten wir mit dem [Jugend hackt Lab Münster]() und dem [Code Week RegioHub Münsterland]() ein regelmäßiges Bildungsangebot rund um Coding, Tüfteln und Making für Kinder und Jugendliche in Münster und dem gesamten Münsterland.
 
 Mit Deiner Spende unterstüzt du uns und ermöglichst:
 
-* Bildungsangebote für Kinder und Jugendliche kostenfrei und verstetigt durchzuführen
-* den Betrieb und Wartung der openSenseMap als freie, kostenlose und offene Umweltdatenplattform
-* die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
+- Bildungsangebote für Kinder und Jugendliche kostenfrei und verstetigt durchzuführen
+- den Betrieb und Wartung der openSenseMap als freie, kostenlose und offene Umweltdatenplattform
+- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
 
 Danke!
 
