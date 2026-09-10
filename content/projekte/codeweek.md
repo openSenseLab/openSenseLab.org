@@ -13,9 +13,9 @@ weight: 6
 title: CodeWeek Regio Hub
 background: backgrounds/jugendhackt.jpg
 website: https://muensterland.codeweek.de
-img: projects/cw/CW-Muensterland-Prev-08.jpeg
-img_square: projects/cw/CW-Muensterland-Prev-05.png
-img_header: projects/cw/CW-Muensterland-Prev-05.png
+img: projects/cw/CW-Münsterland-2026.png
+img_square: projects/cw/CW-Münsterland-2026.png
+img_header: projects/cw/CW-Münsterland-2026.png
 people:
   - name: Mario Pesch
     role: Projektleitung
@@ -24,34 +24,26 @@ years: 2022 - heute
 financing:
 contact:
   twitter: CodeWeekGermany
-  facebook: 
+  facebook:
   mailinglist: https://muensterland.codeweek.de
   website: https://muensterland.codeweek.de
 
 subtitle: Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern.
 cta: Teilnehmen
 cta_text: |-
-    Du kannst Teil der Code Week werden und einen eigenen Workshop anbieten. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
+  Du kannst Teil der Code Week werden und einen eigenen Workshop anbieten. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:mario.pesch@opensenselab.org">Kontaktaufnahme</a>.
 more_text: |-
-    Weitere Infos gibt es auf unserer <a href="https://muensterland.codeweek.de/">Website der Code Week Münsterland</a> oder auf der <a href="https://codeweek.de/">Website der Code Week Deutschland</a>.
-
+  Weitere Infos gibt es auf unserer <a href="https://muensterland.codeweek.de/">Website der Code Week Münsterland</a> oder auf der <a href="https://codeweek.de/">Website der Code Week Deutschland</a>.
 ---
 
-
-Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern. 
+Jedes Jahr im Herbst engagieren sich Hunderte Menschen und Initiativen in ganz Europa, um Kinder und Jugendliche für die digitale Welt zu begeistern.
 In Deutschland wird die Code Week regional von einzelnen Inititative, den Code Week Regio Hubs, organisiert.
 Seit Juni 2022 sind wir Teil dieses tollen Netzwerks und engagieren uns für die Code Week im Münsterland.
 
-
-
-Die Code Week Münsterland wird in diesem Jahr vom 12.10.-27.10.24 stattfinden und alle Veranstaltungen findet ihr auf unserer Seite unter: https://muensterland.codeweek.de
-
-
-
+Die Code Week Münsterland wird in diesem Jahr vom 10.10.-25.10.26 stattfinden und alle Veranstaltungen findet ihr auf unserer Seite unter: https://muensterland.codeweek.de
 
 **Ressourcen**<br>
-+ [Code Week Germany](http://www.codeweek.de.jugendhackt.de/) <br>
-+ [Code Week Münsterland](https://muensterland.codeweek.de/)<br>
-+ [Code Week Europe](https://codeweek.eu)<br>
 
-
+- [Code Week Germany](http://www.codeweek.de.jugendhackt.de/) <br>
+- [Code Week Münsterland](https://muensterland.codeweek.de/)<br>
+- [Code Week Europe](https://codeweek.eu)<br>
