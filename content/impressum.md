@@ -6,7 +6,7 @@ meta: openSenseLab gGmbH Impressum, Adresse, Datenschutzerklärung
 ### Anbieter
 
 openSenseLab gGmbH  
-Johann-Krane-Weg 23
+Johann-Krane-Weg 23<br>
 48149 Münster
 
 Vertreten durch:  
