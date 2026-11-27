@@ -1,0 +1,37 @@
+{{/*
+  Splits all event pages into upcoming and past events, based on the
+  build date. Usage:
+
+    {{ $events := partial "events/collect.html" . }}
+    {{ $events.upcoming }}  -> sorted ascending (next event first)
+    {{ $events.past }}      -> sorted descending (most recent first)
+
+  Each entry is a dict with "page", "start" and "end".
+
+  An event counts as past once its end date (eventdateend, otherwise
+  eventdatestart / eventdate) is before today. The front matter flag
+  `archive` is only used for events without any event date.
+*/}}
+{{ $upcoming := slice }}
+{{ $past := slice }}
+{{ $today := now.Format "2006-01-02" }}
+{{ range where site.RegularPages "Section" "events" }}
+  {{ $p := . }}
+  {{ $single := $p.Params.eventdate | default "" }}
+  {{ $startDate := $p.Params.eventdatestart | default $single }}
+  {{ $endDate := $p.Params.eventdateend | default "" }}
+  {{ if $startDate }}
+    {{ $start := time $startDate }}
+    {{ $end := $start }}
+    {{ with $endDate }}{{ $end = time . }}{{ end }}
+    {{ $entry := dict "page" $p "start" $start "end" $end }}
+    {{ if lt ($end.Format "2006-01-02") $today }}
+      {{ $past = $past | append $entry }}
+    {{ else }}
+      {{ $upcoming = $upcoming | append $entry }}
+    {{ end }}
+  {{ else if $p.Params.archive }}
+    {{ $past = $past | append (dict "page" $p "start" $p.Date "end" $p.Date) }}
+  {{ end }}
+{{ end }}
+{{ return dict "upcoming" (sort $upcoming "start" "asc") "past" (sort $past "start" "desc") }}
