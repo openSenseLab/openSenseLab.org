@@ -23,20 +23,8 @@
       </h1>
       <div class="events p-4" style="width: 100%">
         <ul>
-          {{ $allEvents := slice }} {{ $now := now.Format "2006-01-02" }} {{
-          range .Pages }} {{ $event := . }} {{ $isArchived := or
-          ($event.Params.archive | default false) false }} {{ if not $isArchived
-          }} {{ $singleDate := $event.Params.eventdate | default "" }} {{
-          $startDate := $event.Params.eventdatestart | default "" }} {{ $endDate
-          := $event.Params.eventdateend | default "" }} {{ if $startDate }} {{
-          $start := time $startDate }} {{ $end := cond (ne $endDate "") (time
-          $endDate) $start }} {{ if ge ($end.Format "2006-01-02") $now }} {{
-          $allEvents = $allEvents | append (dict "page" $event "start" $start
-          "end" $end) }} {{ end }} {{ else if $singleDate }} {{ $date := time
-          $singleDate }} {{ if ge ($date.Format "2006-01-02") $now }} {{
-          $allEvents = $allEvents | append (dict "page" $event "start" $date
-          "end" $date) }} {{ end }} {{ end }} {{ end }} {{ end }} {{ range sort
-          $allEvents "start" "asc" }} {{ $event := .page }} {{ $start := .start
+          {{ $events := partial "events/collect.html" . }}
+          {{ range $events.upcoming }} {{ $event := .page }} {{ $start := .start
           }} {{ $end := .end }}
           <li>
             <div

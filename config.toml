@@ -3,6 +3,7 @@ languageCode = "de-DE"
 title = "openSenseLab gGmbH"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
+timeZone = "Europe/Berlin"
 
 [params]
   twitter = "opensenselab"
